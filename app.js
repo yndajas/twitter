@@ -1,4 +1,11 @@
-let results;
+const elements = {
+  browse: document.getElementById("browse"),
+  browseOutput: document.getElementById("browse-output"),
+  browseTab: document.getElementById("browse-tab"),
+  search: document.getElementById("search"),
+  searchOutput: document.getElementById("search-output"),
+  searchTab: document.getElementById("search-tab"),
+};
 
 var index = new FlexSearch.Document({
   encode: function (str) {
@@ -13,23 +20,48 @@ var index = new FlexSearch.Document({
   },
 });
 
-const searchInput = document.getElementById("search-input");
-
-function processData(data) {
-  for (doc of data) {
-    index.add({
-      id_str: doc.id_str,
-      created_at: doc.created_at,
-      full_text: doc.full_text,
-      favorite_count: doc.favorite_count,
-      retweet_count: doc.retweet_count,
-    });
-  }
-  document.getElementById("loading").hidden = true;
+for (doc of documents) {
+  index.add({
+    id_str: doc.id_str,
+    created_at: doc.created_at,
+    full_text: doc.full_text,
+    favorite_count: doc.favorite_count,
+    retweet_count: doc.retweet_count,
+  });
 }
 
-processData(searchDocuments);
-let browseDocuments = searchDocuments.sort(function (a, b) {
+document.getElementById("loading").hidden = true;
+
+function sortDocuments(documentsToSort, sorting) {
+  switch (sorting) {
+    case "most-popular":
+      documentsToSort.sort(function (a, b) {
+        return (
+          +b.favorite_count +
+          +b.retweet_count -
+          (+a.favorite_count + +a.retweet_count)
+        );
+      });
+      break;
+    case "most-relevant":
+      documentsToSort.sort(function (a, b) {
+        return a.index - b.index;
+      });
+      break;
+    case "newest-first":
+      documentsToSort.sort(function (a, b) {
+        return new Date(b.created_at) - new Date(a.created_at);
+      });
+      break;
+    case "oldest-first":
+      documentsToSort.sort(function (a, b) {
+        return new Date(a.created_at) - new Date(b.created_at);
+      });
+      break;
+  }
+}
+
+let browseDocuments = documents.toSorted(function (a, b) {
   return (
     +b.favorite_count +
     +b.retweet_count -
@@ -37,132 +69,7 @@ let browseDocuments = searchDocuments.sort(function (a, b) {
   );
 });
 
-function sortResults(criterion) {
-  if (criterion === "newest-first") {
-    results = results.sort(function (a, b) {
-      return new Date(b.created_at) - new Date(a.created_at);
-    });
-    renderResults();
-  }
-  if (criterion === "oldest-first") {
-    results = results.sort(function (a, b) {
-      return new Date(a.created_at) - new Date(b.created_at);
-    });
-    renderResults();
-  }
-  if (criterion === "most-relevant") {
-    results = results.sort(function (a, b) {
-      return a.index - b.index;
-    });
-    renderResults();
-  }
-  if (criterion === "most-popular") {
-    results = results.sort(function (a, b) {
-      return (
-        +b.favorite_count +
-        +b.retweet_count -
-        (+a.favorite_count + +a.retweet_count)
-      );
-    });
-    renderResults();
-  }
-  if (criterion === "newest-first-browse") {
-    browseDocuments = browseDocuments.sort(function (a, b) {
-      return new Date(b.created_at) - new Date(a.created_at);
-    });
-    renderBrowse();
-  }
-  if (criterion === "oldest-first-browse") {
-    browseDocuments = browseDocuments.sort(function (a, b) {
-      return new Date(a.created_at) - new Date(b.created_at);
-    });
-    renderBrowse();
-  }
-  if (criterion === "most-popular-browse") {
-    browseDocuments = browseDocuments.sort(function (a, b) {
-      return (
-        +b.favorite_count +
-        +b.retweet_count -
-        (+a.favorite_count + +a.retweet_count)
-      );
-    });
-    renderBrowse();
-  }
-}
-
-function renderResults() {
-  const output = results.map((item) =>
-    `<p class="search_item"><div class="search_link"><a href="yndajas/status/${
-      item.id_str
-    }">link</a></div> <div class="search_text">${
-      item.full_text
-    }</div><div class="search_time">${new Date(
-      item.created_at
-    ).toLocaleString()}</div><hr class="search_divider" /></p>`.replace(
-      /\.\.\/\.\.\/tweets_media\//g,
-      "yndajas/tweets_media/"
-    )
-  );
-  document.getElementById("output").innerHTML = output.join("");
-  if (results.length > 0) {
-    document.getElementById("output").innerHTML +=
-      '<a href="#tabs">top &uarr;</a>';
-  }
-}
-
-function onSearchChange(e) {
-  results = index.search(e.target.value, { enrich: true });
-  if (results.length > 0) {
-    // limit search results to the top 100 by relevance
-    results = results.slice(0, 100);
-    // preserve original search result order in the 'index' variable since that is ordered by relevance
-    results = results[0].result.map((item, index) => {
-      let result = item.doc;
-      result.index = index;
-      return result;
-    });
-  }
-  renderResults();
-}
-searchInput.addEventListener("input", onSearchChange);
-
-function searchTab() {
-  const clickedTab = document.getElementById("search-tab");
-  clickedTab.classList.add("active");
-  const otherTab = document.getElementById("browse-tab");
-  otherTab.classList.remove("active");
-  document.getElementById("browse").hidden = true;
-  document.getElementById("search").hidden = false;
-}
-
-function browseTab() {
-  const clickedTab = document.getElementById("browse-tab");
-  clickedTab.classList.add("active");
-  const otherTab = document.getElementById("search-tab");
-  otherTab.classList.remove("active");
-  const searchContent = document.getElementById("search");
-  document.getElementById("search").hidden = true;
-  document.getElementById("browse").hidden = false;
-}
-
-const pageSize = 50;
-const pageMax = Math.floor(browseDocuments.length / pageSize) + 1;
-let page = 1;
-let browseIndex = (page - 1) * pageSize;
-
-function onPageNumChange(e) {
-  page = e.target.value;
-  browseIndex = (page - 1) * pageSize;
-  renderBrowse();
-}
-
-document.getElementById("page-total").innerText = pageMax;
-document.getElementById("page-num").addEventListener("input", onPageNumChange);
-document.getElementById("page-num").value = +page;
-document.getElementById("page-num").max = pageMax;
-document.getElementById("page-num").min = 1;
-
-function renderBrowse() {
+function renderBrowseDocuments() {
   const output = browseDocuments
     .slice(browseIndex, browseIndex + pageSize)
     .map((item) =>
@@ -177,9 +84,91 @@ function renderBrowse() {
         "yndajas/tweets_media/"
       )
     );
-  document.getElementById("browse-output").innerHTML = output.join("");
-  document.getElementById("browse-output").innerHTML +=
-    '<a href="#tabs">top &uarr;</a>';
+  elements.browseOutput.innerHTML = `${output.join(
+    ""
+  )}<a href="#tabs">top &uarr;</a>`;
 }
 
-renderBrowse();
+function sortBrowseDocuments(sorting) {
+  sortDocuments(browseDocuments, sorting);
+  renderBrowseDocuments();
+}
+
+let searchDocuments;
+
+function renderSearchDocuments() {
+  const output = searchDocuments.map((item) =>
+    `<p class="search_item"><div class="search_link"><a href="yndajas/status/${
+      item.id_str
+    }">link</a></div> <div class="search_text">${
+      item.full_text
+    }</div><div class="search_time">${new Date(
+      item.created_at
+    ).toLocaleString()}</div><hr class="search_divider" /></p>`.replace(
+      /\.\.\/\.\.\/tweets_media\//g,
+      "yndajas/tweets_media/"
+    )
+  );
+  elements.searchOutput.innerHTML = output.join("");
+  if (searchDocuments.length > 0) {
+    elements.searchOutput.innerHTML += '<a href="#tabs">top &uarr;</a>';
+  }
+}
+
+function sortSearchDocuments(sorting) {
+  sortDocuments(searchDocuments, sorting);
+  renderSearchDocuments();
+}
+
+function onSearchChange(e) {
+  searchDocuments = index.search(e.target.value, { enrich: true });
+  if (searchDocuments.length > 0) {
+    // limit search results to the top 100 by relevance
+    searchDocuments = searchDocuments.slice(0, 100);
+    // preserve original search result order in the 'index' variable since that is ordered by relevance
+    searchDocuments = searchDocuments[0].result.map((item, index) => {
+      let result = item.doc;
+      result.index = index;
+      return result;
+    });
+  }
+  renderSearchDocuments();
+}
+
+document
+  .getElementById("search-input")
+  .addEventListener("input", onSearchChange);
+
+function selectSearchTab() {
+  elements.searchTab.classList.add("active");
+  elements.browseTab.classList.remove("active");
+  elements.browse.hidden = true;
+  elements.search.hidden = false;
+}
+
+function selectBrowseTab() {
+  elements.browseTab.classList.add("active");
+  elements.searchTab.classList.remove("active");
+  elements.search.hidden = true;
+  elements.browse.hidden = false;
+}
+
+const pageSize = 50;
+const pageMax = Math.floor(browseDocuments.length / pageSize) + 1;
+document.getElementById("page-total").innerText = pageMax;
+let page = 1;
+let browseIndex = (page - 1) * pageSize;
+
+function onPageNumChange(e) {
+  page = e.target.value;
+  browseIndex = (page - 1) * pageSize;
+  renderBrowseDocuments();
+}
+
+const pageNumElement = document.getElementById("page-num");
+pageNumElement.addEventListener("input", onPageNumChange);
+pageNumElement.value = +page;
+pageNumElement.max = pageMax;
+pageNumElement.min = 1;
+
+renderBrowseDocuments();
