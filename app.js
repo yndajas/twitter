@@ -5,6 +5,15 @@ const elements = {
   search: document.getElementById("search"),
   searchOutput: document.getElementById("search-output"),
   searchTab: document.getElementById("search-tab"),
+  sort: {
+    browseMostPopular: document.getElementById("browse-sort__most-popular"),
+    browseNewestFirst: document.getElementById("browse-sort__newest-first"),
+    browseOldestFirst: document.getElementById("browse-sort__oldest-first"),
+    searchMostPopular: document.getElementById("search-sort__most-popular"),
+    searchMostRelevant: document.getElementById("search-sort__most-relevant"),
+    searchNewestFirst: document.getElementById("search-sort__newest-first"),
+    searchOldestFirst: document.getElementById("search-sort__oldest-first"),
+  },
 };
 
 var index = new FlexSearch.Document({
@@ -34,7 +43,7 @@ document.getElementById("loading").hidden = true;
 
 function sortDocuments(documentsToSort, sorting) {
   switch (sorting) {
-    case "most-popular":
+    case "MostPopular":
       documentsToSort.sort(function (a, b) {
         return (
           +b.favorite_count +
@@ -43,22 +52,38 @@ function sortDocuments(documentsToSort, sorting) {
         );
       });
       break;
-    case "most-relevant":
+    case "MostRelevant":
       documentsToSort.sort(function (a, b) {
         return a.index - b.index;
       });
       break;
-    case "newest-first":
+    case "NewestFirst":
       documentsToSort.sort(function (a, b) {
         return new Date(b.created_at) - new Date(a.created_at);
       });
       break;
-    case "oldest-first":
+    case "OldestFirst":
       documentsToSort.sort(function (a, b) {
         return new Date(a.created_at) - new Date(b.created_at);
       });
       break;
   }
+}
+
+function displayActiveSort(activeSortButtonElement) {
+  Object.values(elements.sort).forEach((sortButtonElement) => {
+    if (
+      sortButtonElement === activeSortButtonElement &&
+      !sortButtonElement.classList.contains("active")
+    ) {
+      sortButtonElement.classList.add("active");
+    } else if (
+      sortButtonElement.classList.contains("active") &&
+      sortButtonElement !== activeSortButtonElement
+    ) {
+      sortButtonElement.classList.remove("active");
+    }
+  });
 }
 
 let browseDocuments = documents.toSorted(function (a, b) {
@@ -92,6 +117,7 @@ function renderBrowseDocuments() {
 function sortBrowseDocuments(sorting) {
   sortDocuments(browseDocuments, sorting);
   renderBrowseDocuments();
+  displayActiveSort(elements.sort[`browse${sorting}`]);
 }
 
 let searchDocuments;
@@ -118,6 +144,7 @@ function renderSearchDocuments() {
 function sortSearchDocuments(sorting) {
   sortDocuments(searchDocuments, sorting);
   renderSearchDocuments();
+  displayActiveSort(elements.sort[`search${sorting}`]);
 }
 
 function onSearchChange(e) {

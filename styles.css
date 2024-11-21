@@ -23,6 +23,9 @@ body {
 .sorting > button {
   font-size: 1.0em;
 }
+.sorting .active {
+  text-decoration: underline;
+}
 .wrapper {
   display: block;
   max-width: 600px;
