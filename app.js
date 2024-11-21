@@ -6,13 +6,17 @@ const elements = {
   searchOutput: document.getElementById("search-output"),
   searchTab: document.getElementById("search-tab"),
   sort: {
-    browseMostPopular: document.getElementById("browse-sort__most-popular"),
-    browseNewestFirst: document.getElementById("browse-sort__newest-first"),
-    browseOldestFirst: document.getElementById("browse-sort__oldest-first"),
-    searchMostPopular: document.getElementById("search-sort__most-popular"),
-    searchMostRelevant: document.getElementById("search-sort__most-relevant"),
-    searchNewestFirst: document.getElementById("search-sort__newest-first"),
-    searchOldestFirst: document.getElementById("search-sort__oldest-first"),
+    browse: {
+      mostPopular: document.getElementById("browse-sort__most-popular"),
+      newestFirst: document.getElementById("browse-sort__newest-first"),
+      oldestFirst: document.getElementById("browse-sort__oldest-first"),
+    },
+    search: {
+      mostPopular: document.getElementById("search-sort__most-popular"),
+      mostRelevant: document.getElementById("search-sort__most-relevant"),
+      newestFirst: document.getElementById("search-sort__newest-first"),
+      oldestFirst: document.getElementById("search-sort__oldest-first"),
+    },
   },
 };
 
@@ -43,7 +47,7 @@ document.getElementById("loading").hidden = true;
 
 function sortDocuments(documentsToSort, sorting) {
   switch (sorting) {
-    case "MostPopular":
+    case "mostPopular":
       documentsToSort.sort(function (a, b) {
         return (
           +b.favorite_count +
@@ -52,17 +56,17 @@ function sortDocuments(documentsToSort, sorting) {
         );
       });
       break;
-    case "MostRelevant":
+    case "mostRelevant":
       documentsToSort.sort(function (a, b) {
         return a.index - b.index;
       });
       break;
-    case "NewestFirst":
+    case "newestFirst":
       documentsToSort.sort(function (a, b) {
         return new Date(b.created_at) - new Date(a.created_at);
       });
       break;
-    case "OldestFirst":
+    case "oldestFirst":
       documentsToSort.sort(function (a, b) {
         return new Date(a.created_at) - new Date(b.created_at);
       });
@@ -70,16 +74,16 @@ function sortDocuments(documentsToSort, sorting) {
   }
 }
 
-function displayActiveSort(activeSortButtonElement) {
-  Object.values(elements.sort).forEach((sortButtonElement) => {
+function displayActiveSort(context, sorting) {
+  Object.values(elements.sort[context]).forEach((sortButtonElement) => {
     if (
-      sortButtonElement === activeSortButtonElement &&
+      sortButtonElement === elements.sort[context][sorting] &&
       !sortButtonElement.classList.contains("active")
     ) {
       sortButtonElement.classList.add("active");
     } else if (
       sortButtonElement.classList.contains("active") &&
-      sortButtonElement !== activeSortButtonElement
+      sortButtonElement !== elements.sort[context][sorting]
     ) {
       sortButtonElement.classList.remove("active");
     }
@@ -117,7 +121,7 @@ function renderBrowseDocuments() {
 function sortBrowseDocuments(sorting) {
   sortDocuments(browseDocuments, sorting);
   renderBrowseDocuments();
-  displayActiveSort(elements.sort[`browse${sorting}`]);
+  displayActiveSort("browse", sorting);
 }
 
 let searchDocuments;
@@ -144,7 +148,7 @@ function renderSearchDocuments() {
 function sortSearchDocuments(sorting) {
   sortDocuments(searchDocuments, sorting);
   renderSearchDocuments();
-  displayActiveSort(elements.sort[`search${sorting}`]);
+  displayActiveSort("search", sorting);
 }
 
 function onSearchChange(e) {
