@@ -32,7 +32,7 @@ function processData(data) {
 
 processData(searchDocuments);
 let browseDocuments = searchDocuments.sort(function(a,b){
-  return new Date(b.created_at) - new Date(a.created_at);
+  return (+b.favorite_count + +b.retweet_count) - (+a.favorite_count + +a.retweet_count);
 });
 
 function sortResults(criterion) {
