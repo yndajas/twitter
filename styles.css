@@ -3,6 +3,9 @@ body {
   font-family: sans-serif;
   font-size: 1.2em;
 }
+#intro p:not(:last-child) {
+  margin-bottom: 16px;
+}
 #search-input {
   font-size: 1.5em;
   width: 100%;
