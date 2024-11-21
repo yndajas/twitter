@@ -31,24 +31,21 @@
           <hr class="hr" />
           <p id="loading">Loading documents...</p>
           <div id="browse">
-            <div id="browse-sort">
+            <div class="sorting">
               Sort by:
               <button
-                class="sort-button"
                 onclick="sortBrowseDocuments('most-popular')"
               >
                 most popular
               </button>
               |
               <button
-                class="sort-button-browse"
                 onclick="sortBrowseDocuments('newest-first')"
               >
                 newest first
               </button>
               |
               <button
-                class="sort-button-browse"
                 onclick="sortBrowseDocuments('oldest-first')"
               >
                 oldest first
@@ -62,31 +59,27 @@
           </div>
           <div id="search" hidden>
             <input id="search-input" type="search" />
-            <div id="sorting">
+            <div class="sorting">
               Sort by:
               <button
-                class="sort-button"
                 onclick="sortSearchDocuments('most-relevant')"
               >
                 most relevant
               </button>
               |
               <button
-                class="sort-button"
                 onclick="sortSearchDocuments('most-popular')"
               >
                 most popular
               </button>
               |
               <button
-                class="sort-button"
                 onclick="sortSearchDocuments('newest-first')"
               >
                 newest first
               </button>
               |
               <button
-                class="sort-button"
                 onclick="sortSearchDocuments('oldest-first')"
               >
                 oldest first

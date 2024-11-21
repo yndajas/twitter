@@ -16,11 +16,11 @@ body {
 .search_link {
   display: inline;
 }
-#sorting {
+.sorting {
   margin-top: 8px;
   line-height: 1.7em;
 }
-.sort-button {
+.sorting > button {
   font-size: 1.0em;
 }
 .wrapper {
@@ -170,15 +170,9 @@ body {
 .tab.active {
   text-decoration: underline;
 }
-#browse-sort > button {
-  font-size: 1.0em;
-}
 #page-num {
   font-size: 1.0em;
   width: 80px;
-}
-#browse-sort {
-  line-height: 1.7em;
 }
 #paging {
   margin: 8px 0;
