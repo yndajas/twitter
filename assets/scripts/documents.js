@@ -19,7 +19,7 @@ const documents = [
     createdAt: "Fri Feb 23 15:56:52 +0000 2018",
     idStr: "967065733422370816",
     content:
-      '@krheyam Possibly also tied up with sex work, though I\'m not sure that\'s a prerequisite for travesti identification. From Borba 2015 "A sociolinguistics from the South? Discursive colonization, epistemological imbalances and rehearsed narratives at a Brazilian gender identity clinic": <div class="gallery"><ul><li><a href="../../tweets_media/967065733422370816-DWu1JZfX0AYpIj3.jpg"><img src="../../tweets_media/967065733422370816-DWu1JZfX0AYpIj3.jpg"></a></li></ul></div>',
+      '@krheyam Possibly also tied up with sex work, though I\'m not sure that\'s a prerequisite for travesti identification. From Borba 2015 "A sociolinguistics from the South? Discursive colonization, epistemological imbalances and rehearsed narratives at a Brazilian gender identity clinic": <div class="gallery"><ul><li><a href="../../assets/tweet_media/967065733422370816-DWu1JZfX0AYpIj3.jpg"><img src="../../assets/tweet_media/967065733422370816-DWu1JZfX0AYpIj3.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -35,7 +35,7 @@ const documents = [
     createdAt: "Thu Feb 08 19:01:04 +0000 2018",
     idStr: "961676269367840768",
     content:
-      'Delighted to announce upcoming academic/activist conference "Gender in the Contemporary World: Articulation, Navigation and Change": <a href="https://contemporarygender.wordpress.com">https://contemporarygender.wordpress.com</a> #contemporarygender<br><br>Featuring @travisalabanza @GenderBen @megjohnbarker and 15 others!<br><br>3 March @QMUL @QMULLinguistics <div class="gallery"><ul><li><a href="../../tweets_media/961676269367840768-DViPZ0PXUAA7XMu.jpg"><img src="../../tweets_media/961676269367840768-DViPZ0PXUAA7XMu.jpg"></a></li></ul></div>',
+      'Delighted to announce upcoming academic/activist conference "Gender in the Contemporary World: Articulation, Navigation and Change": <a href="https://contemporarygender.wordpress.com">https://contemporarygender.wordpress.com</a> #contemporarygender<br><br>Featuring @travisalabanza @GenderBen @megjohnbarker and 15 others!<br><br>3 March @QMUL @QMULLinguistics <div class="gallery"><ul><li><a href="../../assets/tweet_media/961676269367840768-DViPZ0PXUAA7XMu.jpg"><img src="../../assets/tweet_media/961676269367840768-DViPZ0PXUAA7XMu.jpg"></a></li></ul></div>',
     favouriteCount: "32",
     retweetCount: "19",
   },
@@ -88,7 +88,7 @@ const documents = [
     createdAt: "Wed Dec 20 15:59:42 +0000 2017",
     idStr: "943511232417591296",
     content:
-      'Thanks for the "Other" (though "Mx" would be nice), @EveryoneActive, but why do you need to distinguish between "Doctor (female)" and "Doctor (male)"? And what about non-binary doctors? @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/943511232417591296-DRgGVuBX4AAZJEQ.jpg"><img src="../../tweets_media/943511232417591296-DRgGVuBX4AAZJEQ.jpg"></a></li></ul></div>',
+      'Thanks for the "Other" (though "Mx" would be nice), @EveryoneActive, but why do you need to distinguish between "Doctor (female)" and "Doctor (male)"? And what about non-binary doctors? @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/943511232417591296-DRgGVuBX4AAZJEQ.jpg"><img src="../../assets/tweet_media/943511232417591296-DRgGVuBX4AAZJEQ.jpg"></a></li></ul></div>',
     favouriteCount: "11",
     retweetCount: "3",
   },
@@ -143,7 +143,7 @@ const documents = [
     createdAt: "Mon Nov 20 11:43:17 +0000 2017",
     idStr: "932575068982513664",
     content:
-      '@Wimbledon @CissexismDaily Hoping a contact form message will generate less silence than this tweet... <div class="gallery"><ul><li><a href="../../tweets_media/932575068982513664-DPErpwdW4AADhfC.jpg"><img src="../../tweets_media/932575068982513664-DPErpwdW4AADhfC.jpg"></a></li></ul></div>',
+      '@Wimbledon @CissexismDaily Hoping a contact form message will generate less silence than this tweet... <div class="gallery"><ul><li><a href="../../assets/tweet_media/932575068982513664-DPErpwdW4AADhfC.jpg"><img src="../../assets/tweet_media/932575068982513664-DPErpwdW4AADhfC.jpg"></a></li></ul></div>',
     favouriteCount: "7",
     retweetCount: "3",
   },
@@ -151,7 +151,7 @@ const documents = [
     createdAt: "Fri Nov 17 16:32:39 +0000 2017",
     idStr: "931560724966633473",
     content:
-      'Hey @ucu please allow more choice in your sexual orientation question. Three options is far too little, and how do I (explicitly) identify outside of the provided categories? <div class="gallery"><ul><li><a href="../../tweets_media/931560724966633473-DO2RcyxXUAAoKE9.jpg"><img src="../../tweets_media/931560724966633473-DO2RcyxXUAAoKE9.jpg"></a></li></ul></div>',
+      'Hey @ucu please allow more choice in your sexual orientation question. Three options is far too little, and how do I (explicitly) identify outside of the provided categories? <div class="gallery"><ul><li><a href="../../assets/tweet_media/931560724966633473-DO2RcyxXUAAoKE9.jpg"><img src="../../assets/tweet_media/931560724966633473-DO2RcyxXUAAoKE9.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "1",
   },
@@ -159,7 +159,7 @@ const documents = [
     createdAt: "Thu Nov 09 22:05:42 +0000 2017",
     idStr: "928745440329289728",
     content:
-      'Can non-binary folk attend @Wimbledon? Does writing a gender-neutral title on the form (where not provided as an option) void it? @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/928745440329289728-DOORC_aX0AAgufT.jpg"><img src="../../tweets_media/928745440329289728-DOORC_aX0AAgufT.jpg"></a></li></ul></div>',
+      'Can non-binary folk attend @Wimbledon? Does writing a gender-neutral title on the form (where not provided as an option) void it? @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/928745440329289728-DOORC_aX0AAgufT.jpg"><img src="../../assets/tweet_media/928745440329289728-DOORC_aX0AAgufT.jpg"></a></li></ul></div>',
     favouriteCount: "6",
     retweetCount: "3",
   },
@@ -183,7 +183,7 @@ const documents = [
     createdAt: "Sat Nov 04 15:35:18 +0000 2017",
     idStr: "926835250193244167",
     content:
-      'You might want to update your terminology re: trans people @visitlondon. "Transsexual" is long out of favour these days. @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/926835250193244167-DNzHuvsVQAEoyCR.jpg"><img src="../../tweets_media/926835250193244167-DNzHuvsVQAEoyCR.jpg"></a></li></ul></div>',
+      'You might want to update your terminology re: trans people @visitlondon. "Transsexual" is long out of favour these days. @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/926835250193244167-DNzHuvsVQAEoyCR.jpg"><img src="../../assets/tweet_media/926835250193244167-DNzHuvsVQAEoyCR.jpg"></a></li></ul></div>',
     favouriteCount: "5",
     retweetCount: "2",
   },
@@ -214,7 +214,7 @@ const documents = [
     createdAt: "Tue Sep 26 12:14:35 +0000 2017",
     idStr: "912651615236247553",
     content:
-      'Is your gender corporate? Spotted on @Better_UK. Not spotted on @Better_UK: an option for my gender or my title... @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/912651615236247553-DKpjfAEXkAAtsGG.jpg"><img src="../../tweets_media/912651615236247553-DKpjfAEXkAAtsGG.jpg"></a></li></ul></div>',
+      'Is your gender corporate? Spotted on @Better_UK. Not spotted on @Better_UK: an option for my gender or my title... @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/912651615236247553-DKpjfAEXkAAtsGG.jpg"><img src="../../assets/tweet_media/912651615236247553-DKpjfAEXkAAtsGG.jpg"></a></li></ul></div>',
     favouriteCount: "22",
     retweetCount: "8",
   },
@@ -222,7 +222,7 @@ const documents = [
     createdAt: "Wed Sep 13 22:00:29 +0000 2017",
     idStr: "908088015960109057",
     content:
-      'From first idea to final draft, the fourth line of my recently published poem "Cissexism is everywhere, every day": <a href="http://yndajas.co/2017/08/29/cissexism-everywhere-every-day/">http://yndajas.co/2017/08/29/cissexism-everywhere-every-day/</a> <div class="gallery"><ul><li><a href="../../tweets_media/908088015960109057-DJosySZXcAAwJQ4.jpg"><img src="../../tweets_media/908088015960109057-DJosySZXcAAwJQ4.jpg"></a></li><li><a href="../../tweets_media/908088015960109057-DJoszuVXgAAVylF.jpg"><img src="../../tweets_media/908088015960109057-DJoszuVXgAAVylF.jpg"></a></li></ul></div>',
+      'From first idea to final draft, the fourth line of my recently published poem "Cissexism is everywhere, every day": <a href="http://yndajas.co/2017/08/29/cissexism-everywhere-every-day/">http://yndajas.co/2017/08/29/cissexism-everywhere-every-day/</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/908088015960109057-DJosySZXcAAwJQ4.jpg"><img src="../../assets/tweet_media/908088015960109057-DJosySZXcAAwJQ4.jpg"></a></li><li><a href="../../assets/tweet_media/908088015960109057-DJoszuVXgAAVylF.jpg"><img src="../../assets/tweet_media/908088015960109057-DJoszuVXgAAVylF.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -530,7 +530,7 @@ const documents = [
     createdAt: "Tue Jul 18 16:58:21 +0000 2017",
     idStr: "887355874217517056",
     content:
-      'Great practice for minute/notetaking - providing pronouns after names/roles. Useful as reference guide for future audiences @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/887355874217517056-DFCFcHTXcAQpDlO.jpg"><img src="../../tweets_media/887355874217517056-DFCFcHTXcAQpDlO.jpg"></a></li></ul></div>',
+      'Great practice for minute/notetaking - providing pronouns after names/roles. Useful as reference guide for future audiences @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/887355874217517056-DFCFcHTXcAQpDlO.jpg"><img src="../../assets/tweet_media/887355874217517056-DFCFcHTXcAQpDlO.jpg"></a></li></ul></div>',
     favouriteCount: "12",
     retweetCount: "4",
   },
@@ -546,7 +546,7 @@ const documents = [
     createdAt: "Sun Jul 02 13:40:59 +0000 2017",
     idStr: "881508000313331712",
     content:
-      'Simple internet activism: making the language of @Wikipedia gender-neutral/inclusive @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/881508000313331712-DDu-gpGXoAA9ylS.jpg"><img src="../../tweets_media/881508000313331712-DDu-gpGXoAA9ylS.jpg"></a></li></ul></div>',
+      'Simple internet activism: making the language of @Wikipedia gender-neutral/inclusive @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/881508000313331712-DDu-gpGXoAA9ylS.jpg"><img src="../../assets/tweet_media/881508000313331712-DDu-gpGXoAA9ylS.jpg"></a></li></ul></div>',
     favouriteCount: "8",
     retweetCount: "3",
   },
@@ -609,7 +609,7 @@ const documents = [
     createdAt: "Mon Jun 12 13:47:11 +0000 2017",
     idStr: "874261804960161792",
     content:
-      'Thank you @ITV for offering "Mx" as a title and making non-binary people feel more welcome in using your services! @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/874261804960161792-DCIAbiLXgAA0CzD.jpg"><img src="../../tweets_media/874261804960161792-DCIAbiLXgAA0CzD.jpg"></a></li></ul></div>',
+      'Thank you @ITV for offering "Mx" as a title and making non-binary people feel more welcome in using your services! @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/874261804960161792-DCIAbiLXgAA0CzD.jpg"><img src="../../assets/tweet_media/874261804960161792-DCIAbiLXgAA0CzD.jpg"></a></li></ul></div>',
     favouriteCount: "19",
     retweetCount: "5",
   },
@@ -638,7 +638,7 @@ const documents = [
     createdAt: "Thu Jun 08 17:36:32 +0000 2017",
     idStr: "872869968391663616",
     content:
-      'I think it needs to be quite a bit faster (taking faster to mean shorter) than the journey... <div class="gallery"><ul><li><a href="../../tweets_media/872869968391663616-DB0OmbfXYAE_f-f.jpg"><img src="../../tweets_media/872869968391663616-DB0OmbfXYAE_f-f.jpg"></a></li></ul></div>',
+      'I think it needs to be quite a bit faster (taking faster to mean shorter) than the journey... <div class="gallery"><ul><li><a href="../../assets/tweet_media/872869968391663616-DB0OmbfXYAE_f-f.jpg"><img src="../../assets/tweet_media/872869968391663616-DB0OmbfXYAE_f-f.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -646,7 +646,7 @@ const documents = [
     createdAt: "Wed Jun 07 04:10:01 +0000 2017",
     idStr: "872304614003048449",
     content:
-      'Tomorrow please vote red/green/yellow as needed to stop austerity; support positive politics for the future. More: <a href="https://m.facebook.com/story.php?story_fbid=1952876171601055&id=100006360725765">https://m.facebook.com/story.php?story_fbid=1952876171601055&id=100006360725765</a> <div class="gallery"><ul><li><a href="../../tweets_media/872304614003048449-DBsMaTCXUAcVCWn.jpg"><img src="../../tweets_media/872304614003048449-DBsMaTCXUAcVCWn.jpg"></a></li></ul></div>',
+      'Tomorrow please vote red/green/yellow as needed to stop austerity; support positive politics for the future. More: <a href="https://m.facebook.com/story.php?story_fbid=1952876171601055&id=100006360725765">https://m.facebook.com/story.php?story_fbid=1952876171601055&id=100006360725765</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/872304614003048449-DBsMaTCXUAcVCWn.jpg"><img src="../../assets/tweet_media/872304614003048449-DBsMaTCXUAcVCWn.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -654,7 +654,7 @@ const documents = [
     createdAt: "Tue May 30 15:39:28 +0000 2017",
     idStr: "869579019376885762",
     content:
-      'Adding my gender when the option isn\'t provided and passive aggressively bolding it #nonbinaryduties @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/869579019376885762-DBFdf0QXUAAuoSd.jpg"><img src="../../tweets_media/869579019376885762-DBFdf0QXUAAuoSd.jpg"></a></li></ul></div>',
+      'Adding my gender when the option isn\'t provided and passive aggressively bolding it #nonbinaryduties @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/869579019376885762-DBFdf0QXUAAuoSd.jpg"><img src="../../assets/tweet_media/869579019376885762-DBFdf0QXUAAuoSd.jpg"></a></li></ul></div>',
     favouriteCount: "35",
     retweetCount: "5",
   },
@@ -662,7 +662,7 @@ const documents = [
     createdAt: "Sun May 28 19:19:00 +0000 2017",
     idStr: "868909488807575552",
     content:
-      'No thanks. <div class="gallery"><ul><li><a href="../../tweets_media/868909488807575552-DA78kteW0AAZ7cF.jpg"><img src="../../tweets_media/868909488807575552-DA78kteW0AAZ7cF.jpg"></a></li></ul></div>',
+      'No thanks. <div class="gallery"><ul><li><a href="../../assets/tweet_media/868909488807575552-DA78kteW0AAZ7cF.jpg"><img src="../../assets/tweet_media/868909488807575552-DA78kteW0AAZ7cF.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "0",
   },
@@ -685,7 +685,7 @@ const documents = [
     createdAt: "Thu May 11 10:21:10 +0000 2017",
     idStr: "862613546668109825",
     content:
-      'Facebook allows you to advertise​ to females, males or both. So where are all the non-binary people at @facebook? @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/862613546668109825-C_iecPUWAAAgbBk.jpg"><img src="../../tweets_media/862613546668109825-C_iecPUWAAAgbBk.jpg"></a></li></ul></div>',
+      'Facebook allows you to advertise​ to females, males or both. So where are all the non-binary people at @facebook? @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/862613546668109825-C_iecPUWAAAgbBk.jpg"><img src="../../assets/tweet_media/862613546668109825-C_iecPUWAAAgbBk.jpg"></a></li></ul></div>',
     favouriteCount: "6",
     retweetCount: "5",
   },
@@ -693,7 +693,7 @@ const documents = [
     createdAt: "Fri May 05 15:36:36 +0000 2017",
     idStr: "860518600112779266",
     content:
-      'Proofreading service: "We provides" and "guarantee that your spelling [...] meeting". Ermm... <div class="gallery"><ul><li><a href="../../tweets_media/860518600112779266-C_EtFoRXYAAclSX.jpg"><img src="../../tweets_media/860518600112779266-C_EtFoRXYAAclSX.jpg"></a></li></ul></div>',
+      'Proofreading service: "We provides" and "guarantee that your spelling [...] meeting". Ermm... <div class="gallery"><ul><li><a href="../../assets/tweet_media/860518600112779266-C_EtFoRXYAAclSX.jpg"><img src="../../assets/tweet_media/860518600112779266-C_EtFoRXYAAclSX.jpg"></a></li></ul></div>',
     favouriteCount: "5",
     retweetCount: "1",
   },
@@ -764,7 +764,7 @@ const documents = [
     createdAt: "Sun Apr 30 12:41:04 +0000 2017",
     idStr: "858662486597304322",
     content:
-      'Eva Nossem (@Saar_Uni) calls on Scrabble to illustrate how dictionaries are taken as an authoritative source #LavLang24 <div class="gallery"><ul><li><a href="../../tweets_media/858662486597304322-C-qU-HzXoAAGtCJ.jpg"><img src="../../tweets_media/858662486597304322-C-qU-HzXoAAGtCJ.jpg"></a></li></ul></div>',
+      'Eva Nossem (@Saar_Uni) calls on Scrabble to illustrate how dictionaries are taken as an authoritative source #LavLang24 <div class="gallery"><ul><li><a href="../../assets/tweet_media/858662486597304322-C-qU-HzXoAAGtCJ.jpg"><img src="../../assets/tweet_media/858662486597304322-C-qU-HzXoAAGtCJ.jpg"></a></li></ul></div>',
     favouriteCount: "5",
     retweetCount: "4",
   },
@@ -804,7 +804,7 @@ const documents = [
     createdAt: "Sun Apr 30 10:30:15 +0000 2017",
     idStr: "858629565178146816",
     content:
-      'Vinay Swamy (@Vassar) on viability of gender-neutral language in heavily bigendered French; pronouns; discussion of @AssignedMale #LavLang24 <div class="gallery"><ul><li><a href="../../tweets_media/858629565178146816-C-p3AlRXYAAo90O.jpg"><img src="../../tweets_media/858629565178146816-C-p3AlRXYAAo90O.jpg"></a></li><li><a href="../../tweets_media/858629565178146816-C-p3Bn9W0AAsTAu.jpg"><img src="../../tweets_media/858629565178146816-C-p3Bn9W0AAsTAu.jpg"></a></li></ul></div>',
+      'Vinay Swamy (@Vassar) on viability of gender-neutral language in heavily bigendered French; pronouns; discussion of @AssignedMale #LavLang24 <div class="gallery"><ul><li><a href="../../assets/tweet_media/858629565178146816-C-p3AlRXYAAo90O.jpg"><img src="../../assets/tweet_media/858629565178146816-C-p3AlRXYAAo90O.jpg"></a></li><li><a href="../../assets/tweet_media/858629565178146816-C-p3Bn9W0AAsTAu.jpg"><img src="../../assets/tweet_media/858629565178146816-C-p3Bn9W0AAsTAu.jpg"></a></li></ul></div>',
     favouriteCount: "11",
     retweetCount: "9",
   },
@@ -812,7 +812,7 @@ const documents = [
     createdAt: "Sat Apr 29 15:56:25 +0000 2017",
     idStr: "858349260080861184",
     content:
-      'Discussion of sexual orientation OCD from incipient @QMULLinguistics PhD candidate @elvisgomes90, building on his work at @unil #LavLang24 <div class="gallery"><ul><li><a href="../../tweets_media/858349260080861184-C-l4EbIXkAUwJxa.jpg"><img src="../../tweets_media/858349260080861184-C-l4EbIXkAUwJxa.jpg"></a></li><li><a href="../../tweets_media/858349260080861184-C-l4FoMXoAQ6yoO.jpg"><img src="../../tweets_media/858349260080861184-C-l4FoMXoAQ6yoO.jpg"></a></li></ul></div>',
+      'Discussion of sexual orientation OCD from incipient @QMULLinguistics PhD candidate @elvisgomes90, building on his work at @unil #LavLang24 <div class="gallery"><ul><li><a href="../../assets/tweet_media/858349260080861184-C-l4EbIXkAUwJxa.jpg"><img src="../../assets/tweet_media/858349260080861184-C-l4EbIXkAUwJxa.jpg"></a></li><li><a href="../../assets/tweet_media/858349260080861184-C-l4FoMXoAQ6yoO.jpg"><img src="../../assets/tweet_media/858349260080861184-C-l4FoMXoAQ6yoO.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "4",
   },
@@ -836,7 +836,7 @@ const documents = [
     createdAt: "Sat Apr 29 09:12:22 +0000 2017",
     idStr: "858247577267052544",
     content:
-      'Linguistic landscapes in Chinese action films and asexuality by @RaymundVitorio and Mie Hiramoto @KingsCollegeLon @NUSingapore #LavLang24 <div class="gallery"><ul><li><a href="../../tweets_media/858247577267052544-C-kbnH_XgAQacKz.jpg"><img src="../../tweets_media/858247577267052544-C-kbnH_XgAQacKz.jpg"></a></li></ul></div>',
+      'Linguistic landscapes in Chinese action films and asexuality by @RaymundVitorio and Mie Hiramoto @KingsCollegeLon @NUSingapore #LavLang24 <div class="gallery"><ul><li><a href="../../assets/tweet_media/858247577267052544-C-kbnH_XgAQacKz.jpg"><img src="../../assets/tweet_media/858247577267052544-C-kbnH_XgAQacKz.jpg"></a></li></ul></div>',
     favouriteCount: "4",
     retweetCount: "4",
   },
@@ -884,7 +884,7 @@ const documents = [
     createdAt: "Fri Apr 28 13:04:59 +0000 2017",
     idStr: "857943729554030593",
     content:
-      '/s/ variation and gayness with @ZacBoyd_. First time I\'ve seen my own work cited by anyone other than me! #LavLang24 <div class="gallery"><ul><li><a href="../../tweets_media/857943729554030593-C-gHQq8XcAA9Ff2.jpg"><img src="../../tweets_media/857943729554030593-C-gHQq8XcAA9Ff2.jpg"></a></li></ul></div>',
+      '/s/ variation and gayness with @ZacBoyd_. First time I\'ve seen my own work cited by anyone other than me! #LavLang24 <div class="gallery"><ul><li><a href="../../assets/tweet_media/857943729554030593-C-gHQq8XcAA9Ff2.jpg"><img src="../../assets/tweet_media/857943729554030593-C-gHQq8XcAA9Ff2.jpg"></a></li></ul></div>',
     favouriteCount: "8",
     retweetCount: "2",
   },
@@ -892,7 +892,7 @@ const documents = [
     createdAt: "Fri Apr 28 13:01:53 +0000 2017",
     idStr: "857942948213870593",
     content:
-      'Looking forward to presenting new angle on MA work later, representing @QMULLinguistics. Now for similar work from @ZacBoyd_ #LavLang24 <div class="gallery"><ul><li><a href="../../tweets_media/857942948213870593-C-gGiilWsAUQ1Ot.jpg"><img src="../../tweets_media/857942948213870593-C-gGiilWsAUQ1Ot.jpg"></a></li></ul></div>',
+      'Looking forward to presenting new angle on MA work later, representing @QMULLinguistics. Now for similar work from @ZacBoyd_ #LavLang24 <div class="gallery"><ul><li><a href="../../assets/tweet_media/857942948213870593-C-gGiilWsAUQ1Ot.jpg"><img src="../../assets/tweet_media/857942948213870593-C-gGiilWsAUQ1Ot.jpg"></a></li></ul></div>',
     favouriteCount: "13",
     retweetCount: "3",
   },
@@ -916,7 +916,7 @@ const documents = [
     createdAt: "Thu Apr 27 14:14:00 +0000 2017",
     idStr: "857598710179667968",
     content:
-      'Erez Levon from @QMULLinguistics delivering plenary "Negotiating subjective conflict: language and the dialogical self" @LGaS_baal #lgas10 <div class="gallery"><ul><li><a href="../../tweets_media/857598710179667968-C-bNdNkW0AE9R_R.jpg"><img src="../../tweets_media/857598710179667968-C-bNdNkW0AE9R_R.jpg"></a></li><li><a href="../../tweets_media/857598710179667968-C-bNeOoW0AEuHYw.jpg"><img src="../../tweets_media/857598710179667968-C-bNeOoW0AEuHYw.jpg"></a></li></ul></div>',
+      'Erez Levon from @QMULLinguistics delivering plenary "Negotiating subjective conflict: language and the dialogical self" @LGaS_baal #lgas10 <div class="gallery"><ul><li><a href="../../assets/tweet_media/857598710179667968-C-bNdNkW0AE9R_R.jpg"><img src="../../assets/tweet_media/857598710179667968-C-bNdNkW0AE9R_R.jpg"></a></li><li><a href="../../assets/tweet_media/857598710179667968-C-bNeOoW0AEuHYw.jpg"><img src="../../assets/tweet_media/857598710179667968-C-bNeOoW0AEuHYw.jpg"></a></li></ul></div>',
     favouriteCount: "7",
     retweetCount: "3",
   },
@@ -956,7 +956,7 @@ const documents = [
     createdAt: "Wed Apr 19 20:36:23 +0000 2017",
     idStr: "854795837553221633",
     content:
-      'Can you offer "Mx" for non-binary people and others @bookingcom and make the field optional please? Forced lying isn\'t fun @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/854795837553221633-C9zYRcyWAAAK4Qz.jpg"><img src="../../tweets_media/854795837553221633-C9zYRcyWAAAK4Qz.jpg"></a></li></ul></div>',
+      'Can you offer "Mx" for non-binary people and others @bookingcom and make the field optional please? Forced lying isn\'t fun @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/854795837553221633-C9zYRcyWAAAK4Qz.jpg"><img src="../../assets/tweet_media/854795837553221633-C9zYRcyWAAAK4Qz.jpg"></a></li></ul></div>',
     favouriteCount: "12",
     retweetCount: "4",
   },
@@ -964,7 +964,7 @@ const documents = [
     createdAt: "Wed Apr 19 14:26:14 +0000 2017",
     idStr: "854702683835576320",
     content:
-      'I Am Gender. <div class="gallery"><ul><li><a href="../../tweets_media/854702683835576320-C9yDh2rXcAIqKiO.jpg"><img src="../../tweets_media/854702683835576320-C9yDh2rXcAIqKiO.jpg"></a></li></ul></div>',
+      'I Am Gender. <div class="gallery"><ul><li><a href="../../assets/tweet_media/854702683835576320-C9yDh2rXcAIqKiO.jpg"><img src="../../assets/tweet_media/854702683835576320-C9yDh2rXcAIqKiO.jpg"></a></li></ul></div>',
     favouriteCount: "4",
     retweetCount: "0",
   },
@@ -980,7 +980,7 @@ const documents = [
     createdAt: "Fri Apr 14 19:03:08 +0000 2017",
     idStr: "852960431681437698",
     content:
-      'Ermm, these are no more descriptive than what I wrote. Thanks Word... <div class="gallery"><ul><li><a href="../../tweets_media/852960431681437698-C9ZS5TTW0AI0zYr.jpg"><img src="../../tweets_media/852960431681437698-C9ZS5TTW0AI0zYr.jpg"></a></li></ul></div>',
+      'Ermm, these are no more descriptive than what I wrote. Thanks Word... <div class="gallery"><ul><li><a href="../../assets/tweet_media/852960431681437698-C9ZS5TTW0AI0zYr.jpg"><img src="../../assets/tweet_media/852960431681437698-C9ZS5TTW0AI0zYr.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -996,7 +996,7 @@ const documents = [
     createdAt: "Fri Mar 31 02:16:20 +0000 2017",
     idStr: "847633630184710144",
     content:
-      'I can\'t complete your bus survey @TfL. Please recognise non-binary people in future research @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/847633630184710144-C8NmSSqUIAANCKL.jpg"><img src="../../tweets_media/847633630184710144-C8NmSSqUIAANCKL.jpg"></a></li></ul></div>',
+      'I can\'t complete your bus survey @TfL. Please recognise non-binary people in future research @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/847633630184710144-C8NmSSqUIAANCKL.jpg"><img src="../../assets/tweet_media/847633630184710144-C8NmSSqUIAANCKL.jpg"></a></li></ul></div>',
     favouriteCount: "8",
     retweetCount: "3",
   },
@@ -1052,7 +1052,7 @@ const documents = [
     createdAt: "Wed Mar 29 14:31:23 +0000 2017",
     idStr: "847093834454618112",
     content:
-      'Toilet worries: representing gender neutrality (transculturally) <a href="http://yndajas.co/2017/03/29/toilet-worries-representing-gender-neutrality-transculturally/">http://yndajas.co/2017/03/29/toilet-worries-representing-gender-neutrality-transculturally/</a> <div class="gallery"><ul><li><a href="../../tweets_media/847093834454618112-C8F7WfmV4AQ1Lbj.jpg"><img src="../../tweets_media/847093834454618112-C8F7WfmV4AQ1Lbj.jpg"></a></li></ul></div>',
+      'Toilet worries: representing gender neutrality (transculturally) <a href="http://yndajas.co/2017/03/29/toilet-worries-representing-gender-neutrality-transculturally/">http://yndajas.co/2017/03/29/toilet-worries-representing-gender-neutrality-transculturally/</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/847093834454618112-C8F7WfmV4AQ1Lbj.jpg"><img src="../../assets/tweet_media/847093834454618112-C8F7WfmV4AQ1Lbj.jpg"></a></li></ul></div>',
     favouriteCount: "13",
     retweetCount: "11",
   },
@@ -1159,7 +1159,7 @@ const documents = [
     createdAt: "Thu Mar 09 17:25:37 +0000 2017",
     idStr: "839889925818437632",
     content:
-      'Homepage refresh at <a href="http://yndajas.co">http://yndajas.co</a>. Also updated metadata and got https:// working #geekout <div class="gallery"><ul><li><a href="../../tweets_media/839889925818437632-C6fi0qGXMAEeYhr.jpg"><img src="../../tweets_media/839889925818437632-C6fi0qGXMAEeYhr.jpg"></a></li><li><a href="../../tweets_media/839889925818437632-C6fi1xFWgAA0qU_.jpg"><img src="../../tweets_media/839889925818437632-C6fi1xFWgAA0qU_.jpg"></a></li></ul></div>',
+      'Homepage refresh at <a href="http://yndajas.co">http://yndajas.co</a>. Also updated metadata and got https:// working #geekout <div class="gallery"><ul><li><a href="../../assets/tweet_media/839889925818437632-C6fi0qGXMAEeYhr.jpg"><img src="../../assets/tweet_media/839889925818437632-C6fi0qGXMAEeYhr.jpg"></a></li><li><a href="../../assets/tweet_media/839889925818437632-C6fi1xFWgAA0qU_.jpg"><img src="../../assets/tweet_media/839889925818437632-C6fi1xFWgAA0qU_.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -1332,7 +1332,7 @@ const documents = [
     createdAt: "Wed Feb 01 19:41:21 +0000 2017",
     idStr: "826878120523341825",
     content:
-      'Tweet views ("impressions") in last 28 days: c11800. Website views over the same period: 106. So Twitter provides 111 times more exposure... <div class="gallery"><ul><li><a href="../../tweets_media/826878120523341825-C3mpH8PWAAIJ-UA.jpg"><img src="../../tweets_media/826878120523341825-C3mpH8PWAAIJ-UA.jpg"></a></li></ul></div>',
+      'Tweet views ("impressions") in last 28 days: c11800. Website views over the same period: 106. So Twitter provides 111 times more exposure... <div class="gallery"><ul><li><a href="../../assets/tweet_media/826878120523341825-C3mpH8PWAAIJ-UA.jpg"><img src="../../assets/tweet_media/826878120523341825-C3mpH8PWAAIJ-UA.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -1428,7 +1428,7 @@ const documents = [
     createdAt: "Mon Jan 30 21:07:27 +0000 2017",
     idStr: "826175014529593344",
     content:
-      'The anti-Trump/May #MuslimBan protest carries on... with dance. <div class="gallery"><ul><li><video controls src="../../tweets_media/826175014529593344-VArUbmTW2KLha3wg.mp4"></video></li></ul></div>',
+      'The anti-Trump/May #MuslimBan protest carries on... with dance. <div class="gallery"><ul><li><video controls src="../../assets/tweet_media/826175014529593344-VArUbmTW2KLha3wg.mp4"></video></li></ul></div>',
     favouriteCount: "4",
     retweetCount: "2",
   },
@@ -1467,7 +1467,7 @@ const documents = [
     createdAt: "Sun Jan 29 16:38:05 +0000 2017",
     idStr: "825744837739737088",
     content:
-      '@Philips Also please include "Mx" on title fields and make them optional. @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/825744837739737088-C3Wia4XWQAIVmoZ.jpg"><img src="../../tweets_media/825744837739737088-C3Wia4XWQAIVmoZ.jpg"></a></li></ul></div>',
+      '@Philips Also please include "Mx" on title fields and make them optional. @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/825744837739737088-C3Wia4XWQAIVmoZ.jpg"><img src="../../assets/tweet_media/825744837739737088-C3Wia4XWQAIVmoZ.jpg"></a></li></ul></div>',
     favouriteCount: "5",
     retweetCount: "4",
   },
@@ -1475,7 +1475,7 @@ const documents = [
     createdAt: "Sun Jan 29 16:22:10 +0000 2017",
     idStr: "825740832678490115",
     content:
-      'Gender fields should always have more than two options @Philips, but also: marketing is not a valid reason to ask/require gender. <div class="gallery"><ul><li><a href="../../tweets_media/825740832678490115-C3WeymnXAAMl1DZ.jpg"><img src="../../tweets_media/825740832678490115-C3WeymnXAAMl1DZ.jpg"></a></li></ul></div>',
+      'Gender fields should always have more than two options @Philips, but also: marketing is not a valid reason to ask/require gender. <div class="gallery"><ul><li><a href="../../assets/tweet_media/825740832678490115-C3WeymnXAAMl1DZ.jpg"><img src="../../assets/tweet_media/825740832678490115-C3WeymnXAAMl1DZ.jpg"></a></li></ul></div>',
     favouriteCount: "7",
     retweetCount: "4",
   },
@@ -1547,7 +1547,7 @@ const documents = [
     createdAt: "Tue Jan 24 22:04:18 +0000 2017",
     idStr: "824014991745490948",
     content:
-      'Looking forward to rep\'ing @QMULLinguistics at York Lavender Linguistics for @yorklgbthistory on 24 February. See: <a href="https://www.facebook.com/events/1385219438168313/">https://www.facebook.com/events/1385219438168313/</a> <div class="gallery"><ul><li><a href="../../tweets_media/824014991745490948-C2984iTW8AA6nRg.jpg"><img src="../../tweets_media/824014991745490948-C2984iTW8AA6nRg.jpg"></a></li></ul></div>',
+      'Looking forward to rep\'ing @QMULLinguistics at York Lavender Linguistics for @yorklgbthistory on 24 February. See: <a href="https://www.facebook.com/events/1385219438168313/">https://www.facebook.com/events/1385219438168313/</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/824014991745490948-C2984iTW8AA6nRg.jpg"><img src="../../assets/tweet_media/824014991745490948-C2984iTW8AA6nRg.jpg"></a></li></ul></div>',
     favouriteCount: "9",
     retweetCount: "2",
   },
@@ -1578,7 +1578,7 @@ const documents = [
     createdAt: "Tue Jan 10 20:15:45 +0000 2017",
     idStr: "818914244129333249",
     content:
-      'Yay! Pronouns for badges and more at @Lavlang! #trans #NB #nonbinary #inclusive #inclusivity <div class="gallery"><ul><li><a href="../../tweets_media/818914244129333249-C11eJB2XAAAHXYP.jpg"><img src="../../tweets_media/818914244129333249-C11eJB2XAAAHXYP.jpg"></a></li></ul></div>',
+      'Yay! Pronouns for badges and more at @Lavlang! #trans #NB #nonbinary #inclusive #inclusivity <div class="gallery"><ul><li><a href="../../assets/tweet_media/818914244129333249-C11eJB2XAAAHXYP.jpg"><img src="../../assets/tweet_media/818914244129333249-C11eJB2XAAAHXYP.jpg"></a></li></ul></div>',
     favouriteCount: "7",
     retweetCount: "3",
   },
@@ -1717,7 +1717,7 @@ const documents = [
     createdAt: "Tue Dec 13 16:32:51 +0000 2016",
     idStr: "808711290877280257",
     content:
-      'GP registration fun... #nonbinary #binarism #cisnormativity #cissexism #health @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/808711290877280257-CzkeniiWQAAf9LM.jpg"><img src="../../tweets_media/808711290877280257-CzkeniiWQAAf9LM.jpg"></a></li></ul></div>',
+      'GP registration fun... #nonbinary #binarism #cisnormativity #cissexism #health @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/808711290877280257-CzkeniiWQAAf9LM.jpg"><img src="../../assets/tweet_media/808711290877280257-CzkeniiWQAAf9LM.jpg"></a></li></ul></div>',
     favouriteCount: "10",
     retweetCount: "3",
   },
@@ -1772,7 +1772,7 @@ const documents = [
     createdAt: "Mon Dec 05 17:19:06 +0000 2016",
     idStr: "805823825728405505",
     content:
-      'Quite like the wording of the gender and sexuality monitoring on this @QMSU @redbrickteam survey. Maybe imperfect, but a good step forward. <div class="gallery"><ul><li><a href="../../tweets_media/805823825728405505-Cy7cLMVW8AATdm2.jpg"><img src="../../tweets_media/805823825728405505-Cy7cLMVW8AATdm2.jpg"></a></li></ul></div>',
+      'Quite like the wording of the gender and sexuality monitoring on this @QMSU @redbrickteam survey. Maybe imperfect, but a good step forward. <div class="gallery"><ul><li><a href="../../assets/tweet_media/805823825728405505-Cy7cLMVW8AATdm2.jpg"><img src="../../assets/tweet_media/805823825728405505-Cy7cLMVW8AATdm2.jpg"></a></li></ul></div>',
     favouriteCount: "12",
     retweetCount: "4",
   },
@@ -1804,7 +1804,7 @@ const documents = [
     createdAt: "Sat Nov 26 20:49:55 +0000 2016",
     idStr: "802615390589239296",
     content:
-      'Interesting. Article title is "Trump condemns Castro as \'brutal dictator\'" yet the Google preview seems to be pre-empting something else... <div class="gallery"><ul><li><a href="../../tweets_media/802615390589239296-CyN2FozWEAA8Kcg.jpg"><img src="../../tweets_media/802615390589239296-CyN2FozWEAA8Kcg.jpg"></a></li></ul></div>',
+      'Interesting. Article title is "Trump condemns Castro as \'brutal dictator\'" yet the Google preview seems to be pre-empting something else... <div class="gallery"><ul><li><a href="../../assets/tweet_media/802615390589239296-CyN2FozWEAA8Kcg.jpg"><img src="../../assets/tweet_media/802615390589239296-CyN2FozWEAA8Kcg.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "0",
   },
@@ -1843,7 +1843,7 @@ const documents = [
     createdAt: "Tue Nov 22 19:28:20 +0000 2016",
     idStr: "801145307618742272",
     content:
-      'A little afternoon data analysis regarding article by @wordspinster on whether #TERF is a slur, specifically the terf/Terf/TERF disctintion. <div class="gallery"><ul><li><a href="../../tweets_media/801145307618742272-Cx48lYiXgAEiL8z.jpg"><img src="../../tweets_media/801145307618742272-Cx48lYiXgAEiL8z.jpg"></a></li><li><a href="../../tweets_media/801145307618742272-Cx48lYfXAAAU4aV.jpg"><img src="../../tweets_media/801145307618742272-Cx48lYfXAAAU4aV.jpg"></a></li><li><a href="../../tweets_media/801145307618742272-Cx49LZjXUAAdzPr.jpg"><img src="../../tweets_media/801145307618742272-Cx49LZjXUAAdzPr.jpg"></a></li></ul></div>',
+      'A little afternoon data analysis regarding article by @wordspinster on whether #TERF is a slur, specifically the terf/Terf/TERF disctintion. <div class="gallery"><ul><li><a href="../../assets/tweet_media/801145307618742272-Cx48lYiXgAEiL8z.jpg"><img src="../../assets/tweet_media/801145307618742272-Cx48lYiXgAEiL8z.jpg"></a></li><li><a href="../../assets/tweet_media/801145307618742272-Cx48lYfXAAAU4aV.jpg"><img src="../../assets/tweet_media/801145307618742272-Cx48lYfXAAAU4aV.jpg"></a></li><li><a href="../../assets/tweet_media/801145307618742272-Cx49LZjXUAAdzPr.jpg"><img src="../../assets/tweet_media/801145307618742272-Cx49LZjXUAAdzPr.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "0",
   },
@@ -1859,7 +1859,7 @@ const documents = [
     createdAt: "Thu Nov 17 17:46:57 +0000 2016",
     idStr: "799307855069409280",
     content:
-      'Security question at @GoldsmithsUoL... <div class="gallery"><ul><li><a href="../../tweets_media/799307855069409280-Cxe2OFiXUAAWvSU.jpg"><img src="../../tweets_media/799307855069409280-Cxe2OFiXUAAWvSU.jpg"></a></li></ul></div>',
+      'Security question at @GoldsmithsUoL... <div class="gallery"><ul><li><a href="../../assets/tweet_media/799307855069409280-Cxe2OFiXUAAWvSU.jpg"><img src="../../assets/tweet_media/799307855069409280-Cxe2OFiXUAAWvSU.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -1929,7 +1929,7 @@ const documents = [
     createdAt: "Sun Nov 06 12:33:56 +0000 2016",
     idStr: "795242812795133952",
     content:
-      'Different tablets for men and women, and none for non-binaries! @CissexismDaily @EverydaySexism @EvrydayFeminism <div class="gallery"><ul><li><a href="../../tweets_media/795242812795133952-CwlFG7zWgAARmu8.jpg"><img src="../../tweets_media/795242812795133952-CwlFG7zWgAARmu8.jpg"></a></li></ul></div>',
+      'Different tablets for men and women, and none for non-binaries! @CissexismDaily @EverydaySexism @EvrydayFeminism <div class="gallery"><ul><li><a href="../../assets/tweet_media/795242812795133952-CwlFG7zWgAARmu8.jpg"><img src="../../assets/tweet_media/795242812795133952-CwlFG7zWgAARmu8.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -1945,7 +1945,7 @@ const documents = [
     createdAt: "Fri Nov 04 12:59:46 +0000 2016",
     idStr: "794524541011820545",
     content:
-      'Ermm... @CissexismDaily @EverydaySexism @EvrydayFeminism <div class="gallery"><ul><li><a href="../../tweets_media/794524541011820545-Cwa31NlXUAAzWXL.jpg"><img src="../../tweets_media/794524541011820545-Cwa31NlXUAAzWXL.jpg"></a></li></ul></div>',
+      'Ermm... @CissexismDaily @EverydaySexism @EvrydayFeminism <div class="gallery"><ul><li><a href="../../assets/tweet_media/794524541011820545-Cwa31NlXUAAzWXL.jpg"><img src="../../assets/tweet_media/794524541011820545-Cwa31NlXUAAzWXL.jpg"></a></li></ul></div>',
     favouriteCount: "3",
     retweetCount: "1",
   },
@@ -1977,7 +1977,7 @@ const documents = [
     createdAt: "Mon Oct 31 11:29:27 +0000 2016",
     idStr: "793052258766389248",
     content:
-      'Vegan brunch and studying at @vegan_hippo in Soho. <div class="gallery"><ul><li><a href="../../tweets_media/793052258766389248-CwF8wz8XEAEnEIV.jpg"><img src="../../tweets_media/793052258766389248-CwF8wz8XEAEnEIV.jpg"></a></li></ul></div>',
+      'Vegan brunch and studying at @vegan_hippo in Soho. <div class="gallery"><ul><li><a href="../../assets/tweet_media/793052258766389248-CwF8wz8XEAEnEIV.jpg"><img src="../../assets/tweet_media/793052258766389248-CwF8wz8XEAEnEIV.jpg"></a></li></ul></div>',
     favouriteCount: "3",
     retweetCount: "2",
   },
@@ -2061,7 +2061,7 @@ const documents = [
     createdAt: "Tue Oct 25 12:48:12 +0000 2016",
     idStr: "790897751559118848",
     content:
-      'Haha, thanks @LegendaryLGBT! <div class="gallery"><ul><li><a href="../../tweets_media/790897751559118848-CvnVTeFXEAAYCGP.jpg"><img src="../../tweets_media/790897751559118848-CvnVTeFXEAAYCGP.jpg"></a></li></ul></div>',
+      'Haha, thanks @LegendaryLGBT! <div class="gallery"><ul><li><a href="../../assets/tweet_media/790897751559118848-CvnVTeFXEAAYCGP.jpg"><img src="../../assets/tweet_media/790897751559118848-CvnVTeFXEAAYCGP.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -2493,7 +2493,7 @@ const documents = [
     createdAt: "Sat Sep 17 18:34:48 +0000 2016",
     idStr: "777214234400792576",
     content:
-      'Reflection. <div class="gallery"><ul><li><video controls src="../../tweets_media/777214234400792576-9A2ZHykvlyuV4Vr2.mp4"></video></li></ul></div>',
+      'Reflection. <div class="gallery"><ul><li><video controls src="../../assets/tweet_media/777214234400792576-9A2ZHykvlyuV4Vr2.mp4"></video></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -2580,7 +2580,7 @@ const documents = [
     createdAt: "Sat Aug 06 23:19:06 +0000 2016",
     idStr: "762065493905768448",
     content:
-      'From <a href="https://m.facebook.com/story.php?story_fbid=10157181381740177&id=512210176">https://m.facebook.com/story.php?story_fbid=10157181381740177&id=512210176</a> <div class="gallery"><ul><li><a href="../../tweets_media/762065493905768448-CpNmhF-WIAAHCvw.jpg"><img src="../../tweets_media/762065493905768448-CpNmhF-WIAAHCvw.jpg"></a></li></ul></div>',
+      'From <a href="https://m.facebook.com/story.php?story_fbid=10157181381740177&id=512210176">https://m.facebook.com/story.php?story_fbid=10157181381740177&id=512210176</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/762065493905768448-CpNmhF-WIAAHCvw.jpg"><img src="../../assets/tweet_media/762065493905768448-CpNmhF-WIAAHCvw.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -2588,7 +2588,7 @@ const documents = [
     createdAt: "Fri Aug 05 23:49:02 +0000 2016",
     idStr: "761710639073099777",
     content:
-      '.@Topman @topmanUK I\'d suggest removing the "Mr/Mrs" from your automated emails - this is exclusive on many levels. <div class="gallery"><ul><li><a href="../../tweets_media/761710639073099777-CpIjwFfWYAAfKKc.jpg"><img src="../../tweets_media/761710639073099777-CpIjwFfWYAAfKKc.jpg"></a></li></ul></div>',
+      '.@Topman @topmanUK I\'d suggest removing the "Mr/Mrs" from your automated emails - this is exclusive on many levels. <div class="gallery"><ul><li><a href="../../assets/tweet_media/761710639073099777-CpIjwFfWYAAfKKc.jpg"><img src="../../assets/tweet_media/761710639073099777-CpIjwFfWYAAfKKc.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "0",
   },
@@ -2700,7 +2700,7 @@ const documents = [
     createdAt: "Sat Jun 25 09:14:51 +0000 2016",
     idStr: "746632739181436928",
     content:
-      'Well that\'s a different honourific... <div class="gallery"><ul><li><a href="../../tweets_media/746632739181436928-ClySgmKXIAAn0m5.jpg"><img src="../../tweets_media/746632739181436928-ClySgmKXIAAn0m5.jpg"></a></li></ul></div>',
+      'Well that\'s a different honourific... <div class="gallery"><ul><li><a href="../../assets/tweet_media/746632739181436928-ClySgmKXIAAn0m5.jpg"><img src="../../assets/tweet_media/746632739181436928-ClySgmKXIAAn0m5.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "0",
   },
@@ -2978,7 +2978,7 @@ const documents = [
     createdAt: "Fri Apr 15 11:42:10 +0000 2016",
     idStr: "720940276051742720",
     content:
-      '.@SpareRoomUK Just emailed - want to place an ad but gender barrier. Appreciate a fix. @nonbinaryuk #NBinclusion <div class="gallery"><ul><li><a href="../../tweets_media/720940276051742720-CgFLXCcWwAEwm7m.jpg"><img src="../../tweets_media/720940276051742720-CgFLXCcWwAEwm7m.jpg"></a></li></ul></div>',
+      '.@SpareRoomUK Just emailed - want to place an ad but gender barrier. Appreciate a fix. @nonbinaryuk #NBinclusion <div class="gallery"><ul><li><a href="../../assets/tweet_media/720940276051742720-CgFLXCcWwAEwm7m.jpg"><img src="../../assets/tweet_media/720940276051742720-CgFLXCcWwAEwm7m.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -3256,7 +3256,7 @@ const documents = [
     createdAt: "Sun Oct 10 03:32:55 +0000 2021",
     idStr: "1447042432802205696",
     content:
-      'Is this not a valid answer (ignoring the intended reference)? @RegexCrossword <div class="gallery"><ul><li><a href="../../tweets_media/1447042432802205696-FBTtJ2oWUAAPS1L.jpg"><img src="../../tweets_media/1447042432802205696-FBTtJ2oWUAAPS1L.jpg"></a></li></ul></div>',
+      'Is this not a valid answer (ignoring the intended reference)? @RegexCrossword <div class="gallery"><ul><li><a href="../../assets/tweet_media/1447042432802205696-FBTtJ2oWUAAPS1L.jpg"><img src="../../assets/tweet_media/1447042432802205696-FBTtJ2oWUAAPS1L.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -3351,7 +3351,7 @@ const documents = [
     createdAt: "Thu Mar 10 17:51:21 +0000 2016",
     idStr: "707987217231306754",
     content:
-      'I got an email from David Bowie about p-values. <div class="gallery"><ul><li><a href="../../tweets_media/707987217231306754-CdNGl68UEAI9247.jpg"><img src="../../tweets_media/707987217231306754-CdNGl68UEAI9247.jpg"></a></li></ul></div>',
+      'I got an email from David Bowie about p-values. <div class="gallery"><ul><li><a href="../../assets/tweet_media/707987217231306754-CdNGl68UEAI9247.jpg"><img src="../../assets/tweet_media/707987217231306754-CdNGl68UEAI9247.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -3367,7 +3367,7 @@ const documents = [
     createdAt: "Wed Mar 09 10:04:02 +0000 2016",
     idStr: "707507226416697344",
     content:
-      'Actually two @GSAYork <div class="gallery"><ul><li><a href="../../tweets_media/707507226416697344-CdGSDJxWIAATq7i.jpg"><img src="../../tweets_media/707507226416697344-CdGSDJxWIAATq7i.jpg"></a></li></ul></div>',
+      'Actually two @GSAYork <div class="gallery"><ul><li><a href="../../assets/tweet_media/707507226416697344-CdGSDJxWIAATq7i.jpg"><img src="../../assets/tweet_media/707507226416697344-CdGSDJxWIAATq7i.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "1",
   },
@@ -3383,7 +3383,7 @@ const documents = [
     createdAt: "Tue Mar 01 13:47:57 +0000 2016",
     idStr: "704664472858796034",
     content:
-      'Ridiculous brand fragmentation. Consolidate! <div class="gallery"><ul><li><a href="../../tweets_media/704664472858796034-Ccd4j5mW4AAL-_S.jpg"><img src="../../tweets_media/704664472858796034-Ccd4j5mW4AAL-_S.jpg"></a></li></ul></div>',
+      'Ridiculous brand fragmentation. Consolidate! <div class="gallery"><ul><li><a href="../../assets/tweet_media/704664472858796034-Ccd4j5mW4AAL-_S.jpg"><img src="../../assets/tweet_media/704664472858796034-Ccd4j5mW4AAL-_S.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -3502,7 +3502,7 @@ const documents = [
     createdAt: "Mon Jan 25 10:52:07 +0000 2016",
     idStr: "691574260968640512",
     content:
-      'MA Sociolinguistics @UniOfYork graduation [4/4] <div class="gallery"><ul><li><a href="../../tweets_media/691574260968640512-CZj3H8hUsAApFU1.jpg"><img src="../../tweets_media/691574260968640512-CZj3H8hUsAApFU1.jpg"></a></li></ul></div>',
+      'MA Sociolinguistics @UniOfYork graduation [4/4] <div class="gallery"><ul><li><a href="../../assets/tweet_media/691574260968640512-CZj3H8hUsAApFU1.jpg"><img src="../../assets/tweet_media/691574260968640512-CZj3H8hUsAApFU1.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "0",
   },
@@ -3510,7 +3510,7 @@ const documents = [
     createdAt: "Mon Jan 25 10:50:38 +0000 2016",
     idStr: "691573890095697920",
     content:
-      'MA Sociolinguistics @UniOfYork graduation [3/4] <div class="gallery"><ul><li><a href="../../tweets_media/691573890095697920-CZj2w62UAAA9cjY.jpg"><img src="../../tweets_media/691573890095697920-CZj2w62UAAA9cjY.jpg"></a></li><li><a href="../../tweets_media/691573890095697920-CZj2xHgUkAAawOi.jpg"><img src="../../tweets_media/691573890095697920-CZj2xHgUkAAawOi.jpg"></a></li><li><a href="../../tweets_media/691573890095697920-CZj2xNQUUAAcOSR.jpg"><img src="../../tweets_media/691573890095697920-CZj2xNQUUAAcOSR.jpg"></a></li><li><a href="../../tweets_media/691573890095697920-CZj2ySKUUAADAd1.jpg"><img src="../../tweets_media/691573890095697920-CZj2ySKUUAADAd1.jpg"></a></li></ul></div>',
+      'MA Sociolinguistics @UniOfYork graduation [3/4] <div class="gallery"><ul><li><a href="../../assets/tweet_media/691573890095697920-CZj2w62UAAA9cjY.jpg"><img src="../../assets/tweet_media/691573890095697920-CZj2w62UAAA9cjY.jpg"></a></li><li><a href="../../assets/tweet_media/691573890095697920-CZj2xHgUkAAawOi.jpg"><img src="../../assets/tweet_media/691573890095697920-CZj2xHgUkAAawOi.jpg"></a></li><li><a href="../../assets/tweet_media/691573890095697920-CZj2xNQUUAAcOSR.jpg"><img src="../../assets/tweet_media/691573890095697920-CZj2xNQUUAAcOSR.jpg"></a></li><li><a href="../../assets/tweet_media/691573890095697920-CZj2ySKUUAADAd1.jpg"><img src="../../assets/tweet_media/691573890095697920-CZj2ySKUUAADAd1.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -3518,7 +3518,7 @@ const documents = [
     createdAt: "Mon Jan 25 10:43:32 +0000 2016",
     idStr: "691572103645106176",
     content:
-      'MA Sociolinguistics @UniOfYork graduation [2/?] <div class="gallery"><ul><li><a href="../../tweets_media/691572103645106176-CZj1Ig1UUAAgwFc.jpg"><img src="../../tweets_media/691572103645106176-CZj1Ig1UUAAgwFc.jpg"></a></li><li><a href="../../tweets_media/691572103645106176-CZj1KYkUMAE4uLk.jpg"><img src="../../tweets_media/691572103645106176-CZj1KYkUMAE4uLk.jpg"></a></li><li><a href="../../tweets_media/691572103645106176-CZj1KM4UMAEddtl.jpg"><img src="../../tweets_media/691572103645106176-CZj1KM4UMAEddtl.jpg"></a></li><li><a href="../../tweets_media/691572103645106176-CZj1JE4UEAEXBf6.jpg"><img src="../../tweets_media/691572103645106176-CZj1JE4UEAEXBf6.jpg"></a></li></ul></div>',
+      'MA Sociolinguistics @UniOfYork graduation [2/?] <div class="gallery"><ul><li><a href="../../assets/tweet_media/691572103645106176-CZj1Ig1UUAAgwFc.jpg"><img src="../../assets/tweet_media/691572103645106176-CZj1Ig1UUAAgwFc.jpg"></a></li><li><a href="../../assets/tweet_media/691572103645106176-CZj1KYkUMAE4uLk.jpg"><img src="../../assets/tweet_media/691572103645106176-CZj1KYkUMAE4uLk.jpg"></a></li><li><a href="../../assets/tweet_media/691572103645106176-CZj1KM4UMAEddtl.jpg"><img src="../../assets/tweet_media/691572103645106176-CZj1KM4UMAEddtl.jpg"></a></li><li><a href="../../assets/tweet_media/691572103645106176-CZj1JE4UEAEXBf6.jpg"><img src="../../assets/tweet_media/691572103645106176-CZj1JE4UEAEXBf6.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -3526,7 +3526,7 @@ const documents = [
     createdAt: "Mon Jan 25 10:38:01 +0000 2016",
     idStr: "691570711945678848",
     content:
-      'MA Sociolinguistics @UniOfYork graduation [1/?] <div class="gallery"><ul><li><a href="../../tweets_media/691570711945678848-CZjz4nHUkAIZAoY.jpg"><img src="../../tweets_media/691570711945678848-CZjz4nHUkAIZAoY.jpg"></a></li><li><a href="../../tweets_media/691570711945678848-CZjzz_-UMAEUM_t.jpg"><img src="../../tweets_media/691570711945678848-CZjzz_-UMAEUM_t.jpg"></a></li><li><a href="../../tweets_media/691570711945678848-CZjz5S8UUAEpEiy.jpg"><img src="../../tweets_media/691570711945678848-CZjz5S8UUAEpEiy.jpg"></a></li><li><a href="../../tweets_media/691570711945678848-CZjz5XHUMAAfsZM.jpg"><img src="../../tweets_media/691570711945678848-CZjz5XHUMAAfsZM.jpg"></a></li></ul></div>',
+      'MA Sociolinguistics @UniOfYork graduation [1/?] <div class="gallery"><ul><li><a href="../../assets/tweet_media/691570711945678848-CZjz4nHUkAIZAoY.jpg"><img src="../../assets/tweet_media/691570711945678848-CZjz4nHUkAIZAoY.jpg"></a></li><li><a href="../../assets/tweet_media/691570711945678848-CZjzz_-UMAEUM_t.jpg"><img src="../../assets/tweet_media/691570711945678848-CZjzz_-UMAEUM_t.jpg"></a></li><li><a href="../../assets/tweet_media/691570711945678848-CZjz5S8UUAEpEiy.jpg"><img src="../../assets/tweet_media/691570711945678848-CZjz5S8UUAEpEiy.jpg"></a></li><li><a href="../../assets/tweet_media/691570711945678848-CZjz5XHUMAAfsZM.jpg"><img src="../../assets/tweet_media/691570711945678848-CZjz5XHUMAAfsZM.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -3534,7 +3534,7 @@ const documents = [
     createdAt: "Fri Jan 22 13:50:17 +0000 2016",
     idStr: "690531933663657984",
     content:
-      'Apparently I got a *big* promotion... <div class="gallery"><ul><li><a href="../../tweets_media/690531933663657984-CZVDIkbWwAEISsT.jpg"><img src="../../tweets_media/690531933663657984-CZVDIkbWwAEISsT.jpg"></a></li></ul></div>',
+      'Apparently I got a *big* promotion... <div class="gallery"><ul><li><a href="../../assets/tweet_media/690531933663657984-CZVDIkbWwAEISsT.jpg"><img src="../../assets/tweet_media/690531933663657984-CZVDIkbWwAEISsT.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "1",
   },
@@ -4081,7 +4081,7 @@ const documents = [
     createdAt: "Fri Jun 19 00:28:59 +0000 2015",
     idStr: "611692112829091840",
     content:
-      'Flag up ready to greet @YorkPride paraders this Saturday in my absence! #RaiseYourRainbow #YorkCityOfRainbows <div class="gallery"><ul><li><a href="../../tweets_media/611692112829091840-CH0qunoWsAAI3Zi.jpg"><img src="../../tweets_media/611692112829091840-CH0qunoWsAAI3Zi.jpg"></a></li></ul></div>',
+      'Flag up ready to greet @YorkPride paraders this Saturday in my absence! #RaiseYourRainbow #YorkCityOfRainbows <div class="gallery"><ul><li><a href="../../assets/tweet_media/611692112829091840-CH0qunoWsAAI3Zi.jpg"><img src="../../assets/tweet_media/611692112829091840-CH0qunoWsAAI3Zi.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "2",
   },
@@ -4264,7 +4264,7 @@ const documents = [
     createdAt: "Sat May 09 14:12:49 +0000 2015",
     idStr: "597041537265102848",
     content:
-      'Gorgeous lunch my partner cooked up, similar to one of @sweetpotatosoul simple breakfast recipes. <div class="gallery"><ul><li><a href="../../tweets_media/597041537265102848-CEkeGzjWMAECtZE.jpg"><img src="../../tweets_media/597041537265102848-CEkeGzjWMAECtZE.jpg"></a></li></ul></div>',
+      'Gorgeous lunch my partner cooked up, similar to one of @sweetpotatosoul simple breakfast recipes. <div class="gallery"><ul><li><a href="../../assets/tweet_media/597041537265102848-CEkeGzjWMAECtZE.jpg"><img src="../../assets/tweet_media/597041537265102848-CEkeGzjWMAECtZE.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -4383,7 +4383,7 @@ const documents = [
     createdAt: "Fri Apr 17 16:52:18 +0000 2015",
     idStr: "589109137465827330",
     content:
-      'Sat in Covent Garden eating delicious takeaway from Food for Thought, probably for the last time ever! <div class="gallery"><ul><li><a href="../../tweets_media/589109137465827330-CCzvn8qWYAEyRYt.jpg"><img src="../../tweets_media/589109137465827330-CCzvn8qWYAEyRYt.jpg"></a></li></ul></div>',
+      'Sat in Covent Garden eating delicious takeaway from Food for Thought, probably for the last time ever! <div class="gallery"><ul><li><a href="../../assets/tweet_media/589109137465827330-CCzvn8qWYAEyRYt.jpg"><img src="../../assets/tweet_media/589109137465827330-CCzvn8qWYAEyRYt.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -4590,7 +4590,7 @@ const documents = [
     createdAt: "Sun Apr 12 21:22:31 +0000 2015",
     idStr: "587365201428803584",
     content:
-      'An interpretation of @sweetpotatosoul\'s recipe. <div class="gallery"><ul><li><a href="../../tweets_media/587365201428803584-CCa9iFMXIAAWmWN.jpg"><img src="../../tweets_media/587365201428803584-CCa9iFMXIAAWmWN.jpg"></a></li></ul></div>',
+      'An interpretation of @sweetpotatosoul\'s recipe. <div class="gallery"><ul><li><a href="../../assets/tweet_media/587365201428803584-CCa9iFMXIAAWmWN.jpg"><img src="../../assets/tweet_media/587365201428803584-CCa9iFMXIAAWmWN.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -4987,7 +4987,7 @@ const documents = [
     createdAt: "Sat Feb 28 14:35:36 +0000 2015",
     idStr: "571680118558629888",
     content:
-      'And so it begins, @axiomaticalice. Time to get @Killermann-ised. <div class="gallery"><ul><li><a href="../../tweets_media/571680118558629888-B-8ECEoXAAAGuVZ.jpg"><img src="../../tweets_media/571680118558629888-B-8ECEoXAAAGuVZ.jpg"></a></li></ul></div>',
+      'And so it begins, @axiomaticalice. Time to get @Killermann-ised. <div class="gallery"><ul><li><a href="../../assets/tweet_media/571680118558629888-B-8ECEoXAAAGuVZ.jpg"><img src="../../assets/tweet_media/571680118558629888-B-8ECEoXAAAGuVZ.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -5058,7 +5058,7 @@ const documents = [
     createdAt: "Sat Feb 21 18:52:55 +0000 2015",
     idStr: "569208161648971777",
     content:
-      'Oh, look what I have, @axiomaticalice! <div class="gallery"><ul><li><a href="../../tweets_media/569208161648971777-B-Y7zXfIAAARVIO.jpg"><img src="../../tweets_media/569208161648971777-B-Y7zXfIAAARVIO.jpg"></a></li></ul></div>',
+      'Oh, look what I have, @axiomaticalice! <div class="gallery"><ul><li><a href="../../assets/tweet_media/569208161648971777-B-Y7zXfIAAARVIO.jpg"><img src="../../assets/tweet_media/569208161648971777-B-Y7zXfIAAARVIO.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -5344,7 +5344,7 @@ const documents = [
     createdAt: "Tue Jan 27 15:38:47 +0000 2015",
     idStr: "560099607745933312",
     content:
-      '... and the food from @eehbanhmi. Please come back to @ysjsuwhatson @YSJSU @YorkStJohn, @blinkcafes! #ysjfoodmarket <div class="gallery"><ul><li><a href="../../tweets_media/560099607745933312-B8XfoAMCcAEuuR1.jpg"><img src="../../tweets_media/560099607745933312-B8XfoAMCcAEuuR1.jpg"></a></li></ul></div>',
+      '... and the food from @eehbanhmi. Please come back to @ysjsuwhatson @YSJSU @YorkStJohn, @blinkcafes! #ysjfoodmarket <div class="gallery"><ul><li><a href="../../assets/tweet_media/560099607745933312-B8XfoAMCcAEuuR1.jpg"><img src="../../assets/tweet_media/560099607745933312-B8XfoAMCcAEuuR1.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "2",
   },
@@ -5415,7 +5415,7 @@ const documents = [
     createdAt: "Fri Jan 23 18:08:05 +0000 2015",
     idStr: "558687631815737344",
     content:
-      'I\'d rather support people who care about everywhere, not just here. <div class="gallery"><ul><li><a href="../../tweets_media/558687631815737344-B8Dbbp7IcAA2gy1.jpg"><img src="../../tweets_media/558687631815737344-B8Dbbp7IcAA2gy1.jpg"></a></li></ul></div>',
+      'I\'d rather support people who care about everywhere, not just here. <div class="gallery"><ul><li><a href="../../assets/tweet_media/558687631815737344-B8Dbbp7IcAA2gy1.jpg"><img src="../../assets/tweet_media/558687631815737344-B8Dbbp7IcAA2gy1.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -6097,7 +6097,7 @@ const documents = [
     createdAt: "Fri Jan 23 09:41:01 +0000 2015",
     idStr: "558560023002230784",
     content:
-      'Taking a picture of the #YSJTAT game whilst @MandyAsghar mentions it and tweeting about it #recursivity <div class="gallery"><ul><li><a href="../../tweets_media/558560023002230784-B8BnYFiIAAA24EH.jpg"><img src="../../tweets_media/558560023002230784-B8BnYFiIAAA24EH.jpg"></a></li></ul></div>',
+      'Taking a picture of the #YSJTAT game whilst @MandyAsghar mentions it and tweeting about it #recursivity <div class="gallery"><ul><li><a href="../../assets/tweet_media/558560023002230784-B8BnYFiIAAA24EH.jpg"><img src="../../assets/tweet_media/558560023002230784-B8BnYFiIAAA24EH.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "2",
   },
@@ -6128,7 +6128,7 @@ const documents = [
     createdAt: "Thu Jan 22 20:30:08 +0000 2015",
     idStr: "558360992002744320",
     content:
-      '10 days until the first #yorklgbthistory15 event. Help spread the word with your cover photo: <a href="http://yorklgbthistory.org.uk/wp-content/uploads/2015/01/banner.Twitter.personal.jpg">http://yorklgbthistory.org.uk/wp-content/uploads/2015/01/banner.Twitter.personal.jpg</a> <div class="gallery"><ul><li><a href="../../tweets_media/558360992002744320-B7vrVuJCEAAW4q9.jpg"><img src="../../tweets_media/558360992002744320-B7vrVuJCEAAW4q9.jpg"></a></li></ul></div>',
+      '10 days until the first #yorklgbthistory15 event. Help spread the word with your cover photo: <a href="http://yorklgbthistory.org.uk/wp-content/uploads/2015/01/banner.Twitter.personal.jpg">http://yorklgbthistory.org.uk/wp-content/uploads/2015/01/banner.Twitter.personal.jpg</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/558360992002744320-B7vrVuJCEAAW4q9.jpg"><img src="../../assets/tweet_media/558360992002744320-B7vrVuJCEAAW4q9.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "1",
   },
@@ -6136,7 +6136,7 @@ const documents = [
     createdAt: "Thu Jan 22 12:43:16 +0000 2015",
     idStr: "558243497309138945",
     content:
-      'Prize for most captivating, clear and concise #YSJTAT session description must go to @YSJSU_Laura @YSJSU_Gabby! <div class="gallery"><ul><li><a href="../../tweets_media/558243497309138945-B79HgJ3CUAABVLs.png"><img src="../../tweets_media/558243497309138945-B79HgJ3CUAABVLs.png"></a></li></ul></div>',
+      'Prize for most captivating, clear and concise #YSJTAT session description must go to @YSJSU_Laura @YSJSU_Gabby! <div class="gallery"><ul><li><a href="../../assets/tweet_media/558243497309138945-B79HgJ3CUAABVLs.png"><img src="../../assets/tweet_media/558243497309138945-B79HgJ3CUAABVLs.png"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "2",
   },
@@ -6200,7 +6200,7 @@ const documents = [
     createdAt: "Wed Jan 14 23:55:47 +0000 2015",
     idStr: "555513642381479936",
     content:
-      'In offence of one-size-fits-all flattery. <div class="gallery"><ul><li><a href="../../tweets_media/555513642381479936-B7WUtrGCQAAEJ9R.png"><img src="../../tweets_media/555513642381479936-B7WUtrGCQAAEJ9R.png"></a></li></ul></div>',
+      'In offence of one-size-fits-all flattery. <div class="gallery"><ul><li><a href="../../assets/tweet_media/555513642381479936-B7WUtrGCQAAEJ9R.png"><img src="../../assets/tweet_media/555513642381479936-B7WUtrGCQAAEJ9R.png"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -6264,7 +6264,7 @@ const documents = [
     createdAt: "Fri Jan 02 01:11:52 +0000 2015",
     idStr: "550821744588898304",
     content:
-      'Look what I found, @ysjequality! <div class="gallery"><ul><li><a href="../../tweets_media/550821744588898304-B6Tpb4rIIAAnmsl.jpg"><img src="../../tweets_media/550821744588898304-B6Tpb4rIIAAnmsl.jpg"></a></li><li><a href="../../tweets_media/550821744588898304-B6TpczEIUAAHI29.jpg"><img src="../../tweets_media/550821744588898304-B6TpczEIUAAHI29.jpg"></a></li></ul></div>',
+      'Look what I found, @ysjequality! <div class="gallery"><ul><li><a href="../../assets/tweet_media/550821744588898304-B6Tpb4rIIAAnmsl.jpg"><img src="../../assets/tweet_media/550821744588898304-B6Tpb4rIIAAnmsl.jpg"></a></li><li><a href="../../assets/tweet_media/550821744588898304-B6TpczEIUAAHI29.jpg"><img src="../../assets/tweet_media/550821744588898304-B6TpczEIUAAHI29.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -6341,7 +6341,7 @@ const documents = [
     createdAt: "Mon Dec 15 14:46:45 +0000 2014",
     idStr: "544503837189758977",
     content:
-      'The Black Messiah cometh! <div class="gallery"><ul><li><a href="../../tweets_media/544503837189758977-B453WKMCEAAxqf6.jpg"><img src="../../tweets_media/544503837189758977-B453WKMCEAAxqf6.jpg"></a></li></ul></div>',
+      'The Black Messiah cometh! <div class="gallery"><ul><li><a href="../../assets/tweet_media/544503837189758977-B453WKMCEAAxqf6.jpg"><img src="../../assets/tweet_media/544503837189758977-B453WKMCEAAxqf6.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -6419,7 +6419,7 @@ const documents = [
     createdAt: "Sat Dec 13 15:21:32 +0000 2014",
     idStr: "543787814195064832",
     content:
-      'Super chronos, or perfect time (see top right). <div class="gallery"><ul><li><a href="../../tweets_media/543787814195064832-B4vsIpWCUAISWn8.png"><img src="../../tweets_media/543787814195064832-B4vsIpWCUAISWn8.png"></a></li></ul></div>',
+      'Super chronos, or perfect time (see top right). <div class="gallery"><ul><li><a href="../../assets/tweet_media/543787814195064832-B4vsIpWCUAISWn8.png"><img src="../../assets/tweet_media/543787814195064832-B4vsIpWCUAISWn8.png"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -6457,7 +6457,7 @@ const documents = [
     createdAt: "Fri Dec 12 18:31:18 +0000 2014",
     idStr: "543473181022257153",
     content:
-      'Terrible heading (cheesy, self-important and Great Britain ≠ United Kingdom), but interesting @bisgovuk infographic. <div class="gallery"><ul><li><a href="../../tweets_media/543473181022257153-B38Jp2yCQAAGIms.jpg"><img src="../../tweets_media/543473181022257153-B38Jp2yCQAAGIms.jpg"></a></li></ul></div>',
+      'Terrible heading (cheesy, self-important and Great Britain ≠ United Kingdom), but interesting @bisgovuk infographic. <div class="gallery"><ul><li><a href="../../assets/tweet_media/543473181022257153-B38Jp2yCQAAGIms.jpg"><img src="../../assets/tweet_media/543473181022257153-B38Jp2yCQAAGIms.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -6652,7 +6652,7 @@ const documents = [
     createdAt: "Sat Dec 06 22:14:06 +0000 2014",
     idStr: "541354923280310276",
     content:
-      'Or rather, firefighters are helping ensure pigs aren\'t rescued from murder after experiencing considerable trauma. <div class="gallery"><ul><li><a href="../../tweets_media/541354923280310276-B4NHbw9IIAAIgHR.png"><img src="../../tweets_media/541354923280310276-B4NHbw9IIAAIgHR.png"></a></li></ul></div>',
+      'Or rather, firefighters are helping ensure pigs aren\'t rescued from murder after experiencing considerable trauma. <div class="gallery"><ul><li><a href="../../assets/tweet_media/541354923280310276-B4NHbw9IIAAIgHR.png"><img src="../../assets/tweet_media/541354923280310276-B4NHbw9IIAAIgHR.png"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -6684,7 +6684,7 @@ const documents = [
     createdAt: "Mon Aug 09 02:28:47 +0000 2021",
     idStr: "1424558244484108292",
     content:
-      'Uhmm... #PokemonUNITE #NintendoSwitch<br><br>Image description: Pokémon UNITE scorecard where it shows us winning with a lower score. Surrender? <div class="gallery"><ul><li><a href="../../tweets_media/1424558244484108292-E8UMLI7VoA4nWtH.jpg"><img src="../../tweets_media/1424558244484108292-E8UMLI7VoA4nWtH.jpg"></a></li></ul></div>',
+      'Uhmm... #PokemonUNITE #NintendoSwitch<br><br>Image description: Pokémon UNITE scorecard where it shows us winning with a lower score. Surrender? <div class="gallery"><ul><li><a href="../../assets/tweet_media/1424558244484108292-E8UMLI7VoA4nWtH.jpg"><img src="../../assets/tweet_media/1424558244484108292-E8UMLI7VoA4nWtH.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -6724,7 +6724,7 @@ const documents = [
     createdAt: "Mon Dec 01 19:24:47 +0000 2014",
     idStr: "539500376966594560",
     content:
-      '#cortedepelonuevoalaselfie <div class="gallery"><ul><li><a href="../../tweets_media/539500376966594560-B3ywuRFCcAA9xP2.jpg"><img src="../../tweets_media/539500376966594560-B3ywuRFCcAA9xP2.jpg"></a></li></ul></div>',
+      '#cortedepelonuevoalaselfie <div class="gallery"><ul><li><a href="../../assets/tweet_media/539500376966594560-B3ywuRFCcAA9xP2.jpg"><img src="../../assets/tweet_media/539500376966594560-B3ywuRFCcAA9xP2.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -6970,7 +6970,7 @@ const documents = [
     createdAt: "Mon Nov 17 02:08:26 +0000 2014",
     idStr: "534166140516573184",
     content:
-      'The 02:00 scruffy hair bathroom selfie. <div class="gallery"><ul><li><a href="../../tweets_media/534166140516573184-B2m9RLcIYAAkzlt.jpg"><img src="../../tweets_media/534166140516573184-B2m9RLcIYAAkzlt.jpg"></a></li></ul></div>',
+      'The 02:00 scruffy hair bathroom selfie. <div class="gallery"><ul><li><a href="../../assets/tweet_media/534166140516573184-B2m9RLcIYAAkzlt.jpg"><img src="../../assets/tweet_media/534166140516573184-B2m9RLcIYAAkzlt.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -6978,7 +6978,7 @@ const documents = [
     createdAt: "Sun Nov 16 23:13:41 +0000 2014",
     idStr: "534122160621883392",
     content:
-      'What kind of advertising is this? Something out of the pre-cookie era! <div class="gallery"><ul><li><a href="../../tweets_media/534122160621883392-B2mVRmrIYAA9rOt.jpg"><img src="../../tweets_media/534122160621883392-B2mVRmrIYAA9rOt.jpg"></a></li></ul></div>',
+      'What kind of advertising is this? Something out of the pre-cookie era! <div class="gallery"><ul><li><a href="../../assets/tweet_media/534122160621883392-B2mVRmrIYAA9rOt.jpg"><img src="../../assets/tweet_media/534122160621883392-B2mVRmrIYAA9rOt.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -7061,7 +7061,7 @@ const documents = [
     createdAt: "Sun Nov 09 00:28:40 +0000 2014",
     idStr: "531241927711416321",
     content:
-      'The messy (and facial) hair look. <div class="gallery"><ul><li><a href="../../tweets_media/531241927711416321-B19Zt-vIUAEmvQ_.jpg"><img src="../../tweets_media/531241927711416321-B19Zt-vIUAEmvQ_.jpg"></a></li></ul></div>',
+      'The messy (and facial) hair look. <div class="gallery"><ul><li><a href="../../assets/tweet_media/531241927711416321-B19Zt-vIUAEmvQ_.jpg"><img src="../../assets/tweet_media/531241927711416321-B19Zt-vIUAEmvQ_.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -7085,7 +7085,7 @@ const documents = [
     createdAt: "Sat Nov 08 20:36:21 +0000 2014",
     idStr: "531183463538655232",
     content:
-      '... or maybe: <div class="gallery"><ul><li><a href="../../tweets_media/531183463538655232-B18kiZfCYAA7UBI.jpg"><img src="../../tweets_media/531183463538655232-B18kiZfCYAA7UBI.jpg"></a></li></ul></div>',
+      '... or maybe: <div class="gallery"><ul><li><a href="../../assets/tweet_media/531183463538655232-B18kiZfCYAA7UBI.jpg"><img src="../../assets/tweet_media/531183463538655232-B18kiZfCYAA7UBI.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -7093,7 +7093,7 @@ const documents = [
     createdAt: "Sat Nov 08 20:23:43 +0000 2014",
     idStr: "531180283190861826",
     content:
-      'Axes of relationships. <div class="gallery"><ul><li><a href="../../tweets_media/531180283190861826-B18hpUvCAAAzPpz.jpg"><img src="../../tweets_media/531180283190861826-B18hpUvCAAAzPpz.jpg"></a></li></ul></div>',
+      'Axes of relationships. <div class="gallery"><ul><li><a href="../../assets/tweet_media/531180283190861826-B18hpUvCAAAzPpz.jpg"><img src="../../assets/tweet_media/531180283190861826-B18hpUvCAAAzPpz.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -7101,7 +7101,7 @@ const documents = [
     createdAt: "Sat Nov 08 13:58:17 +0000 2014",
     idStr: "531083288136675328",
     content:
-      'The @ahorapodemos example is one to take note of: <a href="http://anotherangryvoice.blogspot.co.uk/2014/11/why-vote-more-of-same-aav.html">http://anotherangryvoice.blogspot.co.uk/2014/11/why-vote-more-of-same-aav.html</a> via @Angry_Voice <div class="gallery"><ul><li><a href="../../tweets_media/531083288136675328-B17Jb5-IQAA4oY8.jpg"><img src="../../tweets_media/531083288136675328-B17Jb5-IQAA4oY8.jpg"></a></li></ul></div>',
+      'The @ahorapodemos example is one to take note of: <a href="http://anotherangryvoice.blogspot.co.uk/2014/11/why-vote-more-of-same-aav.html">http://anotherangryvoice.blogspot.co.uk/2014/11/why-vote-more-of-same-aav.html</a> via @Angry_Voice <div class="gallery"><ul><li><a href="../../assets/tweet_media/531083288136675328-B17Jb5-IQAA4oY8.jpg"><img src="../../assets/tweet_media/531083288136675328-B17Jb5-IQAA4oY8.jpg"></a></li></ul></div>',
     favouriteCount: "3",
     retweetCount: "14",
   },
@@ -7171,7 +7171,7 @@ const documents = [
     createdAt: "Mon Nov 03 21:15:10 +0000 2014",
     idStr: "529381293214420992",
     content:
-      'Via @vegansidekick. <div class="gallery"><ul><li><a href="../../tweets_media/529381293214420992-B1i9eTOIAAA0oTZ.jpg"><img src="../../tweets_media/529381293214420992-B1i9eTOIAAA0oTZ.jpg"></a></li></ul></div>',
+      'Via @vegansidekick. <div class="gallery"><ul><li><a href="../../assets/tweet_media/529381293214420992-B1i9eTOIAAA0oTZ.jpg"><img src="../../assets/tweet_media/529381293214420992-B1i9eTOIAAA0oTZ.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -7187,7 +7187,7 @@ const documents = [
     createdAt: "Sun Nov 02 21:59:25 +0000 2014",
     idStr: "529030042232553472",
     content:
-      'Any cats want one of these jawns for @madedotcom? <div class="gallery"><ul><li><a href="../../tweets_media/529030042232553472-B1d-Am7IQAEQKCY.jpg"><img src="../../tweets_media/529030042232553472-B1d-Am7IQAEQKCY.jpg"></a></li></ul></div>',
+      'Any cats want one of these jawns for @madedotcom? <div class="gallery"><ul><li><a href="../../assets/tweet_media/529030042232553472-B1d-Am7IQAEQKCY.jpg"><img src="../../assets/tweet_media/529030042232553472-B1d-Am7IQAEQKCY.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -7242,7 +7242,7 @@ const documents = [
     createdAt: "Sun Nov 02 12:05:16 +0000 2014",
     idStr: "528880518000300032",
     content:
-      '100% @TheGreenParty policy preferences; nearly a third of York Central participants similarly aligned. @YorkGreens <div class="gallery"><ul><li><a href="../../tweets_media/528880518000300032-B1b2AtDIcAAuTm4.jpg"><img src="../../tweets_media/528880518000300032-B1b2AtDIcAAuTm4.jpg"></a></li><li><a href="../../tweets_media/528880518000300032-B1b2BRoIEAAfgGx.jpg"><img src="../../tweets_media/528880518000300032-B1b2BRoIEAAfgGx.jpg"></a></li></ul></div>',
+      '100% @TheGreenParty policy preferences; nearly a third of York Central participants similarly aligned. @YorkGreens <div class="gallery"><ul><li><a href="../../assets/tweet_media/528880518000300032-B1b2AtDIcAAuTm4.jpg"><img src="../../assets/tweet_media/528880518000300032-B1b2AtDIcAAuTm4.jpg"></a></li><li><a href="../../assets/tweet_media/528880518000300032-B1b2BRoIEAAfgGx.jpg"><img src="../../assets/tweet_media/528880518000300032-B1b2BRoIEAAfgGx.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "3",
   },
@@ -7258,7 +7258,7 @@ const documents = [
     createdAt: "Sat Nov 01 17:50:29 +0000 2014",
     idStr: "528605009035137025",
     content:
-      'Ready to learn some more meat-free-alternative-free vegan recipes using @sweetpotatosoul\'s eBook! <div class="gallery"><ul><li><a href="../../tweets_media/528605009035137025-B1X7cXfIQAAmNj5.jpg"><img src="../../tweets_media/528605009035137025-B1X7cXfIQAAmNj5.jpg"></a></li></ul></div>',
+      'Ready to learn some more meat-free-alternative-free vegan recipes using @sweetpotatosoul\'s eBook! <div class="gallery"><ul><li><a href="../../assets/tweet_media/528605009035137025-B1X7cXfIQAAmNj5.jpg"><img src="../../assets/tweet_media/528605009035137025-B1X7cXfIQAAmNj5.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -7431,7 +7431,7 @@ const documents = [
     createdAt: "Thu Oct 16 23:33:47 +0000 2014",
     idStr: "522893197094035456",
     content:
-      'What MA students do. <div class="gallery"><ul><li><a href="../../tweets_media/522893197094035456-B0GwlyiIMAAMsAB.png"><img src="../../tweets_media/522893197094035456-B0GwlyiIMAAMsAB.png"></a></li></ul></div>',
+      'What MA students do. <div class="gallery"><ul><li><a href="../../assets/tweet_media/522893197094035456-B0GwlyiIMAAMsAB.png"><img src="../../assets/tweet_media/522893197094035456-B0GwlyiIMAAMsAB.png"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -7509,7 +7509,7 @@ const documents = [
     createdAt: "Mon Jul 26 14:19:36 +0000 2021",
     idStr: "1419663698252107781",
     content:
-      'Umm, that was interesting... #PokemonUNITE #NintendoSwitch<br><br>Image description: Pokémon UNITE scorecard with 37 kills and 36 assists <div class="gallery"><ul><li><a href="../../tweets_media/1419663698252107781-E7OonDQVgAgTk2P.jpg"><img src="../../tweets_media/1419663698252107781-E7OonDQVgAgTk2P.jpg"></a></li></ul></div>',
+      'Umm, that was interesting... #PokemonUNITE #NintendoSwitch<br><br>Image description: Pokémon UNITE scorecard with 37 kills and 36 assists <div class="gallery"><ul><li><a href="../../assets/tweet_media/1419663698252107781-E7OonDQVgAgTk2P.jpg"><img src="../../assets/tweet_media/1419663698252107781-E7OonDQVgAgTk2P.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -7807,7 +7807,7 @@ const documents = [
     createdAt: "Wed Oct 01 23:14:47 +0000 2014",
     idStr: "517452596794372097",
     content:
-      'Pull ups. Impressed, @YSJActive? <div class="gallery"><ul><li><a href="../../tweets_media/517452596794372097-By5cYt_IgAAUfdO.jpg"><img src="../../tweets_media/517452596794372097-By5cYt_IgAAUfdO.jpg"></a></li></ul></div>',
+      'Pull ups. Impressed, @YSJActive? <div class="gallery"><ul><li><a href="../../assets/tweet_media/517452596794372097-By5cYt_IgAAUfdO.jpg"><img src="../../assets/tweet_media/517452596794372097-By5cYt_IgAAUfdO.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -8268,7 +8268,7 @@ const documents = [
     createdAt: "Fri Jul 23 02:50:40 +0000 2021",
     idStr: "1418403157659373572",
     content:
-      'Over 1000... #PokemonUNITE #NintendoSwitch<br><br>Image description: Pokémon UNITE score, with a victory of 1005 to 177 <div class="gallery"><ul><li><a href="../../tweets_media/1418403157659373572-E68uJ7DUYAMSt2Y.jpg"><img src="../../tweets_media/1418403157659373572-E68uJ7DUYAMSt2Y.jpg"></a></li></ul></div>',
+      'Over 1000... #PokemonUNITE #NintendoSwitch<br><br>Image description: Pokémon UNITE score, with a victory of 1005 to 177 <div class="gallery"><ul><li><a href="../../assets/tweet_media/1418403157659373572-E68uJ7DUYAMSt2Y.jpg"><img src="../../assets/tweet_media/1418403157659373572-E68uJ7DUYAMSt2Y.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "1",
   },
@@ -8308,7 +8308,7 @@ const documents = [
     createdAt: "Fri Sep 12 10:12:29 +0000 2014",
     idStr: "510370356906168320",
     content:
-      'Good to see @GSAYork swag in the @PARLAYConf delegate pack! #PARLAY2014 <div class="gallery"><ul><li><a href="../../tweets_media/510370356906168320-BxUzIAyCMAEEIEG.jpg"><img src="../../tweets_media/510370356906168320-BxUzIAyCMAEEIEG.jpg"></a></li></ul></div>',
+      'Good to see @GSAYork swag in the @PARLAYConf delegate pack! #PARLAY2014 <div class="gallery"><ul><li><a href="../../assets/tweet_media/510370356906168320-BxUzIAyCMAEEIEG.jpg"><img src="../../assets/tweet_media/510370356906168320-BxUzIAyCMAEEIEG.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -8683,7 +8683,7 @@ const documents = [
     createdAt: "Thu Aug 28 12:01:24 +0000 2014",
     idStr: "504961947386003456",
     content:
-      'New adjective. <div class="gallery"><ul><li><a href="../../tweets_media/504961947386003456-BwH8M5JIQAAu-Bm.jpg"><img src="../../tweets_media/504961947386003456-BwH8M5JIQAAu-Bm.jpg"></a></li></ul></div>',
+      'New adjective. <div class="gallery"><ul><li><a href="../../assets/tweet_media/504961947386003456-BwH8M5JIQAAu-Bm.jpg"><img src="../../assets/tweet_media/504961947386003456-BwH8M5JIQAAu-Bm.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -8699,7 +8699,7 @@ const documents = [
     createdAt: "Tue Aug 26 19:34:43 +0000 2014",
     idStr: "504351252130844672",
     content:
-      '#makingmymindup #gpex14 <div class="gallery"><ul><li><a href="../../tweets_media/504351252130844672-Bv_QxZeCAAAo4nz.jpg"><img src="../../tweets_media/504351252130844672-Bv_QxZeCAAAo4nz.jpg"></a></li></ul></div>',
+      '#makingmymindup #gpex14 <div class="gallery"><ul><li><a href="../../assets/tweet_media/504351252130844672-Bv_QxZeCAAAo4nz.jpg"><img src="../../assets/tweet_media/504351252130844672-Bv_QxZeCAAAo4nz.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -8879,7 +8879,7 @@ const documents = [
     createdAt: "Fri Aug 15 19:34:31 +0000 2014",
     idStr: "500364935743176706",
     content:
-      'How I organise my life. <div class="gallery"><ul><li><a href="../../tweets_media/500364935743176706-BvGnQgIIQAAQah7.jpg"><img src="../../tweets_media/500364935743176706-BvGnQgIIQAAQah7.jpg"></a></li></ul></div>',
+      'How I organise my life. <div class="gallery"><ul><li><a href="../../assets/tweet_media/500364935743176706-BvGnQgIIQAAQah7.jpg"><img src="../../assets/tweet_media/500364935743176706-BvGnQgIIQAAQah7.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -9076,7 +9076,7 @@ const documents = [
     createdAt: "Fri Aug 01 16:12:43 +0000 2014",
     idStr: "495240721893695491",
     content:
-      'Mmm, homemade vegan pizza. <div class="gallery"><ul><li><a href="../../tweets_media/495240721893695491-Bt9yz4mIIAEQyza.jpg"><img src="../../tweets_media/495240721893695491-Bt9yz4mIIAEQyza.jpg"></a></li></ul></div>',
+      'Mmm, homemade vegan pizza. <div class="gallery"><ul><li><a href="../../assets/tweet_media/495240721893695491-Bt9yz4mIIAEQyza.jpg"><img src="../../assets/tweet_media/495240721893695491-Bt9yz4mIIAEQyza.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "1",
   },
@@ -9084,7 +9084,7 @@ const documents = [
     createdAt: "Thu Jul 31 21:18:23 +0000 2014",
     idStr: "494955256229666817",
     content:
-      'My birthday present from @TheGreenParty: Green Party Executive ballot papers. <div class="gallery"><ul><li><a href="../../tweets_media/494955256229666817-Bt5vJ9iIQAAD7gd.jpg"><img src="../../tweets_media/494955256229666817-Bt5vJ9iIQAAD7gd.jpg"></a></li></ul></div>',
+      'My birthday present from @TheGreenParty: Green Party Executive ballot papers. <div class="gallery"><ul><li><a href="../../assets/tweet_media/494955256229666817-Bt5vJ9iIQAAD7gd.jpg"><img src="../../assets/tweet_media/494955256229666817-Bt5vJ9iIQAAD7gd.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -9583,7 +9583,7 @@ const documents = [
     createdAt: "Tue Jul 15 16:50:02 +0000 2014",
     idStr: "489089516133957632",
     content:
-      'The view again [3/3] #sitsconf <div class="gallery"><ul><li><a href="../../tweets_media/489089516133957632-BsmYTM2CYAACCsb.jpg"><img src="../../tweets_media/489089516133957632-BsmYTM2CYAACCsb.jpg"></a></li></ul></div>',
+      'The view again [3/3] #sitsconf <div class="gallery"><ul><li><a href="../../assets/tweet_media/489089516133957632-BsmYTM2CYAACCsb.jpg"><img src="../../assets/tweet_media/489089516133957632-BsmYTM2CYAACCsb.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -9591,7 +9591,7 @@ const documents = [
     createdAt: "Tue Jul 15 16:49:43 +0000 2014",
     idStr: "489089436656091136",
     content:
-      'The view [2/3] #sitsconf <div class="gallery"><ul><li><a href="../../tweets_media/489089436656091136-BsmYNwCCEAAqMX4.jpg"><img src="../../tweets_media/489089436656091136-BsmYNwCCEAAqMX4.jpg"></a></li></ul></div>',
+      'The view [2/3] #sitsconf <div class="gallery"><ul><li><a href="../../assets/tweet_media/489089436656091136-BsmYNwCCEAAqMX4.jpg"><img src="../../assets/tweet_media/489089436656091136-BsmYNwCCEAAqMX4.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -9599,7 +9599,7 @@ const documents = [
     createdAt: "Tue Jul 15 16:49:11 +0000 2014",
     idStr: "489089303608569856",
     content:
-      'Not too shabby digs [1/3] #sitsconf <div class="gallery"><ul><li><a href="../../tweets_media/489089303608569856-BsmYG76CAAE-K7j.jpg"><img src="../../tweets_media/489089303608569856-BsmYG76CAAE-K7j.jpg"></a></li></ul></div>',
+      'Not too shabby digs [1/3] #sitsconf <div class="gallery"><ul><li><a href="../../assets/tweet_media/489089303608569856-BsmYG76CAAE-K7j.jpg"><img src="../../assets/tweet_media/489089303608569856-BsmYG76CAAE-K7j.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -9723,7 +9723,7 @@ const documents = [
     createdAt: "Fri Jul 04 14:47:54 +0000 2014",
     idStr: "485072515312930816",
     content:
-      '.@AliceHoylePSHE @stonewalluk Rainbow lanyards - much more aesthetically pleasing than standard ones! #edforall <div class="gallery"><ul><li><a href="../../tweets_media/485072515312930816-BrtS1iVCAAEmacG.jpg"><img src="../../tweets_media/485072515312930816-BrtS1iVCAAEmacG.jpg"></a></li></ul></div>',
+      '.@AliceHoylePSHE @stonewalluk Rainbow lanyards - much more aesthetically pleasing than standard ones! #edforall <div class="gallery"><ul><li><a href="../../assets/tweet_media/485072515312930816-BrtS1iVCAAEmacG.jpg"><img src="../../assets/tweet_media/485072515312930816-BrtS1iVCAAEmacG.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -9835,7 +9835,7 @@ const documents = [
     createdAt: "Sun Jun 29 19:39:54 +0000 2014",
     idStr: "483334061604483072",
     content:
-      'Vegan meal for one... <div class="gallery"><ul><li><a href="../../tweets_media/483334061604483072-BrUlvBLCUAAk956.jpg"><img src="../../tweets_media/483334061604483072-BrUlvBLCUAAk956.jpg"></a></li></ul></div>',
+      'Vegan meal for one... <div class="gallery"><ul><li><a href="../../assets/tweet_media/483334061604483072-BrUlvBLCUAAk956.jpg"><img src="../../assets/tweet_media/483334061604483072-BrUlvBLCUAAk956.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10007,7 +10007,7 @@ const documents = [
     createdAt: "Sun Jun 15 17:04:32 +0000 2014",
     idStr: "478221532767191040",
     content:
-      'Selfies now have special gadgets... <div class="gallery"><ul><li><a href="../../tweets_media/478221532767191040-BqL78jXCQAA4v3q.jpg"><img src="../../tweets_media/478221532767191040-BqL78jXCQAA4v3q.jpg"></a></li></ul></div>',
+      'Selfies now have special gadgets... <div class="gallery"><ul><li><a href="../../assets/tweet_media/478221532767191040-BqL78jXCQAA4v3q.jpg"><img src="../../assets/tweet_media/478221532767191040-BqL78jXCQAA4v3q.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10023,7 +10023,7 @@ const documents = [
     createdAt: "Sun Jun 15 13:33:59 +0000 2014",
     idStr: "478168543851474944",
     content:
-      'And stumbled across university number fourteen... <div class="gallery"><ul><li><a href="../../tweets_media/478168543851474944-BqLLwADIEAAHvQ-.jpg"><img src="../../tweets_media/478168543851474944-BqLLwADIEAAHvQ-.jpg"></a></li></ul></div>',
+      'And stumbled across university number fourteen... <div class="gallery"><ul><li><a href="../../assets/tweet_media/478168543851474944-BqLLwADIEAAHvQ-.jpg"><img src="../../assets/tweet_media/478168543851474944-BqLLwADIEAAHvQ-.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10031,7 +10031,7 @@ const documents = [
     createdAt: "Sun Jun 15 13:31:16 +0000 2014",
     idStr: "478167860859371521",
     content:
-      'Having a bit of everything from @return2shasha at Greenwich Market. <div class="gallery"><ul><li><a href="../../tweets_media/478167860859371521-BqLLIjzIUAISfxx.jpg"><img src="../../tweets_media/478167860859371521-BqLLIjzIUAISfxx.jpg"></a></li></ul></div>',
+      'Having a bit of everything from @return2shasha at Greenwich Market. <div class="gallery"><ul><li><a href="../../assets/tweet_media/478167860859371521-BqLLIjzIUAISfxx.jpg"><img src="../../assets/tweet_media/478167860859371521-BqLLIjzIUAISfxx.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "0",
   },
@@ -10039,7 +10039,7 @@ const documents = [
     createdAt: "Sat Jun 14 21:48:44 +0000 2014",
     idStr: "477930663367409666",
     content:
-      'Priorities... "@occupythemob: #Brazil have made their feelings clear regarding #WorldCup <div class="gallery"><ul><li><a href="../../tweets_media/477930663367409666-BqEcNP8CQAAv1_D.jpg"><img src="../../tweets_media/477930663367409666-BqEcNP8CQAAv1_D.jpg"></a></li></ul></div>"',
+      'Priorities... "@occupythemob: #Brazil have made their feelings clear regarding #WorldCup <div class="gallery"><ul><li><a href="../../assets/tweet_media/477930663367409666-BqEcNP8CQAAv1_D.jpg"><img src="../../assets/tweet_media/477930663367409666-BqEcNP8CQAAv1_D.jpg"></a></li></ul></div>"',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10055,7 +10055,7 @@ const documents = [
     createdAt: "Sat Jun 14 11:31:00 +0000 2014",
     idStr: "477775208116649986",
     content:
-      'Gorgeous vegan hot chocolate and soup at @CakesnTreatsUK, can\'t wait for a cupcake too <div class="gallery"><ul><li><a href="../../tweets_media/477775208116649986-BqFmBN3IMAAHkqm.jpg"><img src="../../tweets_media/477775208116649986-BqFmBN3IMAAHkqm.jpg"></a></li></ul></div>',
+      'Gorgeous vegan hot chocolate and soup at @CakesnTreatsUK, can\'t wait for a cupcake too <div class="gallery"><ul><li><a href="../../assets/tweet_media/477775208116649986-BqFmBN3IMAAHkqm.jpg"><img src="../../assets/tweet_media/477775208116649986-BqFmBN3IMAAHkqm.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10109,7 +10109,7 @@ const documents = [
     createdAt: "Thu Jun 12 10:59:01 +0000 2014",
     idStr: "477042382467510272",
     content:
-      'Co-operative Bank/YouGov acknowledging those who don\'t identify with the binary gender system. <div class="gallery"><ul><li><a href="../../tweets_media/477042382467510272-Bp7Lgv6IcAAPyU5.jpg"><img src="../../tweets_media/477042382467510272-Bp7Lgv6IcAAPyU5.jpg"></a></li></ul></div>',
+      'Co-operative Bank/YouGov acknowledging those who don\'t identify with the binary gender system. <div class="gallery"><ul><li><a href="../../assets/tweet_media/477042382467510272-Bp7Lgv6IcAAPyU5.jpg"><img src="../../assets/tweet_media/477042382467510272-Bp7Lgv6IcAAPyU5.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10220,7 +10220,7 @@ const documents = [
     createdAt: "Fri May 30 21:37:41 +0000 2014",
     idStr: "472492065805582336",
     content:
-      'Chimamanda Ngozi Adichie with @RyRyPB. <div class="gallery"><ul><li><a href="../../tweets_media/472492065805582336-Bo6hB1cIAAA3v7v.jpg"><img src="../../tweets_media/472492065805582336-Bo6hB1cIAAA3v7v.jpg"></a></li></ul></div>',
+      'Chimamanda Ngozi Adichie with @RyRyPB. <div class="gallery"><ul><li><a href="../../assets/tweet_media/472492065805582336-Bo6hB1cIAAA3v7v.jpg"><img src="../../assets/tweet_media/472492065805582336-Bo6hB1cIAAA3v7v.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10275,7 +10275,7 @@ const documents = [
     createdAt: "Thu May 22 20:36:05 +0000 2014",
     idStr: "469577459823026177",
     content:
-      'Spotted the Green Party strapline in a document I\'m reading for work! #VoteGreen @TheGreenParty @YorkGreens <div class="gallery"><ul><li><a href="../../tweets_media/469577459823026177-BoRGNdzCcAA-T1q.jpg"><img src="../../tweets_media/469577459823026177-BoRGNdzCcAA-T1q.jpg"></a></li></ul></div>',
+      'Spotted the Green Party strapline in a document I\'m reading for work! #VoteGreen @TheGreenParty @YorkGreens <div class="gallery"><ul><li><a href="../../assets/tweet_media/469577459823026177-BoRGNdzCcAA-T1q.jpg"><img src="../../assets/tweet_media/469577459823026177-BoRGNdzCcAA-T1q.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "3",
   },
@@ -10283,7 +10283,7 @@ const documents = [
     createdAt: "Thu May 22 18:22:40 +0000 2014",
     idStr: "469543883618398209",
     content:
-      'Time to vote smart (Green). #VoteGreen @TheGreenParty <div class="gallery"><ul><li><a href="../../tweets_media/469543883618398209-BoQnrE8IIAANj0s.jpg"><img src="../../tweets_media/469543883618398209-BoQnrE8IIAANj0s.jpg"></a></li></ul></div>',
+      'Time to vote smart (Green). #VoteGreen @TheGreenParty <div class="gallery"><ul><li><a href="../../assets/tweet_media/469543883618398209-BoQnrE8IIAANj0s.jpg"><img src="../../assets/tweet_media/469543883618398209-BoQnrE8IIAANj0s.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10307,7 +10307,7 @@ const documents = [
     createdAt: "Tue May 20 19:58:29 +0000 2014",
     idStr: "468843223419748353",
     content:
-      'Really shouldn\'t have bought this, but if @theroots @questlove release an album, what choice do you have? #ATYSYC <div class="gallery"><ul><li><a href="../../tweets_media/468843223419748353-BoGqbUCIIAEB8FB.jpg"><img src="../../tweets_media/468843223419748353-BoGqbUCIIAEB8FB.jpg"></a></li></ul></div>',
+      'Really shouldn\'t have bought this, but if @theroots @questlove release an album, what choice do you have? #ATYSYC <div class="gallery"><ul><li><a href="../../assets/tweet_media/468843223419748353-BoGqbUCIIAEB8FB.jpg"><img src="../../assets/tweet_media/468843223419748353-BoGqbUCIIAEB8FB.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10370,7 +10370,7 @@ const documents = [
     createdAt: "Fri May 16 16:23:55 +0000 2014",
     idStr: "467339671773933569",
     content:
-      '<div class="gallery"><ul><li><a href="../../tweets_media/467339671773933569-BnxS9CFIEAELcdK.jpg"><img src="../../tweets_media/467339671773933569-BnxS9CFIEAELcdK.jpg"></a></li></ul></div>',
+      '<div class="gallery"><ul><li><a href="../../assets/tweet_media/467339671773933569-BnxS9CFIEAELcdK.jpg"><img src="../../assets/tweet_media/467339671773933569-BnxS9CFIEAELcdK.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10584,7 +10584,7 @@ const documents = [
     createdAt: "Fri May 02 17:36:49 +0000 2014",
     idStr: "462284587201462272",
     content:
-      '1 recycled, delabeled passata jar + 1 ruler + 1 sweet boyfriend = flower receiving virginity taken. Thanks @RyRyPB! <div class="gallery"><ul><li><a href="../../tweets_media/462284587201462272-BmpdYcdIgAAu2ko.jpg"><img src="../../tweets_media/462284587201462272-BmpdYcdIgAAu2ko.jpg"></a></li></ul></div>',
+      '1 recycled, delabeled passata jar + 1 ruler + 1 sweet boyfriend = flower receiving virginity taken. Thanks @RyRyPB! <div class="gallery"><ul><li><a href="../../assets/tweet_media/462284587201462272-BmpdYcdIgAAu2ko.jpg"><img src="../../assets/tweet_media/462284587201462272-BmpdYcdIgAAu2ko.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -10624,7 +10624,7 @@ const documents = [
     createdAt: "Fri Apr 25 17:48:10 +0000 2014",
     idStr: "459750731151466496",
     content:
-      'The beauty of invisible everyday symmetry and patterning. <div class="gallery"><ul><li><a href="../../tweets_media/459750731151466496-BmFc2qfCYAARZFX.png"><img src="../../tweets_media/459750731151466496-BmFc2qfCYAARZFX.png"></a></li></ul></div>',
+      'The beauty of invisible everyday symmetry and patterning. <div class="gallery"><ul><li><a href="../../assets/tweet_media/459750731151466496-BmFc2qfCYAARZFX.png"><img src="../../assets/tweet_media/459750731151466496-BmFc2qfCYAARZFX.png"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10672,7 +10672,7 @@ const documents = [
     createdAt: "Sun Apr 20 15:37:20 +0000 2014",
     idStr: "457905865870163968",
     content:
-      'Lots* of /t/.<br><br>*1,428 tokens <div class="gallery"><ul><li><a href="../../tweets_media/457905865870163968-BlrO9XwCQAEgxg5.png"><img src="../../tweets_media/457905865870163968-BlrO9XwCQAEgxg5.png"></a></li></ul></div>',
+      'Lots* of /t/.<br><br>*1,428 tokens <div class="gallery"><ul><li><a href="../../assets/tweet_media/457905865870163968-BlrO9XwCQAEgxg5.png"><img src="../../assets/tweet_media/457905865870163968-BlrO9XwCQAEgxg5.png"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -10680,7 +10680,7 @@ const documents = [
     createdAt: "Sun Apr 20 11:34:57 +0000 2014",
     idStr: "457844869541941248",
     content:
-      'Ahimsa-ful Easter egg. Thanks @RyRyPB! #ahimsa #veganEaster <div class="gallery"><ul><li><a href="../../tweets_media/457844869541941248-BlqXe3HIEAAJw4B.jpg"><img src="../../tweets_media/457844869541941248-BlqXe3HIEAAJw4B.jpg"></a></li></ul></div>',
+      'Ahimsa-ful Easter egg. Thanks @RyRyPB! #ahimsa #veganEaster <div class="gallery"><ul><li><a href="../../assets/tweet_media/457844869541941248-BlqXe3HIEAAJw4B.jpg"><img src="../../assets/tweet_media/457844869541941248-BlqXe3HIEAAJw4B.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -10751,7 +10751,7 @@ const documents = [
     createdAt: "Thu Jun 17 12:30:39 +0000 2021",
     idStr: "1405503155702489091",
     content:
-      'How many times do I have to ask/tell tennis organisations to include non-binary people?<br><br>\'Nobility\' over non-binary inclusion at Wimbledon, it seems... <div class="gallery"><ul><li><a href="../../tweets_media/1405503155702489091-E4FZPluXMAAAqbM.jpg"><img src="../../tweets_media/1405503155702489091-E4FZPluXMAAAqbM.jpg"></a></li></ul></div>',
+      'How many times do I have to ask/tell tennis organisations to include non-binary people?<br><br>\'Nobility\' over non-binary inclusion at Wimbledon, it seems... <div class="gallery"><ul><li><a href="../../assets/tweet_media/1405503155702489091-E4FZPluXMAAAqbM.jpg"><img src="../../assets/tweet_media/1405503155702489091-E4FZPluXMAAAqbM.jpg"></a></li></ul></div>',
     favouriteCount: "12",
     retweetCount: "0",
   },
@@ -11012,7 +11012,7 @@ const documents = [
     createdAt: "Sat Feb 22 17:04:37 +0000 2014",
     idStr: "437271723344658432",
     content:
-      'Just spotted something I designed in a window (for @YorkGreens). <div class="gallery"><ul><li><a href="../../tweets_media/437271723344658432-BhGAUL-IQAAAemT.jpg"><img src="../../tweets_media/437271723344658432-BhGAUL-IQAAAemT.jpg"></a></li></ul></div>',
+      'Just spotted something I designed in a window (for @YorkGreens). <div class="gallery"><ul><li><a href="../../assets/tweet_media/437271723344658432-BhGAUL-IQAAAemT.jpg"><img src="../../assets/tweet_media/437271723344658432-BhGAUL-IQAAAemT.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "1",
   },
@@ -11164,7 +11164,7 @@ const documents = [
     createdAt: "Thu Feb 13 17:23:53 +0000 2014",
     idStr: "434015079517159424",
     content:
-      'That\'ll do. <div class="gallery"><ul><li><a href="../../tweets_media/434015079517159424-BgXuakmIUAAvETP.jpg"><img src="../../tweets_media/434015079517159424-BgXuakmIUAAvETP.jpg"></a></li></ul></div>',
+      'That\'ll do. <div class="gallery"><ul><li><a href="../../assets/tweet_media/434015079517159424-BgXuakmIUAAvETP.jpg"><img src="../../assets/tweet_media/434015079517159424-BgXuakmIUAAvETP.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -11457,7 +11457,7 @@ const documents = [
     createdAt: "Sat Jan 18 19:37:50 +0000 2014",
     idStr: "424626704871460865",
     content:
-      'Don\'t normally share these things, but apparently I should live in Portland:       <a href="http://www.buzzfeed.com/ashleyperez/what-city-should-you-actually-live-in">http://www.buzzfeed.com/ashleyperez/what-city-should-you-actually-live-in</a> <div class="gallery"><ul><li><a href="../../tweets_media/424626704871460865-BeSTvQKCEAEFxk8.png"><img src="../../tweets_media/424626704871460865-BeSTvQKCEAEFxk8.png"></a></li></ul></div>',
+      'Don\'t normally share these things, but apparently I should live in Portland:       <a href="http://www.buzzfeed.com/ashleyperez/what-city-should-you-actually-live-in">http://www.buzzfeed.com/ashleyperez/what-city-should-you-actually-live-in</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/424626704871460865-BeSTvQKCEAEFxk8.png"><img src="../../assets/tweet_media/424626704871460865-BeSTvQKCEAEFxk8.png"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -11655,7 +11655,7 @@ const documents = [
     createdAt: "Wed Jan 01 23:13:02 +0000 2014",
     idStr: "418520265962688512",
     content:
-      'Bandana-fied. <div class="gallery"><ul><li><a href="../../tweets_media/418520265962688512-Bc7h9uhCEAA-sO9.jpg"><img src="../../tweets_media/418520265962688512-Bc7h9uhCEAA-sO9.jpg"></a></li></ul></div>',
+      'Bandana-fied. <div class="gallery"><ul><li><a href="../../assets/tweet_media/418520265962688512-Bc7h9uhCEAA-sO9.jpg"><img src="../../assets/tweet_media/418520265962688512-Bc7h9uhCEAA-sO9.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "0",
   },
@@ -11671,7 +11671,7 @@ const documents = [
     createdAt: "Mon Dec 30 20:53:43 +0000 2013",
     idStr: "417760433781878784",
     content:
-      'Indulging in a hearty vegan stew and stuffing with @RyRyPB. <div class="gallery"><ul><li><a href="../../tweets_media/417760433781878784-Bcwu5m6IIAAx9rx.jpg"><img src="../../tweets_media/417760433781878784-Bcwu5m6IIAAx9rx.jpg"></a></li></ul></div>',
+      'Indulging in a hearty vegan stew and stuffing with @RyRyPB. <div class="gallery"><ul><li><a href="../../assets/tweet_media/417760433781878784-Bcwu5m6IIAAx9rx.jpg"><img src="../../assets/tweet_media/417760433781878784-Bcwu5m6IIAAx9rx.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -11710,7 +11710,7 @@ const documents = [
     createdAt: "Sun Dec 29 19:10:40 +0000 2013",
     idStr: "417372113092489216",
     content:
-      'Indulging in homemade vegan pizza with @RyRyPB. <div class="gallery"><ul><li><a href="../../tweets_media/417372113092489216-BcrNuZyIUAEaQjH.jpg"><img src="../../tweets_media/417372113092489216-BcrNuZyIUAEaQjH.jpg"></a></li></ul></div>',
+      'Indulging in homemade vegan pizza with @RyRyPB. <div class="gallery"><ul><li><a href="../../assets/tweet_media/417372113092489216-BcrNuZyIUAEaQjH.jpg"><img src="../../assets/tweet_media/417372113092489216-BcrNuZyIUAEaQjH.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -11718,7 +11718,7 @@ const documents = [
     createdAt: "Fri Dec 27 14:01:54 +0000 2013",
     idStr: "416569631659528192",
     content:
-      '<div class="gallery"><ul><li><a href="../../tweets_media/416569631659528192-Bcfz32bIQAAkwy2.jpg"><img src="../../tweets_media/416569631659528192-Bcfz32bIQAAkwy2.jpg"></a></li></ul></div>',
+      '<div class="gallery"><ul><li><a href="../../assets/tweet_media/416569631659528192-Bcfz32bIQAAkwy2.jpg"><img src="../../assets/tweet_media/416569631659528192-Bcfz32bIQAAkwy2.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -11750,7 +11750,7 @@ const documents = [
     createdAt: "Sun Dec 22 23:03:24 +0000 2013",
     idStr: "414893963355512832",
     content:
-      'In a slight diversion from my Belarusian language policy essay, I decided to learn to play and write for the piano. <div class="gallery"><ul><li><a href="../../tweets_media/414893963355512832-BcH_3IoCYAASPik.jpg"><img src="../../tweets_media/414893963355512832-BcH_3IoCYAASPik.jpg"></a></li></ul></div>',
+      'In a slight diversion from my Belarusian language policy essay, I decided to learn to play and write for the piano. <div class="gallery"><ul><li><a href="../../assets/tweet_media/414893963355512832-BcH_3IoCYAASPik.jpg"><img src="../../assets/tweet_media/414893963355512832-BcH_3IoCYAASPik.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -11766,7 +11766,7 @@ const documents = [
     createdAt: "Sat Dec 21 21:01:41 +0000 2013",
     idStr: "414500946497241088",
     content:
-      'If anybody in York knows a Richard Brooke and family, let me know. They don\'t live here... <div class="gallery"><ul><li><a href="../../tweets_media/414500946497241088-BcCaahJIcAA_7Vk.jpg"><img src="../../tweets_media/414500946497241088-BcCaahJIcAA_7Vk.jpg"></a></li></ul></div>',
+      'If anybody in York knows a Richard Brooke and family, let me know. They don\'t live here... <div class="gallery"><ul><li><a href="../../assets/tweet_media/414500946497241088-BcCaahJIcAA_7Vk.jpg"><img src="../../assets/tweet_media/414500946497241088-BcCaahJIcAA_7Vk.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "2",
   },
@@ -11838,7 +11838,7 @@ const documents = [
     createdAt: "Thu Dec 05 19:39:34 +0000 2013",
     idStr: "408682074187767808",
     content:
-      'Fantastic picture and caption combination... <div class="gallery"><ul><li><a href="../../tweets_media/408682074187767808-BavuLjzIQAAcS26.jpg"><img src="../../tweets_media/408682074187767808-BavuLjzIQAAcS26.jpg"></a></li></ul></div>',
+      'Fantastic picture and caption combination... <div class="gallery"><ul><li><a href="../../assets/tweet_media/408682074187767808-BavuLjzIQAAcS26.jpg"><img src="../../assets/tweet_media/408682074187767808-BavuLjzIQAAcS26.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -11862,7 +11862,7 @@ const documents = [
     createdAt: "Tue Dec 03 18:26:38 +0000 2013",
     idStr: "407938947458039808",
     content:
-      '<div class="gallery"><ul><li><a href="../../tweets_media/407938947458039808-BalKT4oIUAE030Z.jpg"><img src="../../tweets_media/407938947458039808-BalKT4oIUAE030Z.jpg"></a></li></ul></div>',
+      '<div class="gallery"><ul><li><a href="../../assets/tweet_media/407938947458039808-BalKT4oIUAE030Z.jpg"><img src="../../assets/tweet_media/407938947458039808-BalKT4oIUAE030Z.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -11870,7 +11870,7 @@ const documents = [
     createdAt: "Tue Dec 03 18:26:16 +0000 2013",
     idStr: "407938852494782464",
     content:
-      '<div class="gallery"><ul><li><a href="../../tweets_media/407938852494782464-BalKOXOIYAEv4hH.jpg"><img src="../../tweets_media/407938852494782464-BalKOXOIYAEv4hH.jpg"></a></li></ul></div>',
+      '<div class="gallery"><ul><li><a href="../../assets/tweet_media/407938852494782464-BalKOXOIYAEv4hH.jpg"><img src="../../assets/tweet_media/407938852494782464-BalKOXOIYAEv4hH.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -11886,7 +11886,7 @@ const documents = [
     createdAt: "Sun Dec 01 16:34:35 +0000 2013",
     idStr: "407185969993891840",
     content:
-      'No album, where did that come from? <div class="gallery"><ul><li><a href="../../tweets_media/407185969993891840-Baade3ECAAA807M.jpg"><img src="../../tweets_media/407185969993891840-Baade3ECAAA807M.jpg"></a></li></ul></div>',
+      'No album, where did that come from? <div class="gallery"><ul><li><a href="../../assets/tweet_media/407185969993891840-Baade3ECAAA807M.jpg"><img src="../../assets/tweet_media/407185969993891840-Baade3ECAAA807M.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -11910,7 +11910,7 @@ const documents = [
     createdAt: "Sat Nov 23 19:58:01 +0000 2013",
     idStr: "404338066418307073",
     content:
-      'Where\'d that come from? <div class="gallery"><ul><li><a href="../../tweets_media/404338066418307073-BZx_VDVIUAAcXJx.jpg"><img src="../../tweets_media/404338066418307073-BZx_VDVIUAAcXJx.jpg"></a></li></ul></div>',
+      'Where\'d that come from? <div class="gallery"><ul><li><a href="../../assets/tweet_media/404338066418307073-BZx_VDVIUAAcXJx.jpg"><img src="../../assets/tweet_media/404338066418307073-BZx_VDVIUAAcXJx.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -12238,7 +12238,7 @@ const documents = [
     createdAt: "Tue Sep 24 14:26:15 +0000 2013",
     idStr: "382511299457847296",
     content:
-      '<div class="gallery"><ul><li><a href="../../tweets_media/382511299457847296-BU7z__ZCQAAB9g4.jpg"><img src="../../tweets_media/382511299457847296-BU7z__ZCQAAB9g4.jpg"></a></li></ul></div>',
+      '<div class="gallery"><ul><li><a href="../../assets/tweet_media/382511299457847296-BU7z__ZCQAAB9g4.jpg"><img src="../../assets/tweet_media/382511299457847296-BU7z__ZCQAAB9g4.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -12333,7 +12333,7 @@ const documents = [
     createdAt: "Thu Sep 05 07:40:16 +0000 2013",
     idStr: "375523761627623424",
     content:
-      'Use your feet. <div class="gallery"><ul><li><a href="../../tweets_media/375523761627623424-BTYg3v0IAAAllw5.jpg"><img src="../../tweets_media/375523761627623424-BTYg3v0IAAAllw5.jpg"></a></li></ul></div>',
+      'Use your feet. <div class="gallery"><ul><li><a href="../../assets/tweet_media/375523761627623424-BTYg3v0IAAAllw5.jpg"><img src="../../assets/tweet_media/375523761627623424-BTYg3v0IAAAllw5.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -12386,7 +12386,7 @@ const documents = [
     createdAt: "Tue Aug 27 19:35:29 +0000 2013",
     idStr: "372442259968372737",
     content:
-      'A photo of many vegetables... <div class="gallery"><ul><li><a href="../../tweets_media/372442259968372737-BSsuQx1CMAAJtTG.jpg"><img src="../../tweets_media/372442259968372737-BSsuQx1CMAAJtTG.jpg"></a></li></ul></div>',
+      'A photo of many vegetables... <div class="gallery"><ul><li><a href="../../assets/tweet_media/372442259968372737-BSsuQx1CMAAJtTG.jpg"><img src="../../assets/tweet_media/372442259968372737-BSsuQx1CMAAJtTG.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -12571,7 +12571,7 @@ const documents = [
     createdAt: "Wed Jul 17 11:22:15 +0000 2013",
     idStr: "357460232143781890",
     content:
-      'Display for a drop-in session on the staff LGBT network at @YorkStJohn. <div class="gallery"><ul><li><a href="../../tweets_media/357460232143781890-BPX0L-6CQAEZwYS.jpg"><img src="../../tweets_media/357460232143781890-BPX0L-6CQAEZwYS.jpg"></a></li></ul></div>',
+      'Display for a drop-in session on the staff LGBT network at @YorkStJohn. <div class="gallery"><ul><li><a href="../../assets/tweet_media/357460232143781890-BPX0L-6CQAEZwYS.jpg"><img src="../../assets/tweet_media/357460232143781890-BPX0L-6CQAEZwYS.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -12611,7 +12611,7 @@ const documents = [
     createdAt: "Sun Jun 23 11:47:38 +0000 2013",
     idStr: "348769312036777984",
     content:
-      'Requiring slightly more effort to put something in landfill waste than recycling is subtle, yet no doubt effective. <div class="gallery"><ul><li><a href="../../tweets_media/348769312036777984-BNcT12jCcAAOUwl.jpg"><img src="../../tweets_media/348769312036777984-BNcT12jCcAAOUwl.jpg"></a></li></ul></div>',
+      'Requiring slightly more effort to put something in landfill waste than recycling is subtle, yet no doubt effective. <div class="gallery"><ul><li><a href="../../assets/tweet_media/348769312036777984-BNcT12jCcAAOUwl.jpg"><img src="../../assets/tweet_media/348769312036777984-BNcT12jCcAAOUwl.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "1",
   },
@@ -12714,7 +12714,7 @@ const documents = [
     createdAt: "Mon Jun 03 07:45:57 +0000 2013",
     idStr: "341460732380053504",
     content:
-      'Able-bodied people rely on cars way too much. It\'s just lazy on a day like this. <div class="gallery"><ul><li><a href="../../tweets_media/341460732380053504-BL0cuhqCAAEGmOo.jpg"><img src="../../tweets_media/341460732380053504-BL0cuhqCAAEGmOo.jpg"></a></li></ul></div>',
+      'Able-bodied people rely on cars way too much. It\'s just lazy on a day like this. <div class="gallery"><ul><li><a href="../../assets/tweet_media/341460732380053504-BL0cuhqCAAEGmOo.jpg"><img src="../../assets/tweet_media/341460732380053504-BL0cuhqCAAEGmOo.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -12831,7 +12831,7 @@ const documents = [
     createdAt: "Thu May 16 16:25:12 +0000 2013",
     idStr: "335068422016737280",
     content:
-      'The vegan stay-at-work-and-eat-in-the-canteen-to-escape-the-rain diet. <div class="gallery"><ul><li><a href="../../tweets_media/335068422016737280-BKZm9F5CIAEnLEb.jpg"><img src="../../tweets_media/335068422016737280-BKZm9F5CIAEnLEb.jpg"></a></li></ul></div>',
+      'The vegan stay-at-work-and-eat-in-the-canteen-to-escape-the-rain diet. <div class="gallery"><ul><li><a href="../../assets/tweet_media/335068422016737280-BKZm9F5CIAEnLEb.jpg"><img src="../../assets/tweet_media/335068422016737280-BKZm9F5CIAEnLEb.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -12987,7 +12987,7 @@ const documents = [
     createdAt: "Sun Apr 28 19:28:04 +0000 2013",
     idStr: "328591459114700800",
     content:
-      'Tree in the river. <div class="gallery"><ul><li><a href="../../tweets_media/328591459114700800-BI9kMO0CUAAGLS2.jpg"><img src="../../tweets_media/328591459114700800-BI9kMO0CUAAGLS2.jpg"></a></li></ul></div>',
+      'Tree in the river. <div class="gallery"><ul><li><a href="../../assets/tweet_media/328591459114700800-BI9kMO0CUAAGLS2.jpg"><img src="../../assets/tweet_media/328591459114700800-BI9kMO0CUAAGLS2.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -13043,7 +13043,7 @@ const documents = [
     createdAt: "Mon Apr 15 21:15:06 +0000 2013",
     idStr: "323907353844006913",
     content:
-      'Being vegan doesn\'t mean losing recipes. <div class="gallery"><ul><li><a href="../../tweets_media/323907353844006913-BH7ABa6CQAEXHLX.jpg"><img src="../../tweets_media/323907353844006913-BH7ABa6CQAEXHLX.jpg"></a></li></ul></div>',
+      'Being vegan doesn\'t mean losing recipes. <div class="gallery"><ul><li><a href="../../assets/tweet_media/323907353844006913-BH7ABa6CQAEXHLX.jpg"><img src="../../assets/tweet_media/323907353844006913-BH7ABa6CQAEXHLX.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -13066,7 +13066,7 @@ const documents = [
     createdAt: "Thu Apr 11 17:06:24 +0000 2013",
     idStr: "322395215233163264",
     content:
-      'Great deal... <div class="gallery"><ul><li><a href="../../tweets_media/322395215233163264-BHlgvXmCIAA3eK4.jpg"><img src="../../tweets_media/322395215233163264-BHlgvXmCIAA3eK4.jpg"></a></li></ul></div>',
+      'Great deal... <div class="gallery"><ul><li><a href="../../assets/tweet_media/322395215233163264-BHlgvXmCIAA3eK4.jpg"><img src="../../assets/tweet_media/322395215233163264-BHlgvXmCIAA3eK4.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -13227,7 +13227,7 @@ const documents = [
     createdAt: "Mon Mar 18 13:44:22 +0000 2013",
     idStr: "313647063491551232",
     content:
-      'That took a while. <div class="gallery"><ul><li><a href="../../tweets_media/313647063491551232-BFpMV6yCIAAgWLj.png"><img src="../../tweets_media/313647063491551232-BFpMV6yCIAAgWLj.png"></a></li></ul></div>',
+      'That took a while. <div class="gallery"><ul><li><a href="../../assets/tweet_media/313647063491551232-BFpMV6yCIAAgWLj.png"><img src="../../assets/tweet_media/313647063491551232-BFpMV6yCIAAgWLj.png"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -13487,7 +13487,7 @@ const documents = [
     createdAt: "Sun Feb 10 19:15:26 +0000 2013",
     idStr: "300684416722808832",
     content:
-      'I was born in the year of the goat. <div class="gallery"><ul><li><a href="../../tweets_media/300684416722808832-BCw-4kiCMAASunf.jpg"><img src="../../tweets_media/300684416722808832-BCw-4kiCMAASunf.jpg"></a></li></ul></div>',
+      'I was born in the year of the goat. <div class="gallery"><ul><li><a href="../../assets/tweet_media/300684416722808832-BCw-4kiCMAASunf.jpg"><img src="../../assets/tweet_media/300684416722808832-BCw-4kiCMAASunf.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -13645,7 +13645,7 @@ const documents = [
     createdAt: "Sun Feb 03 21:24:27 +0000 2013",
     idStr: "298180172111294464",
     content:
-      'Mmm tasty vegan chocolate. <div class="gallery"><ul><li><a href="../../tweets_media/298180172111294464-BCNZSWYCMAE7Yot.jpg"><img src="../../tweets_media/298180172111294464-BCNZSWYCMAE7Yot.jpg"></a></li></ul></div>',
+      'Mmm tasty vegan chocolate. <div class="gallery"><ul><li><a href="../../assets/tweet_media/298180172111294464-BCNZSWYCMAE7Yot.jpg"><img src="../../assets/tweet_media/298180172111294464-BCNZSWYCMAE7Yot.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -13714,7 +13714,7 @@ const documents = [
     createdAt: "Tue Jan 22 09:18:20 +0000 2013",
     idStr: "293648782963400704",
     content:
-      '<div class="gallery"><ul><li><a href="../../tweets_media/293648782963400704-BBNAAyWCYAAxAzE.png"><img src="../../tweets_media/293648782963400704-BBNAAyWCYAAxAzE.png"></a></li></ul></div>',
+      '<div class="gallery"><ul><li><a href="../../assets/tweet_media/293648782963400704-BBNAAyWCYAAxAzE.png"><img src="../../assets/tweet_media/293648782963400704-BBNAAyWCYAAxAzE.png"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -13950,7 +13950,7 @@ const documents = [
     createdAt: "Tue Jan 01 21:25:43 +0000 2013",
     idStr: "286221685571588096",
     content:
-      'NOW That\'s What I Call Side Parting <div class="gallery"><ul><li><a href="../../tweets_media/286221685571588096-A_jdG0fCEAAWl2o.jpg"><img src="../../tweets_media/286221685571588096-A_jdG0fCEAAWl2o.jpg"></a></li></ul></div>',
+      'NOW That\'s What I Call Side Parting <div class="gallery"><ul><li><a href="../../assets/tweet_media/286221685571588096-A_jdG0fCEAAWl2o.jpg"><img src="../../assets/tweet_media/286221685571588096-A_jdG0fCEAAWl2o.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -13958,7 +13958,7 @@ const documents = [
     createdAt: "Tue Jan 01 21:22:24 +0000 2013",
     idStr: "286220848216543232",
     content:
-      'Chalking Inside Out <div class="gallery"><ul><li><a href="../../tweets_media/286220848216543232-A_jcWFGCEAAEGqy.png"><img src="../../tweets_media/286220848216543232-A_jcWFGCEAAEGqy.png"></a></li></ul></div>',
+      'Chalking Inside Out <div class="gallery"><ul><li><a href="../../assets/tweet_media/286220848216543232-A_jcWFGCEAAEGqy.png"><img src="../../assets/tweet_media/286220848216543232-A_jcWFGCEAAEGqy.png"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -14128,7 +14128,7 @@ const documents = [
     createdAt: "Mon Apr 26 15:03:23 +0000 2021",
     idStr: "1386697421233823754",
     content:
-      'Skootish, the comedian <div class="gallery"><ul><li><a href="../../tweets_media/1386697421233823754-Ez6J9LYXsAQTaIi.jpg"><img src="../../tweets_media/1386697421233823754-Ez6J9LYXsAQTaIi.jpg"></a></li></ul></div>',
+      'Skootish, the comedian <div class="gallery"><ul><li><a href="../../assets/tweet_media/1386697421233823754-Ez6J9LYXsAQTaIi.jpg"><img src="../../assets/tweet_media/1386697421233823754-Ez6J9LYXsAQTaIi.jpg"></a></li></ul></div>',
     favouriteCount: "3",
     retweetCount: "0",
   },
@@ -14200,7 +14200,7 @@ const documents = [
     createdAt: "Sun Dec 16 19:01:09 +0000 2012",
     idStr: "280387100241698818",
     content:
-      '... more so in the \'more\' recent pre-mid-2009 photos. It\'s clear from this photo that Jazz has always been influential. <div class="gallery"><ul><li><a href="../../tweets_media/280387100241698818-A-QilQYCIAAjARy.jpg"><img src="../../tweets_media/280387100241698818-A-QilQYCIAAjARy.jpg"></a></li></ul></div>',
+      '... more so in the \'more\' recent pre-mid-2009 photos. It\'s clear from this photo that Jazz has always been influential. <div class="gallery"><ul><li><a href="../../assets/tweet_media/280387100241698818-A-QilQYCIAAjARy.jpg"><img src="../../assets/tweet_media/280387100241698818-A-QilQYCIAAjARy.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -14555,7 +14555,7 @@ const documents = [
     createdAt: "Thu Apr 08 22:49:58 +0000 2021",
     idStr: "1380291858341957633",
     content:
-      'Does spelling out BISTO in your CV make you an immediate hire? <div class="gallery"><ul><li><a href="../../tweets_media/1380291858341957633-EyfHxWuWUAAxaRH.png"><img src="../../tweets_media/1380291858341957633-EyfHxWuWUAAxaRH.png"></a></li></ul></div>',
+      'Does spelling out BISTO in your CV make you an immediate hire? <div class="gallery"><ul><li><a href="../../assets/tweet_media/1380291858341957633-EyfHxWuWUAAxaRH.png"><img src="../../assets/tweet_media/1380291858341957633-EyfHxWuWUAAxaRH.png"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "0",
   },
@@ -14601,7 +14601,7 @@ const documents = [
     createdAt: "Sun Oct 28 21:33:19 +0000 2012",
     idStr: "262668389049319424",
     content:
-      'Simulcara timeline - Curb Your Enthusiasm @HBO @jgarlin <div class="gallery"><ul><li><a href="../../tweets_media/262668389049319424-A6UvgheCQAAGwTR.jpg"><img src="../../tweets_media/262668389049319424-A6UvgheCQAAGwTR.jpg"></a></li></ul></div>',
+      'Simulcara timeline - Curb Your Enthusiasm @HBO @jgarlin <div class="gallery"><ul><li><a href="../../assets/tweet_media/262668389049319424-A6UvgheCQAAGwTR.jpg"><img src="../../assets/tweet_media/262668389049319424-A6UvgheCQAAGwTR.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -14793,7 +14793,7 @@ const documents = [
     createdAt: "Fri Feb 19 05:59:23 +0000 2021",
     idStr: "1362642918817861632",
     content:
-      'Looking for images for an article on methods of visualising gender and Google suggests male comes before female...<br><br>---<br><br>Image description: Google search for "gender femaleness maleness scale" - Google asks "Did you mean: gender maleness femaleness scale" <div class="gallery"><ul><li><a href="../../tweets_media/1362642918817861632-EukT6nZXAAMHF_I.png"><img src="../../tweets_media/1362642918817861632-EukT6nZXAAMHF_I.png"></a></li></ul></div>',
+      'Looking for images for an article on methods of visualising gender and Google suggests male comes before female...<br><br>---<br><br>Image description: Google search for "gender femaleness maleness scale" - Google asks "Did you mean: gender maleness femaleness scale" <div class="gallery"><ul><li><a href="../../assets/tweet_media/1362642918817861632-EukT6nZXAAMHF_I.png"><img src="../../assets/tweet_media/1362642918817861632-EukT6nZXAAMHF_I.png"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -15576,7 +15576,7 @@ const documents = [
     createdAt: "Fri Jan 01 04:05:21 +0000 2021",
     idStr: "1344857218148159495",
     content:
-      'Oh my Chrome extension "Selected Text Readability" is in the #CS50 final projects gallery: <a href="https://cs50.harvard.edu/x/2021/gallery">https://cs50.harvard.edu/x/2021/gallery</a> <div class="gallery"><ul><li><a href="../../tweets_media/1344857218148159495-EqnkEybW8AAO4qK.jpg"><img src="../../tweets_media/1344857218148159495-EqnkEybW8AAO4qK.jpg"></a></li></ul></div>',
+      'Oh my Chrome extension "Selected Text Readability" is in the #CS50 final projects gallery: <a href="https://cs50.harvard.edu/x/2021/gallery">https://cs50.harvard.edu/x/2021/gallery</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/1344857218148159495-EqnkEybW8AAO4qK.jpg"><img src="../../assets/tweet_media/1344857218148159495-EqnkEybW8AAO4qK.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -17245,7 +17245,7 @@ const documents = [
     createdAt: "Sat Aug 29 18:50:29 +0000 2020",
     idStr: "1299781485113864194",
     content:
-      'My first journal article - in which I question everyone\'s sexuality - is finally out! "Sexuality in a non-binary world: redefining and expanding the linguistic repertoire". [1/4]<br><br><a href="https://www.budrich-journals.de/index.php/insep/article/view/35952">https://www.budrich-journals.de/index.php/insep/article/view/35952</a> <div class="gallery"><ul><li><a href="../../tweets_media/1299781485113864194-EgnAGaGXkAAyuwa.png"><img src="../../tweets_media/1299781485113864194-EgnAGaGXkAAyuwa.png"></a></li></ul></div>',
+      'My first journal article - in which I question everyone\'s sexuality - is finally out! "Sexuality in a non-binary world: redefining and expanding the linguistic repertoire". [1/4]<br><br><a href="https://www.budrich-journals.de/index.php/insep/article/view/35952">https://www.budrich-journals.de/index.php/insep/article/view/35952</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/1299781485113864194-EgnAGaGXkAAyuwa.png"><img src="../../assets/tweet_media/1299781485113864194-EgnAGaGXkAAyuwa.png"></a></li></ul></div>',
     favouriteCount: "200",
     retweetCount: "39",
   },
@@ -18445,7 +18445,7 @@ const documents = [
     createdAt: "Wed Mar 25 14:05:25 +0000 2020",
     idStr: "1242814851900157952",
     content:
-      '\'Non-Binary Lives: An Anthology of Intersecting Identities\' is out 21 April. I have a chapter about transfemme stuff. Available for pre-order #nonbinary<br><br>Edited by Jos Twist @GenderBen @megjohnbarker @mixosaurus<br><br>Image description/more words on Instagram: <a href="https://www.instagram.com/p/B9Fmrf2Fyav">https://www.instagram.com/p/B9Fmrf2Fyav</a> <div class="gallery"><ul><li><a href="../../tweets_media/1242814851900157952-ET9dhGNWsAEu4JB.jpg"><img src="../../tweets_media/1242814851900157952-ET9dhGNWsAEu4JB.jpg"></a></li></ul></div>',
+      '\'Non-Binary Lives: An Anthology of Intersecting Identities\' is out 21 April. I have a chapter about transfemme stuff. Available for pre-order #nonbinary<br><br>Edited by Jos Twist @GenderBen @megjohnbarker @mixosaurus<br><br>Image description/more words on Instagram: <a href="https://www.instagram.com/p/B9Fmrf2Fyav">https://www.instagram.com/p/B9Fmrf2Fyav</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/1242814851900157952-ET9dhGNWsAEu4JB.jpg"><img src="../../assets/tweet_media/1242814851900157952-ET9dhGNWsAEu4JB.jpg"></a></li></ul></div>',
     favouriteCount: "38",
     retweetCount: "17",
   },
@@ -18492,7 +18492,7 @@ const documents = [
     createdAt: "Wed Jul 03 13:13:09 +0000 2019",
     idStr: "1146406524769771520",
     content:
-      'Turns out I\'m a champion athlete (in group 8 of 10).<br><br>Lee Valley, Local @Tennisleagues, round 21: <a href="https://localtennisleagues.com/leevalley/rounds/singles/21">https://localtennisleagues.com/leevalley/rounds/singles/21</a> [image text available here under group 8] <div class="gallery"><ul><li><a href="../../tweets_media/1146406524769771520-D-jap6WXsAA7rl0.jpg"><img src="../../tweets_media/1146406524769771520-D-jap6WXsAA7rl0.jpg"></a></li></ul></div>',
+      'Turns out I\'m a champion athlete (in group 8 of 10).<br><br>Lee Valley, Local @Tennisleagues, round 21: <a href="https://localtennisleagues.com/leevalley/rounds/singles/21">https://localtennisleagues.com/leevalley/rounds/singles/21</a> [image text available here under group 8] <div class="gallery"><ul><li><a href="../../assets/tweet_media/1146406524769771520-D-jap6WXsAA7rl0.jpg"><img src="../../assets/tweet_media/1146406524769771520-D-jap6WXsAA7rl0.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -18500,7 +18500,7 @@ const documents = [
     createdAt: "Fri Jun 21 12:18:49 +0000 2019",
     idStr: "1142044197937209346",
     content:
-      'Saw this Kung Fu Panda quote used on a presentation: "You are the master of your destiny: No one and nothing can come in between you and your destiny except you. Take destiny by the horns and have fun."<br><br>Where\'s your analysis of power structures, material inequality etc? <div class="gallery"><ul><li><a href="../../tweets_media/1142044197937209346-D9lbI0cXoAAXceg.jpg"><img src="../../tweets_media/1142044197937209346-D9lbI0cXoAAXceg.jpg"></a></li></ul></div>',
+      'Saw this Kung Fu Panda quote used on a presentation: "You are the master of your destiny: No one and nothing can come in between you and your destiny except you. Take destiny by the horns and have fun."<br><br>Where\'s your analysis of power structures, material inequality etc? <div class="gallery"><ul><li><a href="../../assets/tweet_media/1142044197937209346-D9lbI0cXoAAXceg.jpg"><img src="../../assets/tweet_media/1142044197937209346-D9lbI0cXoAAXceg.jpg"></a></li></ul></div>',
     favouriteCount: "6",
     retweetCount: "0",
   },
@@ -18572,7 +18572,7 @@ const documents = [
     createdAt: "Sat Feb 23 13:55:12 +0000 2019",
     idStr: "1099306686483968001",
     content:
-      'Can I choose to specify that I\'m non-binary @Nintendo @NintendoEurope @NintendoUK?<br><br>@CissexismDaily<br><br>[Image description: Nintendo survey for Super Smash Bros. Ultimate, showing a gender question with the options "female", "male" and "choose not to specify".] <div class="gallery"><ul><li><a href="../../tweets_media/1099306686483968001-D0GFmemWoAA1bsM.jpg"><img src="../../tweets_media/1099306686483968001-D0GFmemWoAA1bsM.jpg"></a></li></ul></div>',
+      'Can I choose to specify that I\'m non-binary @Nintendo @NintendoEurope @NintendoUK?<br><br>@CissexismDaily<br><br>[Image description: Nintendo survey for Super Smash Bros. Ultimate, showing a gender question with the options "female", "male" and "choose not to specify".] <div class="gallery"><ul><li><a href="../../assets/tweet_media/1099306686483968001-D0GFmemWoAA1bsM.jpg"><img src="../../assets/tweet_media/1099306686483968001-D0GFmemWoAA1bsM.jpg"></a></li></ul></div>',
     favouriteCount: "11",
     retweetCount: "3",
   },
@@ -18612,7 +18612,7 @@ const documents = [
     createdAt: "Tue Dec 11 02:10:18 +0000 2018",
     idStr: "1072312590162890754",
     content:
-      'I immediately thought this was Jackie Fast playing something of a self-caricaturing/parodic character two years before appearing on #TheApprentice, but no, it\'s Katherine Ryan. Show: "Sunny D" (from Dane Baptiste), episode two. <div class="gallery"><ul><li><video controls src="../../tweets_media/1072312590162890754-36qIrdduJaMPIt66.mp4?tag=6"></video></li></ul></div>',
+      'I immediately thought this was Jackie Fast playing something of a self-caricaturing/parodic character two years before appearing on #TheApprentice, but no, it\'s Katherine Ryan. Show: "Sunny D" (from Dane Baptiste), episode two. <div class="gallery"><ul><li><video controls src="../../assets/tweet_media/1072312590162890754-36qIrdduJaMPIt66.mp4?tag=6"></video></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "0",
   },
@@ -18651,7 +18651,7 @@ const documents = [
     createdAt: "Sun Nov 04 18:51:44 +0000 2018",
     idStr: "1059156258249494528",
     content:
-      'Just emailed you @GPatHand @babylonhealth, but wanted to raise it here as well. I\'d find it much easier to discuss sensitive issues in the comfort of my own home, but the compulsory binary gender field during sign-up isn\'t the best welcome to non-binary patients @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/1059156258249494528-DrLgZY7X0AAlY_8.jpg"><img src="../../tweets_media/1059156258249494528-DrLgZY7X0AAlY_8.jpg"></a></li></ul></div>',
+      'Just emailed you @GPatHand @babylonhealth, but wanted to raise it here as well. I\'d find it much easier to discuss sensitive issues in the comfort of my own home, but the compulsory binary gender field during sign-up isn\'t the best welcome to non-binary patients @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/1059156258249494528-DrLgZY7X0AAlY_8.jpg"><img src="../../assets/tweet_media/1059156258249494528-DrLgZY7X0AAlY_8.jpg"></a></li></ul></div>',
     favouriteCount: "4",
     retweetCount: "1",
   },
@@ -18770,7 +18770,7 @@ const documents = [
     createdAt: "Fri Oct 19 00:06:24 +0000 2018",
     idStr: "1053074852788224001",
     content:
-      'And fielding a question from Penny Eckert #NWAV47 <div class="gallery"><ul><li><a href="../../tweets_media/1053074852788224001-Dp1F_pnX4AAKPwq.jpg"><img src="../../tweets_media/1053074852788224001-Dp1F_pnX4AAKPwq.jpg"></a></li></ul></div>',
+      'And fielding a question from Penny Eckert #NWAV47 <div class="gallery"><ul><li><a href="../../assets/tweet_media/1053074852788224001-Dp1F_pnX4AAKPwq.jpg"><img src="../../assets/tweet_media/1053074852788224001-Dp1F_pnX4AAKPwq.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -18778,7 +18778,7 @@ const documents = [
     createdAt: "Thu Oct 18 23:20:59 +0000 2018",
     idStr: "1053063420474462208",
     content:
-      'Erez Levon of @QMULLinguistics back at alma mater @nyuniversity @nyuling giving the opening keynote at #NWAV47 <div class="gallery"><ul><li><a href="../../tweets_media/1053063420474462208-Dp07mK5WoAAP58b.jpg"><img src="../../tweets_media/1053063420474462208-Dp07mK5WoAAP58b.jpg"></a></li></ul></div>',
+      'Erez Levon of @QMULLinguistics back at alma mater @nyuniversity @nyuling giving the opening keynote at #NWAV47 <div class="gallery"><ul><li><a href="../../assets/tweet_media/1053063420474462208-Dp07mK5WoAAP58b.jpg"><img src="../../assets/tweet_media/1053063420474462208-Dp07mK5WoAAP58b.jpg"></a></li></ul></div>',
     favouriteCount: "5",
     retweetCount: "0",
   },
@@ -18936,7 +18936,7 @@ const documents = [
     createdAt: "Mon Sep 17 12:34:51 +0000 2018",
     idStr: "1041666795638280192",
     content:
-      '&gt; Receive email from @Sony addressed "Mr."*<br>&gt; Politely indicate my title is "Mx"<br>&gt; Next email: "Dear Ms."<br><br>We are not a typo!<br><br>---<br><br>* I assume they must default to male-coded title given I no longer have a male-coded name?<br><br>@CissexismDaily <div class="gallery"><ul><li><video controls loop src="../../tweets_media/1041666795638280192-DnS-bEuX0AAAIYf.mp4"></video></li></ul></div>',
+      '&gt; Receive email from @Sony addressed "Mr."*<br>&gt; Politely indicate my title is "Mx"<br>&gt; Next email: "Dear Ms."<br><br>We are not a typo!<br><br>---<br><br>* I assume they must default to male-coded title given I no longer have a male-coded name?<br><br>@CissexismDaily <div class="gallery"><ul><li><video controls loop src="../../assets/tweet_media/1041666795638280192-DnS-bEuX0AAAIYf.mp4"></video></li></ul></div>',
     favouriteCount: "6",
     retweetCount: "1",
   },
@@ -18991,7 +18991,7 @@ const documents = [
     createdAt: "Wed Sep 05 03:38:05 +0000 2018",
     idStr: "1037183059341258752",
     content:
-      'Nadal when he lost the opening set 6-0 #USOpen #USOpen2018 #VamosRafa <div class="gallery"><ul><li><video controls loop src="../../tweets_media/1037183059341258752-DmTQfDUXgAAdWhy.mp4"></video></li></ul></div>',
+      'Nadal when he lost the opening set 6-0 #USOpen #USOpen2018 #VamosRafa <div class="gallery"><ul><li><video controls loop src="../../assets/tweet_media/1037183059341258752-DmTQfDUXgAAdWhy.mp4"></video></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -19125,7 +19125,7 @@ const documents = [
     createdAt: "Sat Aug 18 23:12:05 +0000 2018",
     idStr: "1030955522906890240",
     content:
-      'Hey @okcupid, I wasn\'t "born" a gender - I was assigned one. Can you change this question? @CissexismDaily @BeingTonOKC <div class="gallery"><ul><li><a href="../../tweets_media/1030955522906890240-Dk6wlBHWwAA5me6.jpg"><img src="../../tweets_media/1030955522906890240-Dk6wlBHWwAA5me6.jpg"></a></li></ul></div>',
+      'Hey @okcupid, I wasn\'t "born" a gender - I was assigned one. Can you change this question? @CissexismDaily @BeingTonOKC <div class="gallery"><ul><li><a href="../../assets/tweet_media/1030955522906890240-Dk6wlBHWwAA5me6.jpg"><img src="../../assets/tweet_media/1030955522906890240-Dk6wlBHWwAA5me6.jpg"></a></li></ul></div>',
     favouriteCount: "16",
     retweetCount: "4",
   },
@@ -19133,7 +19133,7 @@ const documents = [
     createdAt: "Sat Aug 18 18:44:30 +0000 2018",
     idStr: "1030888184958386177",
     content:
-      'Uhmmm, what? Why are you selling queerphobic cards, @scribblercards? <div class="gallery"><ul><li><a href="../../tweets_media/1030888184958386177-Dk5y_lzW4AAf_dW.jpg"><img src="../../tweets_media/1030888184958386177-Dk5y_lzW4AAf_dW.jpg"></a></li></ul></div>',
+      'Uhmmm, what? Why are you selling queerphobic cards, @scribblercards? <div class="gallery"><ul><li><a href="../../assets/tweet_media/1030888184958386177-Dk5y_lzW4AAf_dW.jpg"><img src="../../assets/tweet_media/1030888184958386177-Dk5y_lzW4AAf_dW.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -19141,7 +19141,7 @@ const documents = [
     createdAt: "Sat Aug 18 18:33:25 +0000 2018",
     idStr: "1030885392638246914",
     content:
-      'What if I want to look at (birthday) cards that are for people of any gender (including non-binary genders) and don\'t play into/reinforce gender normativity and stereotypes, @MoonpigUK? Or what if I want to look for cards for non-binary femmes who use "them"? @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/1030885392638246914-Dk5wPc9WwAAdlIf.jpg"><img src="../../tweets_media/1030885392638246914-Dk5wPc9WwAAdlIf.jpg"></a></li></ul></div>',
+      'What if I want to look at (birthday) cards that are for people of any gender (including non-binary genders) and don\'t play into/reinforce gender normativity and stereotypes, @MoonpigUK? Or what if I want to look for cards for non-binary femmes who use "them"? @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/1030885392638246914-Dk5wPc9WwAAdlIf.jpg"><img src="../../assets/tweet_media/1030885392638246914-Dk5wPc9WwAAdlIf.jpg"></a></li></ul></div>',
     favouriteCount: "6",
     retweetCount: "1",
   },
@@ -19149,7 +19149,7 @@ const documents = [
     createdAt: "Sat Aug 18 18:25:38 +0000 2018",
     idStr: "1030883435768934401",
     content:
-      'Hey @LOCCITANE_UK, not all your customers use these four titles - please add "Mx" (and ideally a free text field), which is used by many non-binary folk. Good that the field is optional but we should be allowed to use our actual title if we want @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/1030883435768934401-Dk5ugzuXsAE0XSP.jpg"><img src="../../tweets_media/1030883435768934401-Dk5ugzuXsAE0XSP.jpg"></a></li></ul></div>',
+      'Hey @LOCCITANE_UK, not all your customers use these four titles - please add "Mx" (and ideally a free text field), which is used by many non-binary folk. Good that the field is optional but we should be allowed to use our actual title if we want @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/1030883435768934401-Dk5ugzuXsAE0XSP.jpg"><img src="../../assets/tweet_media/1030883435768934401-Dk5ugzuXsAE0XSP.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "1",
   },
@@ -19180,7 +19180,7 @@ const documents = [
     createdAt: "Sat Aug 11 01:17:07 +0000 2018",
     idStr: "1028087884132364288",
     content:
-      '"Customer is not pissed off". Guessing that note wasn\'t meant for me, @JustEatUK? Nevertheless, I do love the use of "pissed off" - I\'m all for destablising normativity and deformalising what constitutes professional etiquette. But please don\'t "she" me... @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/1028087884132364288-DkSAd1QXcAU3cTl.jpg"><img src="../../tweets_media/1028087884132364288-DkSAd1QXcAU3cTl.jpg"></a></li></ul></div>',
+      '"Customer is not pissed off". Guessing that note wasn\'t meant for me, @JustEatUK? Nevertheless, I do love the use of "pissed off" - I\'m all for destablising normativity and deformalising what constitutes professional etiquette. But please don\'t "she" me... @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/1028087884132364288-DkSAd1QXcAU3cTl.jpg"><img src="../../assets/tweet_media/1028087884132364288-DkSAd1QXcAU3cTl.jpg"></a></li></ul></div>',
     favouriteCount: "3",
     retweetCount: "1",
   },
@@ -19188,7 +19188,7 @@ const documents = [
     createdAt: "Thu Aug 09 20:57:42 +0000 2018",
     idStr: "1027660211224539138",
     content:
-      'Why does my phone always (in)correct "non-binary" to "bobcat"?<br><br>Sidenote: I wonder if I\'ve ever not noticed and told someone my gender is bobcat... #nonbinary #nb #enby #trans #transgender #gender<br><br>Image: contact form; message about including non-binary people ends "I\'m bobcat" <div class="gallery"><ul><li><a href="../../tweets_media/1027660211224539138-DkL7gfAX0AA0lxl.jpg"><img src="../../tweets_media/1027660211224539138-DkL7gfAX0AA0lxl.jpg"></a></li></ul></div>',
+      'Why does my phone always (in)correct "non-binary" to "bobcat"?<br><br>Sidenote: I wonder if I\'ve ever not noticed and told someone my gender is bobcat... #nonbinary #nb #enby #trans #transgender #gender<br><br>Image: contact form; message about including non-binary people ends "I\'m bobcat" <div class="gallery"><ul><li><a href="../../assets/tweet_media/1027660211224539138-DkL7gfAX0AA0lxl.jpg"><img src="../../assets/tweet_media/1027660211224539138-DkL7gfAX0AA0lxl.jpg"></a></li></ul></div>',
     favouriteCount: "5",
     retweetCount: "0",
   },
@@ -19204,7 +19204,7 @@ const documents = [
     createdAt: "Fri Aug 03 20:46:20 +0000 2018",
     idStr: "1025483025654657024",
     content:
-      'Seen people post about anxieties over the burden of instant communication on social media/elsewhere. I totally agree/empathise. I struggle to keep up with life, and instant communication culture is a part of that/something that easily drops off. Here\'s one week just on Facebook. <div class="gallery"><ul><li><a href="../../tweets_media/1025483025654657024-Djs-1caXoAsn6YU.jpg"><img src="../../tweets_media/1025483025654657024-Djs-1caXoAsn6YU.jpg"></a></li></ul></div>',
+      'Seen people post about anxieties over the burden of instant communication on social media/elsewhere. I totally agree/empathise. I struggle to keep up with life, and instant communication culture is a part of that/something that easily drops off. Here\'s one week just on Facebook. <div class="gallery"><ul><li><a href="../../assets/tweet_media/1025483025654657024-Djs-1caXoAsn6YU.jpg"><img src="../../assets/tweet_media/1025483025654657024-Djs-1caXoAsn6YU.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -19236,7 +19236,7 @@ const documents = [
     createdAt: "Wed Aug 01 15:17:33 +0000 2018",
     idStr: "1024675508494262272",
     content:
-      'WOMAN. Can the press stop making gender/race/religion/age etc relevant/prominent where it isn\'t/shouldn\'t be? <div class="gallery"><ul><li><a href="../../tweets_media/1024675508494262272-Djhg7-RX0AE8wRk.jpg"><img src="../../tweets_media/1024675508494262272-Djhg7-RX0AE8wRk.jpg"></a></li></ul></div>',
+      'WOMAN. Can the press stop making gender/race/religion/age etc relevant/prominent where it isn\'t/shouldn\'t be? <div class="gallery"><ul><li><a href="../../assets/tweet_media/1024675508494262272-Djhg7-RX0AE8wRk.jpg"><img src="../../assets/tweet_media/1024675508494262272-Djhg7-RX0AE8wRk.jpg"></a></li></ul></div>',
     favouriteCount: "1",
     retweetCount: "0",
   },
@@ -19369,7 +19369,7 @@ const documents = [
     createdAt: "Fri Jul 27 23:43:42 +0000 2018",
     idStr: "1022990948228325376",
     content:
-      'Revision to Wikipedia page to remove deadname rejected. Rejection responded to... Anyone else have thoughts on this/other contexts where deadnames might appear? @CissexismDaily<br><br>Text version of rejection notice and my response: <a href="https://docs.google.com/document/d/1z7HSmIbC1Tfy-mLp_ZnxvTZXTDeW44IPqUJ-T0Q7hQU/edit?usp=sharing">https://docs.google.com/document/d/1z7HSmIbC1Tfy-mLp_ZnxvTZXTDeW44IPqUJ-T0Q7hQU/edit?usp=sharing</a> <div class="gallery"><ul><li><a href="../../tweets_media/1022990948228325376-DjJj3jnX4AYZ_Rt.jpg"><img src="../../tweets_media/1022990948228325376-DjJj3jnX4AYZ_Rt.jpg"></a></li><li><a href="../../tweets_media/1022990948228325376-DjJj4FMXsAAPn6s.jpg"><img src="../../tweets_media/1022990948228325376-DjJj4FMXsAAPn6s.jpg"></a></li></ul></div>',
+      'Revision to Wikipedia page to remove deadname rejected. Rejection responded to... Anyone else have thoughts on this/other contexts where deadnames might appear? @CissexismDaily<br><br>Text version of rejection notice and my response: <a href="https://docs.google.com/document/d/1z7HSmIbC1Tfy-mLp_ZnxvTZXTDeW44IPqUJ-T0Q7hQU/edit?usp=sharing">https://docs.google.com/document/d/1z7HSmIbC1Tfy-mLp_ZnxvTZXTDeW44IPqUJ-T0Q7hQU/edit?usp=sharing</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/1022990948228325376-DjJj3jnX4AYZ_Rt.jpg"><img src="../../assets/tweet_media/1022990948228325376-DjJj3jnX4AYZ_Rt.jpg"></a></li><li><a href="../../assets/tweet_media/1022990948228325376-DjJj4FMXsAAPn6s.jpg"><img src="../../assets/tweet_media/1022990948228325376-DjJj4FMXsAAPn6s.jpg"></a></li></ul></div>',
     favouriteCount: "6",
     retweetCount: "1",
   },
@@ -19385,7 +19385,7 @@ const documents = [
     createdAt: "Fri Jul 27 19:49:37 +0000 2018",
     idStr: "1022932037781610497",
     content:
-      'Remembered I\'m on @Wikipedia and under my old name, so I changed it. Let\'s hope it sticks. Also asked @CityofYork to amend their website. Important to many trans people that records reflect their chosen name and current identity. <div class="gallery"><ul><li><a href="../../tweets_media/1022932037781610497-DjIun5yXsAAHkNN.jpg"><img src="../../tweets_media/1022932037781610497-DjIun5yXsAAHkNN.jpg"></a></li></ul></div>',
+      'Remembered I\'m on @Wikipedia and under my old name, so I changed it. Let\'s hope it sticks. Also asked @CityofYork to amend their website. Important to many trans people that records reflect their chosen name and current identity. <div class="gallery"><ul><li><a href="../../assets/tweet_media/1022932037781610497-DjIun5yXsAAHkNN.jpg"><img src="../../assets/tweet_media/1022932037781610497-DjIun5yXsAAHkNN.jpg"></a></li></ul></div>',
     favouriteCount: "8",
     retweetCount: "2",
   },
@@ -19423,7 +19423,7 @@ const documents = [
     createdAt: "Mon Jul 23 20:24:24 +0000 2018",
     idStr: "1021491237801615361",
     content:
-      'Whaaaaat? The biggest conference in my field and I get these comments from reviewers. Shiiiit. Take that imposter syndrome! Validation. Looks like I\'m going to New York for the second time this year, representing @QMULLinguistics once again! <div class="gallery"><ul><li><a href="../../tweets_media/1021491237801615361-Di0Q2SNW0AIdEpA.jpg"><img src="../../tweets_media/1021491237801615361-Di0Q2SNW0AIdEpA.jpg"></a></li><li><a href="../../tweets_media/1021491237801615361-Di0Q29UX0AAm77M.jpg"><img src="../../tweets_media/1021491237801615361-Di0Q29UX0AAm77M.jpg"></a></li></ul></div>',
+      'Whaaaaat? The biggest conference in my field and I get these comments from reviewers. Shiiiit. Take that imposter syndrome! Validation. Looks like I\'m going to New York for the second time this year, representing @QMULLinguistics once again! <div class="gallery"><ul><li><a href="../../assets/tweet_media/1021491237801615361-Di0Q2SNW0AIdEpA.jpg"><img src="../../assets/tweet_media/1021491237801615361-Di0Q2SNW0AIdEpA.jpg"></a></li><li><a href="../../assets/tweet_media/1021491237801615361-Di0Q29UX0AAm77M.jpg"><img src="../../assets/tweet_media/1021491237801615361-Di0Q29UX0AAm77M.jpg"></a></li></ul></div>',
     favouriteCount: "50",
     retweetCount: "3",
   },
@@ -19439,7 +19439,7 @@ const documents = [
     createdAt: "Mon Jul 23 17:53:30 +0000 2018",
     idStr: "1021453264162783232",
     content:
-      '.@MetroBank_Help pleased "Mx" and non-binary available in online signup. Online failed for me, but also pleased to be asked preferred title when signing up in store. But misgendered by telephone customer service staff with "sir" - can (mis)assumptions not be made? @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/1021453264162783232-DiztjNeW0AAls-e.jpg"><img src="../../tweets_media/1021453264162783232-DiztjNeW0AAls-e.jpg"></a></li></ul></div>',
+      '.@MetroBank_Help pleased "Mx" and non-binary available in online signup. Online failed for me, but also pleased to be asked preferred title when signing up in store. But misgendered by telephone customer service staff with "sir" - can (mis)assumptions not be made? @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/1021453264162783232-DiztjNeW0AAls-e.jpg"><img src="../../assets/tweet_media/1021453264162783232-DiztjNeW0AAls-e.jpg"></a></li></ul></div>',
     favouriteCount: "6",
     retweetCount: "1",
   },
@@ -19447,7 +19447,7 @@ const documents = [
     createdAt: "Sun Jul 22 12:20:09 +0000 2018",
     idStr: "1021006986685689856",
     content:
-      'Seen in a group: "labels are for clothes I\'m just gay"... <div class="gallery"><ul><li><video controls loop src="../../tweets_media/1021006986685689856-DitYcBXWkAAqv3x.mp4"></video></li></ul></div>',
+      'Seen in a group: "labels are for clothes I\'m just gay"... <div class="gallery"><ul><li><video controls loop src="../../assets/tweet_media/1021006986685689856-DitYcBXWkAAqv3x.mp4"></video></li></ul></div>',
     favouriteCount: "3",
     retweetCount: "0",
   },
@@ -19502,7 +19502,7 @@ const documents = [
     createdAt: "Thu Jul 19 06:41:27 +0000 2018",
     idStr: "1019834586266824705",
     content:
-      'Heading to #TNIB #TNIB18 and @TPrideBrighton #transpride #transpridebrighton which together mark my femmiversary (in a way). More words here: <a href="https://www.instagram.com/p/BlZu1NflGja">https://www.instagram.com/p/BlZu1NflGja</a> <div class="gallery"><ul><li><a href="../../tweets_media/1019834586266824705-DicuH2OW0AABLS5.jpg"><img src="../../tweets_media/1019834586266824705-DicuH2OW0AABLS5.jpg"></a></li><li><a href="../../tweets_media/1019834586266824705-DicuIruWsAETcmN.jpg"><img src="../../tweets_media/1019834586266824705-DicuIruWsAETcmN.jpg"></a></li></ul></div>',
+      'Heading to #TNIB #TNIB18 and @TPrideBrighton #transpride #transpridebrighton which together mark my femmiversary (in a way). More words here: <a href="https://www.instagram.com/p/BlZu1NflGja">https://www.instagram.com/p/BlZu1NflGja</a> <div class="gallery"><ul><li><a href="../../assets/tweet_media/1019834586266824705-DicuH2OW0AABLS5.jpg"><img src="../../assets/tweet_media/1019834586266824705-DicuH2OW0AABLS5.jpg"></a></li><li><a href="../../assets/tweet_media/1019834586266824705-DicuIruWsAETcmN.jpg"><img src="../../assets/tweet_media/1019834586266824705-DicuIruWsAETcmN.jpg"></a></li></ul></div>',
     favouriteCount: "6",
     retweetCount: "0",
   },
@@ -19534,7 +19534,7 @@ const documents = [
     createdAt: "Sun Jul 15 14:39:56 +0000 2018",
     idStr: "1018505450298531841",
     content:
-      'Ordering pronoun stickers for @nonbinaryldn and only have binary title options in a compulsory field... @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/1018505450298531841-DiJ1B2VW0AAnHaB.jpg"><img src="../../tweets_media/1018505450298531841-DiJ1B2VW0AAnHaB.jpg"></a></li></ul></div>',
+      'Ordering pronoun stickers for @nonbinaryldn and only have binary title options in a compulsory field... @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/1018505450298531841-DiJ1B2VW0AAnHaB.jpg"><img src="../../assets/tweet_media/1018505450298531841-DiJ1B2VW0AAnHaB.jpg"></a></li></ul></div>',
     favouriteCount: "5",
     retweetCount: "2",
   },
@@ -19542,7 +19542,7 @@ const documents = [
     createdAt: "Tue Jul 10 13:41:20 +0000 2018",
     idStr: "1016678762476425217",
     content:
-      'Please sort out your systems and forms for next year @Wimbledon so that trans/non-binary people are included by default and not misgendered at any point. Also good to advise announcers to use more inclusive phrases than "ladies and gentlemen" @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/1016678762476425217-Dhv38GlW0AAE9os.jpg"><img src="../../tweets_media/1016678762476425217-Dhv38GlW0AAE9os.jpg"></a></li></ul></div>',
+      'Please sort out your systems and forms for next year @Wimbledon so that trans/non-binary people are included by default and not misgendered at any point. Also good to advise announcers to use more inclusive phrases than "ladies and gentlemen" @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/1016678762476425217-Dhv38GlW0AAE9os.jpg"><img src="../../assets/tweet_media/1016678762476425217-Dhv38GlW0AAE9os.jpg"></a></li></ul></div>',
     favouriteCount: "3",
     retweetCount: "3",
   },
@@ -19661,7 +19661,7 @@ const documents = [
     createdAt: "Sat Jun 23 00:23:53 +0000 2018",
     idStr: "1010317483851513864",
     content:
-      'When @CoopBankUK have been shit before about changing title (asking for deed poll when most titles are not legally-bound) and after going in branch requesting title and name change with deed poll you receive mail with the WRONG title c.f. @monzo who made it easy @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/1010317483851513864-DgVeZMAWsAcXWNF.jpg"><img src="../../tweets_media/1010317483851513864-DgVeZMAWsAcXWNF.jpg"></a></li></ul></div>',
+      'When @CoopBankUK have been shit before about changing title (asking for deed poll when most titles are not legally-bound) and after going in branch requesting title and name change with deed poll you receive mail with the WRONG title c.f. @monzo who made it easy @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/1010317483851513864-DgVeZMAWsAcXWNF.jpg"><img src="../../assets/tweet_media/1010317483851513864-DgVeZMAWsAcXWNF.jpg"></a></li></ul></div>',
     favouriteCount: "5",
     retweetCount: "1",
   },
@@ -19685,7 +19685,7 @@ const documents = [
     createdAt: "Fri Jun 22 11:30:44 +0000 2018",
     idStr: "1010122913930936320",
     content:
-      'I\'m guessing this is used for marketing purposes, but either way you need to recognise non-binary people @ASOS. It would be great to move away from conceiving clothes as gendered, but for now how about two separate fields: gender and "show me", which can be "both" @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/1010122913930936320-DgSs9NIX4AE2mYU.jpg"><img src="../../tweets_media/1010122913930936320-DgSs9NIX4AE2mYU.jpg"></a></li></ul></div>',
+      'I\'m guessing this is used for marketing purposes, but either way you need to recognise non-binary people @ASOS. It would be great to move away from conceiving clothes as gendered, but for now how about two separate fields: gender and "show me", which can be "both" @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/1010122913930936320-DgSs9NIX4AE2mYU.jpg"><img src="../../assets/tweet_media/1010122913930936320-DgSs9NIX4AE2mYU.jpg"></a></li></ul></div>',
     favouriteCount: "12",
     retweetCount: "4",
   },
@@ -19709,7 +19709,7 @@ const documents = [
     createdAt: "Mon May 21 23:45:19 +0000 2018",
     idStr: "998711364838359042",
     content:
-      'This dating app for queer people of all genders seems cool: @ThurstHQ <a href="https://nowthisnews.com/videos/future/virtual-intimacy-morgen-bromells-dating-app-thurst">https://nowthisnews.com/videos/future/virtual-intimacy-morgen-bromells-dating-app-thurst</a>. Shame about the misgendering in the @nowthisnews article, especially when Morgan states their pronouns very clearly in the video... hope it gets fixed soon! @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/998711364838359042-DdwircVUwAEb29C.jpg"><img src="../../tweets_media/998711364838359042-DdwircVUwAEb29C.jpg"></a></li></ul></div>',
+      'This dating app for queer people of all genders seems cool: @ThurstHQ <a href="https://nowthisnews.com/videos/future/virtual-intimacy-morgen-bromells-dating-app-thurst">https://nowthisnews.com/videos/future/virtual-intimacy-morgen-bromells-dating-app-thurst</a>. Shame about the misgendering in the @nowthisnews article, especially when Morgan states their pronouns very clearly in the video... hope it gets fixed soon! @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/998711364838359042-DdwircVUwAEb29C.jpg"><img src="../../assets/tweet_media/998711364838359042-DdwircVUwAEb29C.jpg"></a></li></ul></div>',
     favouriteCount: "7",
     retweetCount: "1",
   },
@@ -19717,7 +19717,7 @@ const documents = [
     createdAt: "Mon May 14 14:31:22 +0000 2018",
     idStr: "996035243692961792",
     content:
-      'After seven years as yndajas, I\'ve changed my username to @yndajas.<br><br>(I\'m in the process of a name change, shifting towards Ynda. Pronunciation: <a href="http://yndajas.co/ynda-jas">http://yndajas.co/ynda-jas</a>) <div class="gallery"><ul><li><a href="../../tweets_media/996035243692961792-DdKgRveWkAMPTHo.jpg"><img src="../../tweets_media/996035243692961792-DdKgRveWkAMPTHo.jpg"></a></li></ul></div>',
+      'After seven years as yndajas, I\'ve changed my username to @yndajas.<br><br>(I\'m in the process of a name change, shifting towards Ynda. Pronunciation: <a href="http://yndajas.co/ynda-jas">http://yndajas.co/ynda-jas</a>) <div class="gallery"><ul><li><a href="../../assets/tweet_media/996035243692961792-DdKgRveWkAMPTHo.jpg"><img src="../../assets/tweet_media/996035243692961792-DdKgRveWkAMPTHo.jpg"></a></li></ul></div>',
     favouriteCount: "7",
     retweetCount: "0",
   },
@@ -19725,7 +19725,7 @@ const documents = [
     createdAt: "Thu May 03 02:35:12 +0000 2018",
     idStr: "991868748586876929",
     content:
-      'Whaaaaat? Since when does Mykki Blanco follow me? <div class="gallery"><ul><li><a href="../../tweets_media/991868748586876929-DcPTStFXUAAhOwI.jpg"><img src="../../tweets_media/991868748586876929-DcPTStFXUAAhOwI.jpg"></a></li></ul></div>',
+      'Whaaaaat? Since when does Mykki Blanco follow me? <div class="gallery"><ul><li><a href="../../assets/tweet_media/991868748586876929-DcPTStFXUAAhOwI.jpg"><img src="../../assets/tweet_media/991868748586876929-DcPTStFXUAAhOwI.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "0",
   },
@@ -19797,7 +19797,7 @@ const documents = [
     createdAt: "Sun Apr 22 14:33:46 +0000 2018",
     idStr: "988063315296473088",
     content:
-      'Talking about /s/ production in a women\'s football team, @SalinaCuddy from @UoYLangLing - excited to see how this research has developed! #LavLang25 <div class="gallery"><ul><li><a href="../../tweets_media/988063315296473088-DbZOV3YXcAA-N8b.jpg"><img src="../../tweets_media/988063315296473088-DbZOV3YXcAA-N8b.jpg"></a></li></ul></div>',
+      'Talking about /s/ production in a women\'s football team, @SalinaCuddy from @UoYLangLing - excited to see how this research has developed! #LavLang25 <div class="gallery"><ul><li><a href="../../assets/tweet_media/988063315296473088-DbZOV3YXcAA-N8b.jpg"><img src="../../assets/tweet_media/988063315296473088-DbZOV3YXcAA-N8b.jpg"></a></li></ul></div>',
     favouriteCount: "3",
     retweetCount: "0",
   },
@@ -19813,7 +19813,7 @@ const documents = [
     createdAt: "Sat Apr 21 20:50:40 +0000 2018",
     idStr: "987795776708530176",
     content:
-      'Highly appropriate that we surpass the 500-member mark at the 25th @Lavlang! #LavLang25 <div class="gallery"><ul><li><a href="../../tweets_media/987795776708530176-DbVbBR1X0AA_xiu.jpg"><img src="../../tweets_media/987795776708530176-DbVbBR1X0AA_xiu.jpg"></a></li></ul></div>',
+      'Highly appropriate that we surpass the 500-member mark at the 25th @Lavlang! #LavLang25 <div class="gallery"><ul><li><a href="../../assets/tweet_media/987795776708530176-DbVbBR1X0AA_xiu.jpg"><img src="../../assets/tweet_media/987795776708530176-DbVbBR1X0AA_xiu.jpg"></a></li></ul></div>',
     favouriteCount: "7",
     retweetCount: "1",
   },
@@ -19852,7 +19852,7 @@ const documents = [
     createdAt: "Sat Apr 21 15:11:47 +0000 2018",
     idStr: "987710497305890817",
     content:
-      'Love the idea of a (social) proximity effect on misgendering from @scordoban, the metaphor of a thousand paper cuts (I think of it as a sucker punch), and the visual representation @scordoban conceptualised and I helped prettify for a previous co-presentation! #LavLang25 <div class="gallery"><ul><li><a href="../../tweets_media/987710497305890817-DbUNb6rW4AAcRf7.jpg"><img src="../../tweets_media/987710497305890817-DbUNb6rW4AAcRf7.jpg"></a></li><li><a href="../../tweets_media/987710497305890817-DbUNcoSWkAA81YZ.jpg"><img src="../../tweets_media/987710497305890817-DbUNcoSWkAA81YZ.jpg"></a></li><li><a href="../../tweets_media/987710497305890817-DbUNdPIX4AAdEYB.jpg"><img src="../../tweets_media/987710497305890817-DbUNdPIX4AAdEYB.jpg"></a></li></ul></div>',
+      'Love the idea of a (social) proximity effect on misgendering from @scordoban, the metaphor of a thousand paper cuts (I think of it as a sucker punch), and the visual representation @scordoban conceptualised and I helped prettify for a previous co-presentation! #LavLang25 <div class="gallery"><ul><li><a href="../../assets/tweet_media/987710497305890817-DbUNb6rW4AAcRf7.jpg"><img src="../../assets/tweet_media/987710497305890817-DbUNb6rW4AAcRf7.jpg"></a></li><li><a href="../../assets/tweet_media/987710497305890817-DbUNcoSWkAA81YZ.jpg"><img src="../../assets/tweet_media/987710497305890817-DbUNcoSWkAA81YZ.jpg"></a></li><li><a href="../../assets/tweet_media/987710497305890817-DbUNdPIX4AAdEYB.jpg"><img src="../../assets/tweet_media/987710497305890817-DbUNdPIX4AAdEYB.jpg"></a></li></ul></div>',
     favouriteCount: "11",
     retweetCount: "4",
   },
@@ -19860,7 +19860,7 @@ const documents = [
     createdAt: "Sat Apr 21 14:56:14 +0000 2018",
     idStr: "987706579985338368",
     content:
-      'Talking about non-binary genders and language from an interdisciplinary linguist is and psychology approach, @scordoban #LavLang25 <div class="gallery"><ul><li><a href="../../tweets_media/987706579985338368-DbUJ5RdXUAIOed4.jpg"><img src="../../tweets_media/987706579985338368-DbUJ5RdXUAIOed4.jpg"></a></li></ul></div>',
+      'Talking about non-binary genders and language from an interdisciplinary linguist is and psychology approach, @scordoban #LavLang25 <div class="gallery"><ul><li><a href="../../assets/tweet_media/987706579985338368-DbUJ5RdXUAIOed4.jpg"><img src="../../assets/tweet_media/987706579985338368-DbUJ5RdXUAIOed4.jpg"></a></li></ul></div>',
     favouriteCount: "6",
     retweetCount: "2",
   },
@@ -19906,7 +19906,7 @@ const documents = [
     createdAt: "Sat Apr 21 13:44:09 +0000 2018",
     idStr: "987688442036400129",
     content:
-      'The four types of variation being known/unknown (pragmatic differences, relevance and quantity), friendly/hostile (affective uses), private/public (differences in social relationships) and real/fanciful (uses of in-group identity and solidarity). Exciting work! #LavLang25 <div class="gallery"><ul><li><a href="../../tweets_media/987688442036400129-DbT5ZP2VQAAGvP6.jpg"><img src="../../tweets_media/987688442036400129-DbT5ZP2VQAAGvP6.jpg"></a></li></ul></div>',
+      'The four types of variation being known/unknown (pragmatic differences, relevance and quantity), friendly/hostile (affective uses), private/public (differences in social relationships) and real/fanciful (uses of in-group identity and solidarity). Exciting work! #LavLang25 <div class="gallery"><ul><li><a href="../../assets/tweet_media/987688442036400129-DbT5ZP2VQAAGvP6.jpg"><img src="../../assets/tweet_media/987688442036400129-DbT5ZP2VQAAGvP6.jpg"></a></li></ul></div>',
     favouriteCount: "2",
     retweetCount: "2",
   },
@@ -19914,7 +19914,7 @@ const documents = [
     createdAt: "Sat Apr 21 13:41:06 +0000 2018",
     idStr: "987687675435061248",
     content:
-      'A call from @kirbyconrod for sociolinguists to go out and collect examples of third person pronouns in "natural" use so they can explore these four types of variation. How? Get people to talk about each other! I\'m in(terested)! #LavLang25 #LavLang25 <div class="gallery"><ul><li><a href="../../tweets_media/987687675435061248-DbT4svpU0AY8xqs.jpg"><img src="../../tweets_media/987687675435061248-DbT4svpU0AY8xqs.jpg"></a></li></ul></div>',
+      'A call from @kirbyconrod for sociolinguists to go out and collect examples of third person pronouns in "natural" use so they can explore these four types of variation. How? Get people to talk about each other! I\'m in(terested)! #LavLang25 #LavLang25 <div class="gallery"><ul><li><a href="../../assets/tweet_media/987687675435061248-DbT4svpU0AY8xqs.jpg"><img src="../../assets/tweet_media/987687675435061248-DbT4svpU0AY8xqs.jpg"></a></li></ul></div>',
     favouriteCount: "22",
     retweetCount: "8",
   },
@@ -19922,7 +19922,7 @@ const documents = [
     createdAt: "Sat Apr 21 12:52:38 +0000 2018",
     idStr: "987675475622486016",
     content:
-      'A whole panel on non-binarity and pronouns - how exciting! Featuring @kirbyconrod Jordan Tudisco @MaliHH @scordoban #LavLang25 <div class="gallery"><ul><li><a href="../../tweets_media/987675475622486016-DbTtmuCX0AAh_0W.jpg"><img src="../../tweets_media/987675475622486016-DbTtmuCX0AAh_0W.jpg"></a></li></ul></div>',
+      'A whole panel on non-binarity and pronouns - how exciting! Featuring @kirbyconrod Jordan Tudisco @MaliHH @scordoban #LavLang25 <div class="gallery"><ul><li><a href="../../assets/tweet_media/987675475622486016-DbTtmuCX0AAh_0W.jpg"><img src="../../assets/tweet_media/987675475622486016-DbTtmuCX0AAh_0W.jpg"></a></li></ul></div>',
     favouriteCount: "12",
     retweetCount: "3",
   },
@@ -19937,7 +19937,7 @@ const documents = [
     createdAt: "Fri Apr 20 23:34:06 +0000 2018",
     idStr: "987474520796786690",
     content:
-      '<div class="gallery"><ul><li><a href="../../tweets_media/987474520796786690-DbQ212lX0AE4oHx.jpg"><img src="../../tweets_media/987474520796786690-DbQ212lX0AE4oHx.jpg"></a></li></ul></div>',
+      '<div class="gallery"><ul><li><a href="../../assets/tweet_media/987474520796786690-DbQ212lX0AE4oHx.jpg"><img src="../../assets/tweet_media/987474520796786690-DbQ212lX0AE4oHx.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -20017,7 +20017,7 @@ const documents = [
     createdAt: "Fri Apr 20 19:39:47 +0000 2018",
     idStr: "987415553282396160",
     content:
-      'De nada! Let\'s use our networks (e.g. those in my earlier tweet) to help each other out! Support queer research! #LavLang25 <div class="gallery"><ul><li><a href="../../tweets_media/987415553282396160-DbQBNMHWsAEHqTn.jpg"><img src="../../tweets_media/987415553282396160-DbQBNMHWsAEHqTn.jpg"></a></li></ul></div>',
+      'De nada! Let\'s use our networks (e.g. those in my earlier tweet) to help each other out! Support queer research! #LavLang25 <div class="gallery"><ul><li><a href="../../assets/tweet_media/987415553282396160-DbQBNMHWsAEHqTn.jpg"><img src="../../assets/tweet_media/987415553282396160-DbQBNMHWsAEHqTn.jpg"></a></li></ul></div>',
     favouriteCount: "3",
     retweetCount: "1",
   },
@@ -20041,7 +20041,7 @@ const documents = [
     createdAt: "Fri Apr 20 15:22:20 +0000 2018",
     idStr: "987350760563335169",
     content:
-      '.@stamatinakat of @QMULLinguistics presenting her research on the interrelation of sexual and national identity construction in talk and Greek homosexuality at #LavLang25 <div class="gallery"><ul><li><a href="../../tweets_media/987350760563335169-DbPGRleWsAAqD_j.jpg"><img src="../../tweets_media/987350760563335169-DbPGRleWsAAqD_j.jpg"></a></li></ul></div>',
+      '.@stamatinakat of @QMULLinguistics presenting her research on the interrelation of sexual and national identity construction in talk and Greek homosexuality at #LavLang25 <div class="gallery"><ul><li><a href="../../assets/tweet_media/987350760563335169-DbPGRleWsAAqD_j.jpg"><img src="../../assets/tweet_media/987350760563335169-DbPGRleWsAAqD_j.jpg"></a></li></ul></div>',
     favouriteCount: "4",
     retweetCount: "4",
   },
@@ -20049,7 +20049,7 @@ const documents = [
     createdAt: "Fri Apr 20 15:20:21 +0000 2018",
     idStr: "987350261688623106",
     content:
-      '.@elvisgomes90 of @QMULLinguistics presenting his work on normative regulations of discourses about misunderstood sexual obsessions at #LavLang25 <div class="gallery"><ul><li><a href="../../tweets_media/987350261688623106-DbPF0m7X4AE8VRF.jpg"><img src="../../tweets_media/987350261688623106-DbPF0m7X4AE8VRF.jpg"></a></li></ul></div>',
+      '.@elvisgomes90 of @QMULLinguistics presenting his work on normative regulations of discourses about misunderstood sexual obsessions at #LavLang25 <div class="gallery"><ul><li><a href="../../assets/tweet_media/987350261688623106-DbPF0m7X4AE8VRF.jpg"><img src="../../assets/tweet_media/987350261688623106-DbPF0m7X4AE8VRF.jpg"></a></li></ul></div>',
     favouriteCount: "4",
     retweetCount: "4",
   },
@@ -20065,7 +20065,7 @@ const documents = [
     createdAt: "Fri Apr 20 11:14:37 +0000 2018",
     idStr: "987288423995191297",
     content:
-      'Looking forward to delivering a short presentation on my PhD project looking at the sociophonetics of Southern English queer and genderqueer/non-binary speech at #LavLang25 @Lavlang today in Providence, Rhode Island. I\'m first up - pressure! <div class="gallery"><ul><li><a href="../../tweets_media/987288423995191297-DbONlLuXkAA-7pT.jpg"><img src="../../tweets_media/987288423995191297-DbONlLuXkAA-7pT.jpg"></a></li></ul></div>',
+      'Looking forward to delivering a short presentation on my PhD project looking at the sociophonetics of Southern English queer and genderqueer/non-binary speech at #LavLang25 @Lavlang today in Providence, Rhode Island. I\'m first up - pressure! <div class="gallery"><ul><li><a href="../../assets/tweet_media/987288423995191297-DbONlLuXkAA-7pT.jpg"><img src="../../assets/tweet_media/987288423995191297-DbONlLuXkAA-7pT.jpg"></a></li></ul></div>',
     favouriteCount: "13",
     retweetCount: "1",
   },
@@ -20073,7 +20073,7 @@ const documents = [
     createdAt: "Tue Apr 17 10:51:12 +0000 2018",
     idStr: "986195367397068802",
     content:
-      'Can I prefer to tell you I\'m non-binary, @Sony? @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/986195367397068802-Da-rcn1XcAAiwgQ.jpg"><img src="../../tweets_media/986195367397068802-Da-rcn1XcAAiwgQ.jpg"></a></li></ul></div>',
+      'Can I prefer to tell you I\'m non-binary, @Sony? @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/986195367397068802-Da-rcn1XcAAiwgQ.jpg"><img src="../../assets/tweet_media/986195367397068802-Da-rcn1XcAAiwgQ.jpg"></a></li></ul></div>',
     favouriteCount: "19",
     retweetCount: "2",
   },
@@ -20081,7 +20081,7 @@ const documents = [
     createdAt: "Thu Apr 12 17:38:20 +0000 2018",
     idStr: "984485885239578625",
     content:
-      'What are you asking for (sex or gender?) and why, @MoneySavingExp? Can non-binary people get insurance? @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/984485885239578625-DamYsIFWAAMYbZ2.jpg"><img src="../../tweets_media/984485885239578625-DamYsIFWAAMYbZ2.jpg"></a></li></ul></div>',
+      'What are you asking for (sex or gender?) and why, @MoneySavingExp? Can non-binary people get insurance? @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/984485885239578625-DamYsIFWAAMYbZ2.jpg"><img src="../../assets/tweet_media/984485885239578625-DamYsIFWAAMYbZ2.jpg"></a></li></ul></div>',
     favouriteCount: "6",
     retweetCount: "3",
   },
@@ -20097,7 +20097,7 @@ const documents = [
     createdAt: "Sat Mar 31 21:27:56 +0000 2018",
     idStr: "980195013224271872",
     content:
-      'It\'s Trans Day of Visibility. Document bad shit @CissexismDaily. Today I was hypervisible in a dress at a wedding reception, highly gendered context difficult if not cis-passing but today a good experience with supportive friends. More on Instagram: <a href="https://www.instagram.com/p/BhAKBXMnchD/">https://www.instagram.com/p/BhAKBXMnchD/</a> #TDoV <div class="gallery"><ul><li><a href="../../tweets_media/980195013224271872-DZpaJbiWsAIcW3s.jpg"><img src="../../tweets_media/980195013224271872-DZpaJbiWsAIcW3s.jpg"></a></li></ul></div>',
+      'It\'s Trans Day of Visibility. Document bad shit @CissexismDaily. Today I was hypervisible in a dress at a wedding reception, highly gendered context difficult if not cis-passing but today a good experience with supportive friends. More on Instagram: <a href="https://www.instagram.com/p/BhAKBXMnchD/">https://www.instagram.com/p/BhAKBXMnchD/</a> #TDoV <div class="gallery"><ul><li><a href="../../assets/tweet_media/980195013224271872-DZpaJbiWsAIcW3s.jpg"><img src="../../assets/tweet_media/980195013224271872-DZpaJbiWsAIcW3s.jpg"></a></li></ul></div>',
     favouriteCount: "20",
     retweetCount: "2",
   },
@@ -20174,7 +20174,7 @@ const documents = [
     createdAt: "Sat Mar 17 15:31:39 +0000 2018",
     idStr: "975031919015579648",
     content:
-      'At @vivacampaigns vegan festival in London and I\'d love to fill in the questionnaire but it looks like only females and males are allowed. In a talk: 8 fruit/veg a day for women; 10 for men. What about all us trans and non-binary vegans? @CissexismDaily <div class="gallery"><ul><li><a href="../../tweets_media/975031919015579648-DYgCWlhX0AAyo0F.jpg"><img src="../../tweets_media/975031919015579648-DYgCWlhX0AAyo0F.jpg"></a></li></ul></div>',
+      'At @vivacampaigns vegan festival in London and I\'d love to fill in the questionnaire but it looks like only females and males are allowed. In a talk: 8 fruit/veg a day for women; 10 for men. What about all us trans and non-binary vegans? @CissexismDaily <div class="gallery"><ul><li><a href="../../assets/tweet_media/975031919015579648-DYgCWlhX0AAyo0F.jpg"><img src="../../assets/tweet_media/975031919015579648-DYgCWlhX0AAyo0F.jpg"></a></li></ul></div>',
     favouriteCount: "8",
     retweetCount: "3",
   },
@@ -20182,7 +20182,7 @@ const documents = [
     createdAt: "Fri Mar 09 17:57:09 +0000 2018",
     idStr: "972169433203449856",
     content:
-      'Hey progressives! Naked Attraction tweeted me. I responded. Am I missing anything? Is this show actually not as bad as it sounds? <div class="gallery"><ul><li><a href="../../tweets_media/972169433203449856-DX3W7oRWkAAkYwn.jpg"><img src="../../tweets_media/972169433203449856-DX3W7oRWkAAkYwn.jpg"></a></li></ul></div>',
+      'Hey progressives! Naked Attraction tweeted me. I responded. Am I missing anything? Is this show actually not as bad as it sounds? <div class="gallery"><ul><li><a href="../../assets/tweet_media/972169433203449856-DX3W7oRWkAAkYwn.jpg"><img src="../../assets/tweet_media/972169433203449856-DX3W7oRWkAAkYwn.jpg"></a></li></ul></div>',
     favouriteCount: "0",
     retweetCount: "0",
   },
@@ -20246,7 +20246,7 @@ const documents = [
     createdAt: "Sat Mar 03 11:17:40 +0000 2018",
     idStr: "969894572141809664",
     content:
-      'That was a rush! Anyone interested in checking out @scordoban and my slides in more detail, I\'ll hopefully make them available soon! For now, here\'s the example gender map and underlying system! (More explanation needed!) #contemporarygender <div class="gallery"><ul><li><a href="../../tweets_media/969894572141809664-DXXB8tTW0AAMnZT.jpg"><img src="../../tweets_media/969894572141809664-DXXB8tTW0AAMnZT.jpg"></a></li><li><a href="../../tweets_media/969894572141809664-DXXB9n0WsAAS3Wd.jpg"><img src="../../tweets_media/969894572141809664-DXXB9n0WsAAS3Wd.jpg"></a></li></ul></div>',
+      'That was a rush! Anyone interested in checking out @scordoban and my slides in more detail, I\'ll hopefully make them available soon! For now, here\'s the example gender map and underlying system! (More explanation needed!) #contemporarygender <div class="gallery"><ul><li><a href="../../assets/tweet_media/969894572141809664-DXXB8tTW0AAMnZT.jpg"><img src="../../assets/tweet_media/969894572141809664-DXXB8tTW0AAMnZT.jpg"></a></li><li><a href="../../assets/tweet_media/969894572141809664-DXXB9n0WsAAS3Wd.jpg"><img src="../../assets/tweet_media/969894572141809664-DXXB9n0WsAAS3Wd.jpg"></a></li></ul></div>',
     favouriteCount: "4",
     retweetCount: "4",
   },

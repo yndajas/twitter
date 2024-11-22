@@ -101,13 +101,16 @@ function generateDocumentHtml(document) {
     <div class="tweet__content">${document.content}</div>
     <div class="metadata">
       <div>${new Date(document.createdAt).toLocaleString()}</div>
-      <div><a href="yndajas/status/${document.idStr}">permalink</a></div>
+      <div><a href="posts/${document.idStr}">permalink</a></div>
     </div>
     <div class="metadata">
       <div>Favourites: ${document.favouriteCount}</div>
       <div>Retweets: ${document.retweetCount}</div>
     </div>
-  </article>`.replace(/\.\.\/\.\.\/tweets_media\//g, "yndajas/tweets_media/");
+  </article>`.replace(
+    /\.\.\/\.\.\/assets\/tweet_media\//g,
+    "assets/tweet_media/"
+  );
 }
 
 let browseDocuments = documents.toSorted(function (a, b) {
