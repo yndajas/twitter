@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "format:html": "npx prettier --write index.html && npx prettier --write posts/**/*.html"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
