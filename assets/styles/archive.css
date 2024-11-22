@@ -1,0 +1,164 @@
+main,
+footer {
+  display: block;
+  max-width: 600px;
+  margin: 0 auto;
+  word-wrap: break-word;
+}
+
+div.jump-link-container {
+  display: block;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+p.intro {
+  margin: var(--spacing-standard);
+}
+
+nav {
+  border: 0.15rem solid var(--colour-violet-blue);
+}
+
+nav button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+nav button:not(:first-child) {
+  margin-left: calc(var(--spacing-standard) / 2);
+}
+
+nav, article.tweet {
+  max-width: 600px;
+  margin-top: var(--spacing-standard);
+  margin-bottom: var(--spacing-standard);
+  padding: var(--spacing-standard);
+
+  font-family: sans-serif;
+
+  border-radius: var(--spacing-standard);
+  background-color: var(--colour-candy-dreams);
+}
+
+#tabs {
+  font-size: 1.2rem;
+}
+
+#nav__browse-tab,
+#nav__search-tab,
+article.tweet div.tweet__content {
+  background-color: var(--colour-workout-routine);
+  padding: var(--spacing-standard);
+}
+
+#nav__browse-tab,
+#nav__search-tab {
+  margin: 0 calc(var(--spacing-standard) * -1) calc(var(--spacing-standard) * -1);
+  border-bottom-left-radius: var(--spacing-standard);
+  border-bottom-right-radius: var(--spacing-standard);
+}
+
+nav button {
+  text-decoration-color: var(--colour-violet-blue);
+  text-decoration-thickness: 0.15rem;
+  text-decoration-line: underline;
+}
+
+nav button.active {
+  font-weight: 700;
+}
+
+#tabs {
+  margin-bottom: var(--spacing-standard);
+}
+
+#page-number {
+  width: 50px;
+}
+
+#search {
+  display: flex;
+  align-items: center;
+}
+
+#search-input {
+  flex: 1;
+  margin-left: var(--spacing-standard);
+}
+
+div.sorting {
+  margin-top: var(--spacing-standard);
+}
+
+p.loading-message {
+  margin-top: var(--spacing-standard);
+}
+
+article.tweet.parent,
+article.tweet.child {
+  background-color: var(--colour-candy-dreams-60pc);
+}
+
+article.tweet.parent {
+  max-width: calc(600px - 64px);
+  margin-right: 64px;
+  margin-bottom: var(--spacing-standard);
+}
+
+article.tweet.child {
+  max-width: calc(600px - 64px);
+  margin-left: 64px;
+}
+
+article.tweet div.tweet__content {
+  margin: calc(var(--spacing-standard) * -1) calc(var(--spacing-standard) * -1) 0;
+}
+
+article.tweet.parent div.tweet__content,
+article.tweet.child div.tweet__content {
+  background-color: var(--colour-workout-routine-80pc);
+}
+
+article.tweet p.name {
+  margin-top: 0;
+  margin-bottom: var(--spacing-standard);
+}
+
+article.tweet p.name + div.tweet__content {
+  margin-top: 0;
+}
+
+#browse-output article.tweet div.tweet__content,
+#search-output article.tweet div.tweet__content {
+  border-top-left-radius: var(--spacing-standard);
+  border-top-right-radius: var(--spacing-standard);
+}
+
+article.tweet ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+article.tweet video,
+article.tweet img,
+article.tweet ul {
+  margin-bottom: 0;
+}
+
+article.tweet div.metadata:first-child {
+  margin-bottom: var(--spacing-standard);
+}
+
+article.tweet div.tweet__content + div.metadata {
+  margin-top: var(--spacing-standard);
+}
+
+article.tweet div.metadata div {
+  display: inline-block;
+}
+
+article.tweet div.metadata div:not(:first-child) {
+  margin-left: var(--spacing-standard);
+}

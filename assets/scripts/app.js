@@ -1,10 +1,14 @@
 const elements = {
-  browse: document.getElementById("browse"),
-  browseOutput: document.getElementById("browse-output"),
-  browseTab: document.getElementById("browse-tab"),
-  search: document.getElementById("search"),
-  searchOutput: document.getElementById("search-output"),
-  searchTab: document.getElementById("search-tab"),
+  navTabs: {
+    browse: document.getElementById("nav__browse-tab"),
+    browseButton: document.getElementById("nav__browse-tab-button"),
+    search: document.getElementById("nav__search-tab"),
+    searchButton: document.getElementById("nav__search-tab-button"),
+  },
+  output: {
+    browse: document.getElementById("browse-output"),
+    search: document.getElementById("search-output"),
+  },
   sort: {
     browse: {
       mostPopular: document.getElementById("browse-sort__most-popular"),
@@ -27,32 +31,34 @@ var index = new FlexSearch.Document({
     return cjkItems.concat(asciiItems);
   },
   document: {
-    id: "id_str",
-    index: ["full_text"],
+    id: "idStr",
+    index: ["content"],
     store: true,
   },
 });
 
 for (doc of documents) {
   index.add({
-    id_str: doc.id_str,
-    created_at: doc.created_at,
-    full_text: doc.full_text,
-    favorite_count: doc.favorite_count,
-    retweet_count: doc.retweet_count,
+    idStr: doc.idStr,
+    createdAt: doc.createdAt,
+    content: doc.content,
+    favouriteCount: doc.favouriteCount,
+    retweetCount: doc.retweetCount,
   });
 }
 
-document.getElementById("loading").hidden = true;
+Array.from(document.getElementsByClassName("loading-message")).forEach(
+  (element) => (element.hidden = true)
+);
 
 function sortDocuments(documentsToSort, sorting) {
   switch (sorting) {
     case "mostPopular":
       documentsToSort.sort(function (a, b) {
         return (
-          +b.favorite_count +
-          +b.retweet_count -
-          (+a.favorite_count + +a.retweet_count)
+          +b.favouriteCount +
+          +b.retweetCount -
+          (+a.favouriteCount + +a.retweetCount)
         );
       });
       break;
@@ -63,12 +69,12 @@ function sortDocuments(documentsToSort, sorting) {
       break;
     case "newestFirst":
       documentsToSort.sort(function (a, b) {
-        return new Date(b.created_at) - new Date(a.created_at);
+        return new Date(b.createdAt) - new Date(a.createdAt);
       });
       break;
     case "oldestFirst":
       documentsToSort.sort(function (a, b) {
-        return new Date(a.created_at) - new Date(b.created_at);
+        return new Date(a.createdAt) - new Date(b.createdAt);
       });
       break;
   }
@@ -90,32 +96,35 @@ function displayActiveSort(context, sorting) {
   });
 }
 
+function generateDocumentHtml(document) {
+  return `<article class="tweet">
+    <div class="tweet__content">${document.content}</div>
+    <div class="metadata">
+      <div>${new Date(document.createdAt).toLocaleString()}</div>
+      <div><a href="yndajas/status/${document.idStr}">permalink</a></div>
+    </div>
+    <div class="metadata">
+      <div>Favourites: ${document.favouriteCount}</div>
+      <div>Retweets: ${document.retweetCount}</div>
+    </div>
+  </article>`.replace(/\.\.\/\.\.\/tweets_media\//g, "yndajas/tweets_media/");
+}
+
 let browseDocuments = documents.toSorted(function (a, b) {
   return (
-    +b.favorite_count +
-    +b.retweet_count -
-    (+a.favorite_count + +a.retweet_count)
+    +b.favouriteCount + +b.retweetCount - (+a.favouriteCount + +a.retweetCount)
   );
 });
 
 function renderBrowseDocuments() {
   const output = browseDocuments
     .slice(browseIndex, browseIndex + pageSize)
-    .map((item) =>
-      `<p class="search_item"><div class="search_link"><a href="yndajas/status/${
-        item.id_str
-      }">link</a></div> <div class="search_text">${
-        item.full_text
-      }</div><div class="search_time">${new Date(
-        item.created_at
-      ).toLocaleString()}</div><hr class="search_divider" /></p>`.replace(
-        /\.\.\/\.\.\/tweets_media\//g,
-        "yndajas/tweets_media/"
-      )
-    );
-  elements.browseOutput.innerHTML = `${output.join(
+    .map(generateDocumentHtml);
+  elements.output.browse.innerHTML = `${output.join(
     ""
-  )}<a href="#tabs">top &uarr;</a>`;
+  )}<div class="jump-link-container">
+      <a href="#navigation">↑ return to top</a>
+    </div>`;
 }
 
 function sortBrowseDocuments(sorting) {
@@ -127,21 +136,12 @@ function sortBrowseDocuments(sorting) {
 let searchDocuments;
 
 function renderSearchDocuments() {
-  const output = searchDocuments.map((item) =>
-    `<p class="search_item"><div class="search_link"><a href="yndajas/status/${
-      item.id_str
-    }">link</a></div> <div class="search_text">${
-      item.full_text
-    }</div><div class="search_time">${new Date(
-      item.created_at
-    ).toLocaleString()}</div><hr class="search_divider" /></p>`.replace(
-      /\.\.\/\.\.\/tweets_media\//g,
-      "yndajas/tweets_media/"
-    )
-  );
-  elements.searchOutput.innerHTML = output.join("");
+  const output = searchDocuments.map(generateDocumentHtml);
+  elements.output.search.innerHTML = output.join("");
   if (searchDocuments.length > 0) {
-    elements.searchOutput.innerHTML += '<a href="#tabs">top &uarr;</a>';
+    elements.output.search.innerHTML += `<div class="jump-link-container">
+        <a href="#navigation">↑ return to top</a>
+      </div>`;
   }
 }
 
@@ -171,17 +171,21 @@ document
   .addEventListener("input", onSearchChange);
 
 function selectSearchTab() {
-  elements.searchTab.classList.add("active");
-  elements.browseTab.classList.remove("active");
-  elements.browse.hidden = true;
-  elements.search.hidden = false;
+  elements.navTabs.browseButton.classList.remove("active");
+  elements.navTabs.browse.hidden = true;
+  elements.output.browse.hidden = true;
+  elements.navTabs.searchButton.classList.add("active");
+  elements.navTabs.search.hidden = false;
+  elements.output.search.hidden = false;
 }
 
 function selectBrowseTab() {
-  elements.browseTab.classList.add("active");
-  elements.searchTab.classList.remove("active");
-  elements.search.hidden = true;
-  elements.browse.hidden = false;
+  elements.navTabs.searchButton.classList.remove("active");
+  elements.navTabs.search.hidden = true;
+  elements.output.search.hidden = true;
+  elements.navTabs.browseButton.classList.add("active");
+  elements.navTabs.browse.hidden = false;
+  elements.output.browse.hidden = false;
 }
 
 const pageSize = 50;
@@ -196,7 +200,7 @@ function onPageNumChange(e) {
   renderBrowseDocuments();
 }
 
-const pageNumElement = document.getElementById("page-num");
+const pageNumElement = document.getElementById("page-number");
 pageNumElement.addEventListener("input", onPageNumChange);
 pageNumElement.value = +page;
 pageNumElement.max = pageMax;

@@ -4,127 +4,131 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>@yndajas Twitter archive</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="assets/styles/reset.css" />
+    <link rel="stylesheet" href="assets/styles/main.css" />
+    <link rel="stylesheet" href="assets/styles/archive.css" />
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
   </head>
   <body>
-    <div class="wrapper">
-      <div class="flex-wrap">
-        <h1>Ynda's Twitter archive (@yndajas)</h1>
-        <div id="intro">
-          <p>
-            This is an archive of tweets from the @yndajas account, which is
-            likely closed by the time you're reading this. Replies to and
-            retweets of other people are not included.
-          </p>
-          <p>
-            Click on the "link" at the start of any tweet to open it in a
-            dedicated page and see any replies I posted, e.g. when writing a
-            thread.
-          </p>
-          <p>
-            These days, you can probably find me on
-            <a href="https://www.instagram.com/yndajas">Instagram</a>,
-            <a href="https://tech.lgbt/@YndaJas">Mastodon</a> (low output), or
-            <a href="https://github.com/yndajas">GitHub</a>. You can also check
-            out my
-            <a href="https://yndajas.github.io/simple-website"
-              >'simple website'</a
-            >, which might well be very outdated!
-          </p>
-        </div>
-        <div class="tweet">
-          <p id="tabs">
-            <button
-              class="tab active"
-              id="browse-tab"
-              onclick="selectBrowseTab()"
-            >
-              Browse</button
-            ><button class="tab" id="search-tab" onclick="selectSearchTab()">
-              Search
-            </button>
-          </p>
-          <hr class="hr" />
-          <p id="loading">Loading documents...</p>
-          <div id="browse">
-            <div class="sorting">
-              Sort by:
-              <button
-                id="browse-sort__most-popular"
-                class="active"
-                onclick="sortBrowseDocuments('MostPopular')"
-              >
-                most popular
-              </button>
-              |
-              <button
-                id="browse-sort__newest-first"
-                onclick="sortBrowseDocuments('NewestFirst')"
-              >
-                newest first
-              </button>
-              |
-              <button
-                id="browse-sort__oldest-first"
-                onclick="sortBrowseDocuments('OldestFirst')"
-              >
-                oldest first
-              </button>
-            </div>
-            <p id="paging">
-              Page <input id="page-num" type="number" /> of
-              <span id="page-total">...</span>
-            </p>
-            <div id="browse-output"></div>
-          </div>
-          <div id="search" hidden>
-            <input id="search-input" type="search" />
-            <div class="sorting">
-              Sort by:
-              <button
-                id="search-sort__most-relevant"
-                class="active"
-                onclick="sortSearchDocuments('MostRelevant')"
-              >
-                most relevant
-              </button>
-              |
-              <button
-                id="search-sort__most-popular"
-                onclick="sortSearchDocuments('MostPopular')"
-              >
-                most popular
-              </button>
-              |
-              <button
-                id="search-sort__newest-first"
-                onclick="sortSearchDocuments('NewestFirst')"
-              >
-                newest first
-              </button>
-              |
-              <button
-                id="search-sort__oldest-first"
-                onclick="sortSearchDocuments('OldestFirst')"
-              >
-                oldest first
-              </button>
-            </div>
-            <div id="search-output"></div>
-          </div>
-        </div>
-        <p>
-          This site was made with
-          <a href="https://tinysubversions.com/twitter-archive/make-your-own"
-            >Darius Kazemi's Twitter archiving tool</a
-          >. You can check out the
-          <a href="https://github.com/yndajas/twitter">source code on GitHub</a
-          >.
-        </p>
+    <main>
+      <h1>@yndajas Twitter archive</h1>
+      <div class="jump-link-container">
+        <a href="#navigation">↓ skip to tweets</a>
       </div>
-    </div>
+      <p class="intro">
+        This is an archive of tweets from the @yndajas account, which is likely
+        closed by the time you're reading this.
+      </p>
+      <p class="intro">
+        Click on the permalink for any tweet to open it in a dedicated page and
+        see the full thread (only my tweets) where applicable.
+      </p>
+      <p class="intro">
+        These days, you can probably find me on
+        <a href="https://www.instagram.com/yndajas">Instagram</a>,
+        <a href="https://tech.lgbt/@YndaJas">Mastodon</a> (low output), or
+        <a href="https://github.com/yndajas">GitHub</a>. You can also check out
+        my
+        <a href="https://yndajas.github.io/simple-website">'simple website'</a>,
+        which might well be very outdated!
+      </p>
+
+      <nav id="navigation">
+        <p id="tabs">
+          <button
+            class="tab active"
+            id="nav__browse-tab-button"
+            onclick="selectBrowseTab()"
+          >
+            Browse</button
+          ><button
+            class="tab"
+            id="nav__search-tab-button"
+            onclick="selectSearchTab()"
+          >
+            Search
+          </button>
+        </p>
+        <div id="nav__browse-tab">
+          <p>
+            <label for="page-number">Page</label>
+            <input id="page-number" type="number" /> of
+            <span id="page-total">...</span>
+          </p>
+          <div class="sorting">
+            Sort by:
+            <button
+              id="browse-sort__most-popular"
+              class="active"
+              onclick="sortBrowseDocuments('mostPopular')"
+            >
+              most popular</button
+            ><button
+              id="browse-sort__newest-first"
+              onclick="sortBrowseDocuments('newestFirst')"
+            >
+              newest first</button
+            ><button
+              id="browse-sort__oldest-first"
+              onclick="sortBrowseDocuments('oldestFirst')"
+            >
+              oldest first
+            </button>
+          </div>
+          <p class="loading-message">Loading documents...</p>
+        </div>
+        <div id="nav__search-tab" hidden>
+          <div id="search">
+            <label for="search-input">Search term(s)</label>
+            <input id="search-input" type="search" />
+          </div>
+          <div class="sorting">
+            Sort by:
+            <button
+              id="search-sort__most-relevant"
+              class="active"
+              onclick="sortSearchDocuments('mostRelevant')"
+            >
+              most relevant</button
+            ><button
+              id="search-sort__most-popular"
+              onclick="sortSearchDocuments('mostPopular')"
+            >
+              most popular</button
+            ><button
+              id="search-sort__newest-first"
+              onclick="sortSearchDocuments('newestFirst')"
+            >
+              newest first</button
+            ><button
+              id="search-sort__oldest-first"
+              onclick="sortSearchDocuments('oldestFirst')"
+            >
+              oldest first
+            </button>
+            <p class="loading-message">Loading documents...</p>
+          </div>
+        </div>
+      </nav>
+      <div id="browse-output"></div>
+      <div id="search-output" hidden></div>
+    </main>
+    <footer>
+      <p>
+        This site was made with
+        <a href="https://tinysubversions.com/twitter-archive/make-your-own"
+          >Darius Kazemi's Twitter archiving tool</a
+        >. You can check out the
+        <a href="https://github.com/yndajas/twitter">source code on GitHub</a>.
+      </p>
+      <p>
+        Replies to and retweets of other people are not included. Some content
+        has been modified in a rather naïve way in order to remove deadnames.
+        Links in such content might be broken.
+      </p>
+    </footer>
   </body>
-  <script src="documents.js"></script>
+  <script src="assets/scripts/documents.js"></script>
   <script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
-  <script src="app.js"></script>
+  <script src="assets/scripts/app.js"></script>
 </html>

@@ -1,0 +1,88 @@
+:root {
+  --colour-violet-blue: oklch(41.72% 0.232 287.78);
+  --colour-violet-heaven: oklch(82.87% 0.092 302.31);
+  --colour-candy-dreams: oklch(82.73% 0.091 322.1);
+  --colour-candy-dreams-60pc: oklch(82.73% 0.091 322.1 / 0.6);
+  --colour-pink-chintz: oklch(85.31% 0.064 354.71);
+  --colour-aromatic-breeze: oklch(89.81% 0.053 29.63);
+  --colour-workout-routine: oklch(89.27% 0.105 81.54);
+  --colour-workout-routine-80pc: oklch(89.27% 0.105 81.54 / 0.8);
+  --spacing-standard: 1rem;
+  --spacing-max-container-width: 50rem;
+}
+
+body {
+  padding: var(--spacing-standard);
+  font-family: sans-serif;
+  background-color: var(--colour-pink-chintz);
+}
+
+header,
+main,
+footer {
+  max-width: var(--spacing-max-container-width);
+  margin: 0 auto;
+}
+
+h1 {
+  margin-top: var(--spacing-standard);
+  margin-bottom: var(--spacing-standard);
+  text-align: center;
+}
+
+section {
+/* section, article { */
+  margin-top: var(--spacing-standard);
+  margin-bottom: var(--spacing-standard);
+  padding: var(--spacing-standard);
+
+  background-color: var(--colour-candy-dreams);
+  border-radius: var(--spacing-standard);
+}
+
+p,
+li {
+  max-width: 80ch;
+}
+
+ul[role="list"],
+ol[role="list"] {
+  padding: 0;
+}
+
+ul[role="list"] li,
+ol[role="list"] li {
+  width: fit-content;
+  margin-top: var(--spacing-standard);
+  margin-bottom: var(--spacing-standard);
+  padding: var(--spacing-standard);
+
+  background-color: var(--colour-workout-routine);
+  border-radius: var(--spacing-standard);
+}
+
+a {
+  text-decoration-color: var(--colour-violet-blue);
+  text-decoration-thickness: 0.15rem;
+  transition: color 0.25s ease-out;
+}
+
+a,
+a:visited {
+  color: inherit;
+}
+
+a:active,
+a:focus,
+a:focus-within,
+a:hover {
+  color: var(--colour-violet-blue);
+}
+
+img {
+  margin: var(--spacing-standard) auto;
+}
+
+footer p {
+  margin: var(--spacing-standard);
+}
