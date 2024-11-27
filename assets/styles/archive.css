@@ -7,9 +7,14 @@ footer {
 }
 
 div.jump-link-container {
+  background-color: var(--colour-pink-chintz);
   display: block;
-  margin-bottom: 16px;
+  margin: calc(var(--spacing-standard) / 2 * -1) 0;
+  padding: calc(var(--spacing-standard) / 2);
+  position: sticky;
   text-align: center;
+  top: 0;
+  width: 100%;
 }
 
 p.intro {

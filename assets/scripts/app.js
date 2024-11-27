@@ -124,11 +124,7 @@ function renderBrowseDocuments() {
   const output = browseDocuments
     .slice(browseIndex, browseIndex + pageSize)
     .map(generateDocumentHtml);
-  elements.output.browse.innerHTML = `${output.join(
-    ""
-  )}<div class="jump-link-container">
-      <a href="#navigation">↑ return to top</a>
-    </div>`;
+  elements.output.browse.innerHTML = output.join("");
 }
 
 function sortBrowseDocuments(sorting) {
@@ -142,11 +138,6 @@ let searchDocuments;
 function renderSearchDocuments() {
   const output = searchDocuments.map(generateDocumentHtml);
   elements.output.search.innerHTML = output.join("");
-  if (searchDocuments.length > 0) {
-    elements.output.search.innerHTML += `<div class="jump-link-container">
-        <a href="#navigation">↑ return to top</a>
-      </div>`;
-  }
 }
 
 function sortSearchDocuments(sorting) {
