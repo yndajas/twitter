@@ -9,6 +9,7 @@ const elements = {
     browse: document.getElementById("browse-output"),
     search: document.getElementById("search-output"),
   },
+  pageNumberInput: document.getElementById("page-number"),
   sort: {
     browse: {
       mostPopular: document.getElementById("browse-sort__most-popular"),
@@ -201,6 +202,20 @@ function onPageNumChange(e) {
   page = e.target.value;
   browseIndex = (page - 1) * pageSize;
   renderBrowseDocuments();
+}
+
+function incrementPage() {
+  if (parseInt(page) === pageMax) return;
+  elements.pageNumberInput.value =
+    parseInt(elements.pageNumberInput.value, 10) + 1;
+  elements.pageNumberInput.dispatchEvent(new Event("input"));
+}
+
+function decrementPage() {
+  if (parseInt(page) === 1) return;
+  elements.pageNumberInput.value =
+    parseInt(elements.pageNumberInput.value, 10) - 1;
+  elements.pageNumberInput.dispatchEvent(new Event("input"));
 }
 
 const pageNumElement = document.getElementById("page-number");

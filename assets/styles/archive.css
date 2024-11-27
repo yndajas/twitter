@@ -74,6 +74,16 @@ nav button.active {
   margin-bottom: var(--spacing-standard);
 }
 
+#paging button {
+  display: none;
+}
+
+@media (hover: none) {
+  #paging button {
+    display: unset;
+  }
+}
+
 #page-number {
   width: 50px;
 }

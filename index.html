@@ -50,10 +50,12 @@
           </button>
         </p>
         <div id="nav__browse-tab">
-          <p>
+          <p id="paging">
             <label for="page-number">Page</label>
             <input id="page-number" type="number" /> of
             <span id="page-total">...</span>
+            <button onclick="incrementPage()">next page</button>
+            <button onclick="decrementPage()">previous page</button>
           </p>
           <div class="sorting">
             Sort by:
